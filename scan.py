@@ -32,13 +32,23 @@ def scan(ip):
 		client_list.append(client_dict)
 	return client_list
 
-def get_mac_vendor(mac_address):
-    with open("macDict.csv", "r") as f:
+def build_mac_vendor_map(filename):
+    mac_vendor_map = {}
+    with open(filename, "r") as f:
         reader = csv.reader(f)
         for row in reader:
-            if row[0].upper() == mac_address.upper(): 
-                return row[1]
-    return "Unknown"
+            if len(row) >= 2:  # Ensure the row has at least MAC and vendor columns
+                mac_vendor_map[row[0].upper()] = row[1] 
+    print(mac_vendor_map)
+    return mac_vendor_map
+
+def get_mac_vendor(mac_address, mac_vendor_map):
+    return mac_vendor_map.get(mac_address.upper(), "Unknown")
+
+# Example Usage:
+#mac_address = "00:11:22:33:44:55" 
+#vendor = get_mac_vendor(mac_address, mac_vendor_map)
+#print(f"Vendor for {mac_address}: {vendor}")
 
 def print_result(result_list):
     """
@@ -54,5 +64,6 @@ def print_result(result_list):
 
 # Main function
 options=get_arguments()
+mac_vendor_map = build_mac_vendor_map("macDict.csv")
 scan_result = scan(options.ip)
 print_result(scan_result)
