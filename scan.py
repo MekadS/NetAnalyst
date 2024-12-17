@@ -1,4 +1,4 @@
-#spyder 17122024 4:45pm
+#spyder 17122024 4:55pm
 #!/usr/bin/env python
 #runfile('D:/Network_Projects/NetAnalyst/scan.py', args="-t 10.10.0.1/24", wdir='D:/Network_Projects/NetAnalyst')
 
@@ -32,17 +32,7 @@ def scan(ip):
 		client_list.append(client_dict)
 	return client_list
 
-# def build_mac_vendor_map(filename):
-#     mac_vendor_map = {}
-#     with open(filename, "r") as f:
-#         reader = csv.reader(f)
-#         for row in reader:
-#             if len(row) >= 2:  # Ensure the row has at least MAC and vendor columns
-#                 mac_vendor_map[row[0].upper()] = row[1] 
-#     #print(mac_vendor_map)
-#     return mac_vendor_map
-
-
+#dictionary to store the registered mac addresses and their vendor names
 def build_mac_vendor_map(filename):
     mac_vendor_map = {}
     with open(filename, "r") as f:
@@ -53,7 +43,6 @@ def build_mac_vendor_map(filename):
                 # Extract the first three octets of the MAC address
                 short_mac = mac_address[:8]
                 mac_vendor_map[short_mac] = row[2]
-                # mac_vendor_map[short_mac] = row[1]
             
     return mac_vendor_map
 
@@ -61,24 +50,17 @@ def get_mac_vendor(mac_short, mac_vendor_map):
     return mac_vendor_map.get(mac_short.upper(), "Unknown")
 
 def print_result(result_list):
+    print(len(result_list), "devices found")
     print("IP\t\t\t\t\tMAC_Address\t\t\t\t\tVendor")
-    print("----------------------------------------------------------")
+    print("-------------------------------------------------------------------------")
     for client in result_list:
         mac_short = client["mac"][:8]
         vendor = get_mac_vendor(mac_short,mac_vendor_map)
         print(f"{client['ip']}\t\t\t{client['mac']}\t\t\t{vendor}")
-        
-        #print(f"{client['ip']}\t\t\t{client['mac']}")
-
 
 
 # Main function
 options=get_arguments()
-mac_vendor_map = build_mac_vendor_map("fTestDict.csv")
-#mac_vendor_map = build_mac_vendor_map("macDict.csv")
+mac_vendor_map = build_mac_vendor_map("macAddDict.csv")
 scan_result = scan(options.ip)
 print_result(scan_result)
-
-#TESTING
-# last_key, last_value = list(mac_vendor_map.items())[-1]
-# print(last_key, last_value)
