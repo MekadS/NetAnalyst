@@ -32,38 +32,52 @@ def scan(ip):
 		client_list.append(client_dict)
 	return client_list
 
+# def build_mac_vendor_map(filename):
+#     mac_vendor_map = {}
+#     with open(filename, "r") as f:
+#         reader = csv.reader(f)
+#         for row in reader:
+#             if len(row) >= 2:  # Ensure the row has at least MAC and vendor columns
+#                 mac_vendor_map[row[0].upper()] = row[1] 
+#     #print(mac_vendor_map)
+#     return mac_vendor_map
+
+
 def build_mac_vendor_map(filename):
     mac_vendor_map = {}
     with open(filename, "r") as f:
         reader = csv.reader(f)
         for row in reader:
-            if len(row) >= 2:  # Ensure the row has at least MAC and vendor columns
-                mac_vendor_map[row[0].upper()] = row[1] 
+            if len(row) >= 2:
+                mac_address = row[0].upper()
+                # Extract the first three octets of the MAC address
+                short_mac = mac_address[:8]
+                mac_vendor_map[short_mac] = row[1]
     print(mac_vendor_map)
     return mac_vendor_map
 
-def get_mac_vendor(mac_address, mac_vendor_map):
-    return mac_vendor_map.get(mac_address.upper(), "Unknown")
-
-# Example Usage:
-#mac_address = "00:11:22:33:44:55" 
-#vendor = get_mac_vendor(mac_address, mac_vendor_map)
-#print(f"Vendor for {mac_address}: {vendor}")
+def get_mac_vendor(mac_short, mac_vendor_map):
+    return mac_vendor_map.get(mac_short.upper(), "Unknown")
 
 def print_result(result_list):
-    """
-    Prints the IP address, MAC address, and vendor name for each device.
-    """
-    print("IP\t\t\t\tMAC_Address\t\t\tVendor")
+    mac_short = ""
+    print("IP\t\t\t\t\tMAC_Address\t\t\tVendor")
     print("----------------------------------------------------------")
     for client in result_list:
-        vendor = get_mac_vendor(client["mac"])
+        mac_short = client["mac"][:8]
+        vendor = get_mac_vendor(mac_short,mac_vendor_map)
+        print(mac_short)
         print(f"{client['ip']}\t\t\t{client['mac']}\t\t\t{vendor}")
+        input()
+        
+        #vendor = get_mac_vendor(client["mac"],mac_vendor_map)
+        #print(f"{client['ip']}\t\t\t{client['mac']}")
 
 
 
 # Main function
 options=get_arguments()
-mac_vendor_map = build_mac_vendor_map("macDict.csv")
+mac_vendor_map = build_mac_vendor_map("testDict.csv")
+#mac_vendor_map = build_mac_vendor_map("macDict.csv")
 scan_result = scan(options.ip)
 print_result(scan_result)
