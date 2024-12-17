@@ -1,0 +1,2359 @@
+00:1B:C5:00:00/36,Converging  ,Converging Systems Inc.
+00:1B:C5:00:10/36,OpenRBcomDir,"OpenRB.com, Direct SIA"
+00:1B:C5:00:20/36,GORAMOJanusz,GORAMO - Janusz Gorecki
+00:1B:C5:00:30/36,MicroSignsTe,MicroSigns Technologies Inc
+00:1B:C5:00:40/36,Intellvision,Intellvisions Software Ltd
+00:1B:C5:00:50/36,Private     ,Private
+00:1B:C5:00:60/36,TRIAXHIRSCHM,TRIAX-HIRSCHMANN Multi-Media GmbH
+00:1B:C5:00:70/36,EnergyAwareT,Energy Aware Technology
+00:1B:C5:00:80/36,DalajElectro,Dalaj Electro-Telecom
+00:1B:C5:00:90/36,SolomonSyste,Solomon Systech Pte Ltd
+00:1B:C5:00:A0/36,MercuryHMI  ,Mercury HMI Ltd
+00:1B:C5:00:B0/36,Private     ,Private
+00:1B:C5:00:C0/36,QuantumTechn,"Quantum Technology Sciences, Inc."
+00:1B:C5:00:D0/36,AdvancedScie,"Advanced Scientific Concepts, Inc."
+00:1B:C5:00:E0/36,VigorElectri,Vigor Electric Corp
+00:1B:C5:00:F0/36,Simavita    ,Simavita Pty Ltd
+00:1B:C5:01:00/36,Softel      ,Softel SA de CV
+00:1B:C5:01:10/36,OOONPPMera  ,OOO NPP Mera
+00:1B:C5:01:20/36,TokyoCosmosE,"Tokyo Cosmos Electric, Inc."
+00:1B:C5:01:30/36,ZamirRecogni,Zamir Recognition Systems Ltd.
+00:1B:C5:01:40/36,Private     ,Private
+00:1B:C5:01:50/36,CorporateEng,Corporate Systems Engineering
+00:1B:C5:01:60/36,Energotechni,Energotechnica OOO NPP Ltd
+00:1B:C5:01:70/36,cPacketNetwo,cPacket Networks
+00:1B:C5:01:90/36,DunlopCompon,Dunlop Systems & Components
+00:1B:C5:01:A0/36,AbaElectroni,"Aba Electronics Technology Co.,Ltd"
+00:1B:C5:01:B0/36,Commonwealth,Commonwealth Scientific and Industrial Research Organisation
+00:1B:C5:01:C0/36,Coolit      ,"Coolit Systems, Inc."
+00:1B:C5:01:D0/36,RoseHerlethG,Rose + Herleth GbR
+00:1B:C5:01:E0/36,Private     ,Private
+00:1B:C5:01:F0/36,SaturnSoluti,Saturn Solutions Ltd
+00:1B:C5:02:00/36,MomentumData,Momentum Data Systems
+00:1B:C5:02:10/36,Openpeak    ,"Openpeak, Inc"
+00:1B:C5:02:20/36,CjscStcSimos,Cjsc Stc Simos
+00:1B:C5:02:30/36,MAGOdiDellaM,MAGO di Della Mora Walter
+00:1B:C5:02:40/36,AnnecyElectr,Annecy Electronique Sas
+00:1B:C5:02:50/36,andersenligh,andersen lighting GmbH
+00:1B:C5:02:60/36,DIMEPSistema,DIMEP Sistemas
+00:1B:C5:02:70/36,CAMEAspolsro,"CAMEA, spol. s r.o."
+00:1B:C5:02:80/36,Stechwin    ,Stechwin.Co.Ltd.
+00:1B:C5:02:90/36,2FranceMarin,2 France Marine
+00:1B:C5:02:A0/36,AnalyticalIn,"Analytical Instrument Systems, Inc."
+00:1B:C5:02:B0/36,SaturnSouth ,Saturn South Pty Ltd
+00:1B:C5:02:C0/36,CareEverywhe,Care Everywhere LLC
+00:1B:C5:02:D0/36,DDTRONIKDari,DDTRONIK Dariusz Dowgiert
+00:1B:C5:02:E0/36,Bettini     ,Bettini Srl
+00:1B:C5:02:F0/36,Fibrain     ,Fibrain Co. Ltd.
+00:1B:C5:03:00/36,OctoGateITSe,OctoGate IT Security Systems GmbH
+00:1B:C5:03:10/36,Adixein     ,Adixein Limited
+00:1B:C5:03:20/36,OsborneCoina,Osborne Coinage Co
+00:1B:C5:03:30/36,JESuunnittel,JE Suunnittelu Oy
+00:1B:C5:03:40/36,InterCEL    ,InterCEL Pty Ltd
+00:1B:C5:03:50/36,RTLS        ,RTLS Ltd.
+00:1B:C5:03:60/36,Lomar       ,Lomar Srl
+00:1B:C5:03:70/36,ITWReyflexNo,ITW Reyflex North America
+00:1B:C5:03:80/36,SEEDInternat,SEED International Ltd.
+00:1B:C5:03:90/36,Euresys     ,Euresys S.A.
+00:1B:C5:03:A0/36,MindMadeSp  ,MindMade Sp. z o.o.
+00:1B:C5:03:B0/36,Promixis    ,"Promixis, LLC"
+00:1B:C5:03:C0/36,Xiphos      ,Xiphos Systems Corp.
+00:1B:C5:03:D0/36,rioxo       ,rioxo GmbH
+00:1B:C5:03:E0/36,DaylightSolu,"Daylight Solutions, Inc"
+00:1B:C5:03:F0/36,ELTRADE     ,ELTRADE Ltd
+00:1B:C5:04:00/36,OOOActidata ,OOO Actidata
+00:1B:C5:04:10/36,DesignAElect,DesignA Electronics Limited
+00:1B:C5:04:20/36,Chamsys     ,Chamsys Ltd
+00:1B:C5:04:30/36,Coincident  ,"Coincident, Inc."
+00:1B:C5:04:40/36,ZAORADIUSAvt,"ZAO ""RADIUS Avtomatika"""
+00:1B:C5:04:50/36,MarvelDigita,Marvel Digital International Limited
+00:1B:C5:04:60/36,Géant      ,Géant
+00:1B:C5:04:70/36,PTAmanindoNu,PT. Amanindo Nusapadu
+00:1B:C5:04:80/36,XPossibleTec,XPossible Technologies Pte Ltd
+00:1B:C5:04:90/36,EUROCONTROL ,EUROCONTROL S.p.A.
+00:1B:C5:04:A0/36,CertisTechno,Certis Technology International Pte Ltd
+00:1B:C5:04:B0/36,SiliconContr,Silicon Controls
+00:1B:C5:04:C0/36,RhinoControl,Rhino Controls Ltd.
+00:1B:C5:04:D0/36,eirakuelectr,eiraku electric corp.
+00:1B:C5:04:E0/36,MitsubishiEl,Mitsubishi Electric India PVT. LTD
+00:1B:C5:04:F0/36,Orbital     ,"Orbital Systems, Ltd."
+00:1B:C5:05:00/36,TeliSwitchSo,TeliSwitch Solutions
+00:1B:C5:05:10/36,QQNavigation,QQ Navigation AB
+00:1B:C5:05:20/36,EngineeringC,Engineering Center ENERGOSERVICE
+00:1B:C5:05:30/36,MetrycomComm,Metrycom Communications Ltd
+00:1B:C5:05:40/36,Private     ,Private
+00:1B:C5:05:50/36,LumiplanTran,Lumiplan Transport
+00:1B:C5:05:60/36,ThinKomSolut,"ThinKom Solutions, Inc"
+00:1B:C5:05:70/36,EREEElectron,EREE Electronique
+00:1B:C5:05:80/36,optiMEAS    ,optiMEAS GmbH
+00:1B:C5:05:90/36,Inpixal     ,Inpixal
+00:1B:C5:05:A0/36,PostecData  ,Postec Data Systems
+00:1B:C5:05:B0/36,konzeptpark ,konzeptpark GmbH
+00:1B:C5:05:C0/36,SuretrakGlob,Suretrak Global Pty Ltd
+00:1B:C5:05:D0/36,JSCProminfor,JSC Prominform
+00:1B:C5:05:E0/36,EcomedComple,Ecomed-Complex
+00:1B:C5:05:F0/36,Klingenthale,Klingenthaler Musikelektronik GmbH
+00:1B:C5:06:00/36,Enstech     ,Enstech
+00:1B:C5:06:10/36,ScientificTe,"Scientific-Technical Center ""Epsilon"" Limited company"
+00:1B:C5:06:20/36,Sulaon      ,Sulaon Oy
+00:1B:C5:06:30/36,CheckItSolut,Check-It Solutions Inc
+00:1B:C5:06:40/36,Enkora      ,Enkora Oy Ltd
+00:1B:C5:06:50/36,PlairMedia  ,Plair Media Inc.
+00:1B:C5:06:60/36,Manufacturas,Manufacturas y transformados AB
+00:1B:C5:06:70/36,Embit       ,Embit srl
+00:1B:C5:06:80/36,HCSKABLOLAMA,HCS KABLOLAMA SISTEMLERI SAN. ve TIC.A.S.
+00:1B:C5:06:90/36,DatasatDigit,Datasat Digital Entertainment
+00:1B:C5:06:A0/36,IST         ,IST GmbH
+00:1B:C5:06:B0/36,VerifiedEner,"Verified Energy, LLC."
+00:1B:C5:06:C0/36,LuxconSystem,Luxcon System Limited
+00:1B:C5:06:D0/36,TESElectroni,TES Electronic Solutions (I) Pvt. Ltd.
+00:1B:C5:06:E0/36,TwoDimension,"Two Dimensional Instruments, LLC"
+00:1B:C5:06:F0/36,LLCEmzior   ,LLC Emzior
+00:1B:C5:07:00/36,SiemensIndus,"Siemens Industries, Inc, Retail & Commercial Systems"
+00:1B:C5:07:10/36,CenterforECo,"Center for E-Commerce Infrastructure Development, The University of Hong Kong"
+00:1B:C5:07:20/36,OhioSemitron,"Ohio Semitronics, Inc."
+00:1B:C5:07:30/36,tado        ,tado GmbH
+00:1B:C5:07:40/36,Dynasthetics,Dynasthetics
+00:1B:C5:07:50/36,Kitron      ,Kitron GmbH
+00:1B:C5:07:60/36,PLAiRMedia  ,"PLAiR Media, Inc"
+00:1B:C5:07:70/36,MomentumData,Momentum Data Systems
+00:1B:C5:07:80/36,DonbassSofta,Donbass Soft Ltd and Co.KG
+00:1B:C5:07:90/36,HPIHighPress,HPI High Pressure Instrumentation GmbH
+00:1B:C5:07:A0/36,ServiciosEle,Servicios Electronicos Industriales Berbel s.l.
+00:1B:C5:07:B0/36,QCOREMedical,QCORE Medical
+00:1B:C5:07:C0/36,head        ,head
+00:1B:C5:07:D0/36,Greatcom    ,Greatcom AG
+00:1B:C5:07:E0/36,BioMolecular,Bio Molecular System Pty Ltd
+00:1B:C5:07:F0/36,Hitechlab   ,Hitechlab Inc
+00:1B:C5:08:00/36,LUMINO      ,LUMINO GmbH
+00:1B:C5:08:10/36,WonATech    ,"WonATech Co., Ltd."
+00:1B:C5:08:20/36,TGSGeophysic,TGS Geophysical Company (UK) Limited
+00:1B:C5:08:30/36,Diwel       ,Diwel
+00:1B:C5:08:40/36,AppliedInnov,Applied Innovations Research LLC
+00:1B:C5:08:50/36,Oberonmicros,"Oberon microsystems, Inc."
+00:1B:C5:08:60/36,CASTGroupCom,CAST Group of Companies Inc.
+00:1B:C5:08:70/36,OnnetTechnol,Onnet Technologies and Innovations LLC
+00:1B:C5:08:80/36,UABKitron   ,UAB Kitron
+00:1B:C5:08:90/36,SignatureCon,"Signature Control Systems, Inc."
+00:1B:C5:08:A0/36,Topicon     ,Topicon
+00:1B:C5:08:B0/36,Nistica     ,Nistica
+00:1B:C5:08:C0/36,Triax       ,Triax A/S
+00:1B:C5:08:D0/36,Eurek       ,Eurek Srl
+00:1B:C5:08:E0/36,TrendPoint  ,TrendPoint Systems
+00:1B:C5:08:F0/36,UnileverR&D ,Unilever R&D
+00:1B:C5:09:00/36,SevenSolutio,Seven Solutions S.L
+00:1B:C5:09:10/36,3greenApS   ,3green ApS
+00:1B:C5:09:20/36,ArnouseDigit,"Arnouse Digital Devices, Corp."
+00:1B:C5:09:30/36,AmbientDevic,"Ambient Devices, Inc."
+00:1B:C5:09:40/36,reelyActive ,reelyActive
+00:1B:C5:09:50/36,PREVACsp    ,PREVAC sp. z o.o.
+00:1B:C5:09:60/36,Sanstreak   ,Sanstreak Corp.
+00:1B:C5:09:70/36,Plexstar    ,Plexstar Inc.
+00:1B:C5:09:80/36,Cubic       ,"Cubic Systems, Inc."
+00:1B:C5:09:90/36,UABKitron   ,UAB Kitron
+00:1B:C5:09:A0/36,GuangLianZhi,Shenzhen Guang Lian Zhi Tong Limited
+00:1B:C5:09:B0/36,YIK         ,YIK Corporation
+00:1B:C5:09:C0/36,Meccalte    ,Meccalte Spa
+00:1B:C5:09:D0/36,Navitar     ,Navitar Inc
+00:1B:C5:09:E0/36,KKMesstechni,K+K Messtechnik GmbH
+00:1B:C5:09:F0/36,ENTESp      ,ENTE Sp. z o.o.
+00:1B:C5:0A:00/36,Silvair     ,Silvair
+00:1B:C5:0A:10/36,ZhipingTechn,"Hangzhou Zhiping Technology Co., Ltd."
+00:1B:C5:0A:20/36,HettichBenel,Hettich Benelux
+00:1B:C5:0A:30/36,PANetworkLab,"P A Network Laboratory Co.,Ltd"
+00:1B:C5:0A:40/36,Radmor      ,Radmor S.A.
+00:1B:C5:0A:50/36,TeslaControl,Tesla Controls
+00:1B:C5:0A:60/36,BalterSecuri,Balter Security GmbH
+00:1B:C5:0A:70/36,LGLElectroni,L.G.L. Electronics S.p.a.
+00:1B:C5:0A:80/36,LinkPrecisio,Link Precision
+00:1B:C5:0A:90/36,Elektrometal,Elektrometal SA
+00:1B:C5:0A:A0/36,Senceive    ,Senceive Ltd
+00:1B:C5:0A:B0/36,Evondos     ,Evondos Oy
+00:1B:C5:0A:C0/36,AVnuAlliance,AVnu Alliance
+00:1B:C5:0A:D0/36,TierraJapan ,"Tierra Japan Co.,Ltd"
+00:1B:C5:0A:E0/36,TechlanReti ,Techlan Reti s.r.l.
+00:1B:C5:0A:F0/36,EnerwiseSolu,Enerwise Solutions Ltd.
+00:1B:C5:0B:00/36,JDCom       ,J-D.Com
+00:1B:C5:0B:10/36,RoslenEcoNet,Roslen Eco-Networking Products
+00:1B:C5:0B:20/36,SKODAELECTRI,SKODA ELECTRIC a.s.
+00:1B:C5:0B:30/36,FSMSolutions,FSM Solutions Limited
+00:1B:C5:0B:40/36,Coban       ,Coban Srl
+00:1B:C5:0B:50/36,Exibea      ,Exibea AB
+00:1B:C5:0B:60/36,Veilux      ,Veilux Inc.
+00:1B:C5:0B:70/36,Autelis     ,"Autelis, LLC"
+00:1B:C5:0B:80/36,Private     ,Private
+00:1B:C5:0B:90/36,DenkiKogyo  ,"Denki Kogyo Company, Limited"
+00:1B:C5:0B:A0/36,NtMicrosyste,Nt Microsystems
+00:1B:C5:0B:B0/36,Triax       ,Triax A/S
+00:1B:C5:0B:C0/36,kuwatec     ,"kuwatec, Inc."
+00:1B:C5:0B:D0/36,BridgeDiagno,"Bridge Diagnostics, Inc."
+00:1B:C5:0B:E0/36,YESpayIntern,YESpay International Ltd
+00:1B:C5:0B:F0/36,TNCore      ,"TN Core Co.,Ltd."
+00:1B:C5:0C:00/36,DigitalLogge,"Digital Loggers, Inc."
+00:1B:C5:0C:10/36,EREEElectron,EREE Electronique
+00:1B:C5:0C:20/36,TechSolution,TechSolutions A/S
+00:1B:C5:0C:30/36,inomatic    ,inomatic GmbH
+00:1B:C5:0C:40/36,Eldes       ,Eldes
+00:1B:C5:0C:50/36,GillInstrume,Gill Instruments Ltd
+00:1B:C5:0C:60/36,CyanConnode ,CyanConnode
+00:1B:C5:0C:70/36,WizzilabSas ,Wizzilab Sas
+00:1B:C5:0C:80/36,Dialine     ,Dialine
+00:1B:C5:0C:90/36,UABKitron   ,UAB Kitron
+00:50:C2:00:00/36,TLS         ,T.L.S. Corp.
+00:50:C2:00:10/36,JMBSDevelopp,JMBS Developpements
+00:50:C2:00:20/36,IntegratedAu,Integrated Automation Solutions
+00:50:C2:00:30/36,Microsoft   ,Microsoft
+00:50:C2:00:40/36,SCITechnolog,SCI Technology Inc.
+00:50:C2:00:50/36,GDCalifornia,"GD California, Inc."
+00:50:C2:00:60/36,ProjectManag,"Project Management Enterprises, Inc."
+00:50:C2:00:70/36,CliveGreen  ,Clive Green & Co. Ltd.
+00:50:C2:00:80/36,PortableAddO,Portable Add-Ons
+00:50:C2:00:90/36,Datakinetics,Datakinetics Ltd.
+00:50:C2:00:A0/36,Tharsys     ,Tharsys
+00:50:C2:00:B0/36,IO          ,IO Limited
+00:50:C2:00:C0/36,Vbrick      ,Vbrick Systems Inc.
+00:50:C2:00:D0/36,OpusTelecom ,Opus Telecom Inc.
+00:50:C2:00:E0/36,TTTech      ,TTTech
+00:50:C2:00:F0/36,XLNt        ,XLN-t
+00:50:C2:01:00/36,Moisture    ,Moisture Systems
+00:50:C2:01:10/36,BihlWiedeman,Bihl + Wiedemann GmbH
+00:50:C2:01:20/36,FlowareSyste,Floware System Solutions Ltd.
+00:50:C2:01:30/36,SensysTechno,Sensys Technologies Inc.
+00:50:C2:01:40/36,Canal       ,Canal +
+00:50:C2:01:50/36,LeroyAutomat,Leroy Automation
+00:50:C2:01:60/36,DSPDesign   ,DSP Design Ltd.
+00:50:C2:01:70/36,HunterTechno,Hunter Technology Inc.
+00:50:C2:01:80/36,CADUL       ,CAD-UL GmbH
+00:50:C2:01:90/36,EmtacTechnol,Emtac Technology Corp.
+00:50:C2:01:A0/36,SkylakeTalix,Skylake Talix
+00:50:C2:01:B0/36,CrossProduct,Cross Products Ltd.
+00:50:C2:01:C0/36,TadiranScopu,Tadiran Scopus
+00:50:C2:01:D0/36,PrincetonGam,Princeton Gamma Tech
+00:50:C2:01:E0/36,CallTechInte,CallTech International Limited
+00:50:C2:01:F0/36,KBSIndustrie,KBS Industrieelektronik GmbH
+00:50:C2:02:00/36,IconResearch,Icon Research Ltd.
+00:50:C2:02:10/36,DRSTechnolog,DRS Technologies Canada Co.
+00:50:C2:02:20/36,AshlingMicro,Ashling Microsystems Ltd.
+00:50:C2:02:30/36,Zabacom     ,"Zabacom, Inc."
+00:50:C2:02:40/36,Ipitek      ,Ipitek
+00:50:C2:02:50/36,TeracomTelem,Teracom Telematica S.A
+00:50:C2:02:60/36,Abatis      ,Abatis Systems Corp.
+00:50:C2:02:70/36,IndustrialCo,Industrial Control Links
+00:50:C2:02:80/36,Frensch     ,The Frensch Corporation (Pty) Ltd.
+00:50:C2:02:90/36,Grossenbache,Grossenbacher Systeme AG
+00:50:C2:02:A0/36,VersaLogic  ,VersaLogic Corp.
+00:50:C2:02:B0/36,NovaEngineer,Nova Engineering Inc.
+00:50:C2:02:C0/36,NarrowbandTe,Narrowband Telecommunications
+00:50:C2:02:D0/36,Innocor     ,Innocor LTD
+00:50:C2:02:E0/36,TurtleMounta,Turtle Mountain Corp
+00:50:C2:02:F0/36,Sinetica    ,Sinetica Corp
+00:50:C2:03:00/36,LockheedMart,Lockheed Martin Tactical Defense Systems Eagan
+00:50:C2:03:10/36,Eloquence   ,Eloquence Ltd
+00:50:C2:03:20/36,MotionIO    ,MotionIO
+00:50:C2:03:30/36,DobleEnginee,Doble Engineering
+00:50:C2:03:40/36,IngBueroWKan,Ing. Buero W. Kanis GmbH
+00:50:C2:03:50/36,AlliantTechs,"Alliant Techsystems, Inc."
+00:50:C2:03:60/36,ArcturusNetw,Arcturus Networks Inc.
+00:50:C2:03:70/36,EISM        ,E.I.S.M.
+00:50:C2:03:80/36,EtheiraTechn,Etheira Technologies
+00:50:C2:03:90/36,ApexSignal  ,Apex Signal Corp
+00:50:C2:03:A0/36,PLLBElettron,PLLB Elettronica SPA
+00:50:C2:03:B0/36,VNRElectroni,VNR Electronique SA
+00:50:C2:03:C0/36,BrainBoxes  ,BrainBoxes Ltd
+00:50:C2:03:D0/36,ISDNGatewayT,ISDN Gateway Technology AG
+00:50:C2:03:E0/36,MSUUK       ,MSU UK Ltd
+00:50:C2:03:F0/36,Celotek     ,Celotek Corp
+00:50:C2:04:00/36,MiSPO       ,"MiSPO Co., Ltd."
+00:50:C2:04:10/36,DamlerChrysl,Damler Chrysler Rail System (Signal) AB
+00:50:C2:04:20/36,BEARSolution,"B.E.A.R. Solutions (Australasia) Pty, Ltd"
+00:50:C2:04:30/36,Curtis      ,"Curtis, Inc."
+00:50:C2:04:40/36,Private     ,Private
+00:50:C2:04:50/36,ChaseManhatt,Chase Manhattan Bank
+00:50:C2:04:60/36,Private     ,Private
+00:50:C2:04:70/36,BRElectronic,B. R. Electronics
+00:50:C2:04:80/36,Cybectec    ,Cybectec Inc.
+00:50:C2:04:90/36,ComputerConc,Computer Concepts Corp
+00:50:C2:04:A0/36,TelecomAnaly,"Telecom Analysis Systems, LP"
+00:50:C2:04:B0/36,TecstarDemoD,Tecstar Demo Systems Division
+00:50:C2:04:C0/36,NewStandardE,New Standard Engineering NV
+00:50:C2:04:E0/36,IndustrialEl,"Industrial Electronic Engineers, Inc."
+00:50:C2:04:F0/36,Luma        ,Luma Corporation
+00:50:C2:05:00/36,Dataprobe   ,"Dataprobe, Inc."
+00:50:C2:05:10/36,JSRUltrasoni,JSR Ultrasonics
+00:50:C2:05:20/36,MayoFoundati,Mayo Foundation
+00:50:C2:05:40/36,Optionexist ,Optionexist Limited
+00:50:C2:05:50/36,SanCastleTec,"San Castle Technologies, Inc."
+00:50:C2:05:60/36,Base2       ,Base 2
+00:50:C2:05:70/36,LiteF       ,Lite F GmBH
+00:50:C2:05:80/36,VisionResear,"Vision Research, Inc."
+00:50:C2:05:90/36,AustcoMarket,Austco Marketing & Service (USA) ltd.
+00:50:C2:05:A0/36,Sonifex     ,Sonifex Ltd
+00:50:C2:05:B0/36,RadiometerMe,Radiometer Medical A/S
+00:50:C2:05:C0/36,NortelNetwor,Nortel Networks PLC (UK)
+00:50:C2:05:D0/36,IgnitusCommu,"Ignitus Communications, LLC"
+00:50:C2:05:E0/36,DIVA        ,DIVA Systems
+00:50:C2:05:F0/36,MaldenElectr,Malden Electronics Ltd
+00:50:C2:06:00/36,Private     ,Private
+00:50:C2:06:10/36,SimpleNetwor,Simple Network Magic Corporation
+00:50:C2:06:20/36,Private     ,Private
+00:50:C2:06:30/36,Ticketmaster,Ticketmaster Corp
+00:50:C2:06:40/36,Private     ,Private
+00:50:C2:06:50/36,CleverDevice,Clever Devices
+00:50:C2:06:60/36,Private     ,Private
+00:50:C2:06:70/36,RiverlinkCom,"Riverlink Computers, Ltd."
+00:50:C2:06:80/36,Seabridge   ,Seabridge
+00:50:C2:06:90/36,ECElettronic,EC Elettronica S.R.L.
+00:50:C2:06:A0/36,Unimark     ,Unimark
+00:50:C2:06:B0/36,NCast       ,NCast Corporation
+00:50:C2:06:C0/36,WaveComElect,"WaveCom Electronics, Inc."
+00:50:C2:06:D0/36,AdvancedSign,Advanced Signal Corp.
+00:50:C2:06:E0/36,AvtronManufa,Avtron Manufacturing Inc.
+00:50:C2:06:F0/36,DigitalServi,Digital Services Group
+00:50:C2:07:00/36,KatchallTech,Katchall Technologies Group
+00:50:C2:07:10/36,NetVisionTel,NetVision Telecom
+00:50:C2:07:20/36,NeubergerGeb,Neuberger Gebaeudeautomation GmbH & Co.
+00:50:C2:07:30/36,AlstomSignal,Alstom Signalling Ltd.
+00:50:C2:07:40/36,EdgeTech    ,"Edge Tech Co., Ltd."
+00:50:C2:07:50/36,ENTTEC      ,ENTTEC Pty Ltd.
+00:50:C2:07:60/36,LittonGuidan,Litton Guidance & Control Systems
+00:50:C2:07:70/36,SacoSmartvis,Saco Smartvision Inc.
+00:50:C2:07:80/36,Reselec     ,Reselec AG
+00:50:C2:07:90/36,Flextel     ,Flextel S.p.A
+00:50:C2:07:A0/36,RadioTel    ,RadioTel
+00:50:C2:07:B0/36,TrikonTechno,Trikon Technologies Ltd.
+00:50:C2:07:C0/36,PLLBelettron,PLLB elettronica spa
+00:50:C2:07:D0/36,CaspianNetwo,Caspian Networks
+00:50:C2:07:E0/36,JLteknik    ,JL-teknik
+00:50:C2:07:F0/36,Dunti       ,Dunti Corporation
+00:50:C2:08:00/36,Aim         ,Aim
+00:50:C2:08:10/36,MatuschekMes,Matuschek Messtechnik GmbH
+00:50:C2:08:20/36,GFIChronoTim,GFI Chrono Time
+00:50:C2:08:30/36,ard         ,ard sa
+00:50:C2:08:40/36,DIALOG4Syste,DIALOG4 System Engineering GmbH
+00:50:C2:08:50/36,Crossport   ,Crossport Systems
+00:50:C2:08:60/36,ValidyneEngi,Validyne Engineering Corp.
+00:50:C2:08:70/36,MonitorBusin,Monitor Business Machines Ltd.
+00:50:C2:08:80/36,TELINC      ,TELINC Corporation
+00:50:C2:08:90/36,FenwalItalia,Fenwal Italia S.P.A.
+00:50:C2:08:A0/36,RisingEdgeTe,Rising Edge Technologies
+00:50:C2:08:B0/36,HYPERCHIP   ,HYPERCHIP Inc.
+00:50:C2:08:C0/36,IPUnity     ,IP Unity
+00:50:C2:08:D0/36,KylinkCommun,Kylink Communications Corp.
+00:50:C2:08:E0/36,Bsquare     ,Bsquare
+00:50:C2:08:F0/36,GeneralIndus,General Industries Argentina
+00:50:C2:09:00/36,InvensysCont,Invensys Controls Network Systems
+00:50:C2:09:10/36,StorLogic   ,"StorLogic, Inc."
+00:50:C2:09:20/36,DigitAllWorl,"DigitAll World Co., Ltd"
+00:50:C2:09:30/36,Korealink   ,Korealink
+00:50:C2:09:40/36,AnalyticalSp,"Analytical Spectral Devices, Inc."
+00:50:C2:09:50/36,Seatech     ,Seatech
+00:50:C2:09:60/36,UtronixElekt,Utronix Elektronikutreckling AB
+00:50:C2:09:70/36,IMVInvertoma,IMV Invertomatic
+00:50:C2:09:80/36,EPELIndustri,"EPEL Industrial, S.A."
+00:50:C2:09:90/36,CaseInformat,Case Information & Communications
+00:50:C2:09:A0/36,NBODevelopme,NBO Development Center Sekusui Chemical Co. Ltd.
+00:50:C2:09:B0/36,SeffleInstru,Seffle Instrument AB
+00:50:C2:09:C0/36,RFApplicatio,"RF Applications, Inc."
+00:50:C2:09:D0/36,Zelpos      ,Zelpos
+00:50:C2:09:E0/36,InfinitecNet,"Infinitec Networks, Inc."
+00:50:C2:09:F0/36,MetaWaveVede,MetaWave Vedeo Systems
+00:50:C2:0A:00/36,Cynaps      ,Cynaps
+00:50:C2:0A:10/36,VisableGenet,"Visable Genetics, Inc."
+00:50:C2:0A:20/36,JägerCompute,Jäger Computergesteuerte Meßtechnik GmbH.
+00:50:C2:0A:30/36,BaSyTec     ,BaSyTec GmbH
+00:50:C2:0A:40/36,Bounty      ,Bounty Systems Pty Ltd.
+00:50:C2:0A:50/36,MobiltexData,Mobiltex Data Ltd.
+00:50:C2:0A:60/36,Arula       ,"Arula Systems, Inc."
+00:50:C2:0A:70/36,WaterCoveNet,WaterCove Networks
+00:50:C2:0A:80/36,KaveriNetwor,Kaveri Networks
+00:50:C2:0A:90/36,RadiantNetwo,Radiant Networks Plc
+00:50:C2:0A:A0/36,LogIn       ,"Log-In, Inc."
+00:50:C2:0A:B0/36,FastwareNet ,"Fastware.Net, LLC"
+00:50:C2:0A:C0/36,HoneywellGNO,Honeywell GNO
+00:50:C2:0A:D0/36,BMCMesssyste,BMC Messsysteme GmbH
+00:50:C2:0A:E0/36,Zarak       ,Zarak Systems Corp.
+00:50:C2:0A:F0/36,LatusLightwo,"Latus Lightworks, Inc."
+00:50:C2:0B:00/36,LMITechnolog,LMI Technologies
+00:50:C2:0B:10/36,BeelineNetwo,"Beeline Networks, Inc."
+00:50:C2:0B:20/36,RFMicroDevic,R F Micro Devices
+00:50:C2:0B:30/36,SMX         ,SMX Corporation
+00:50:C2:0B:40/36,Wavefly     ,Wavefly Corporation
+00:50:C2:0B:50/36,ExtremeCoppe,"Extreme Copper, Inc."
+00:50:C2:0B:60/36,ApSecureTech,"ApSecure Technologies (Canada), Inc."
+00:50:C2:0B:70/36,Rymic       ,Rymic
+00:50:C2:0B:80/36,LANControls ,"LAN Controls, Inc."
+00:50:C2:0B:90/36,HelmutMauell,Helmut Mauell GmbH Werk Weida
+00:50:C2:0B:A0/36,ProActive   ,Pro-Active
+00:50:C2:0B:B0/36,MAZet       ,MAZet GmbH
+00:50:C2:0B:C0/36,InfolinkSoft,Infolink Software AG
+00:50:C2:0B:D0/36,Tattile     ,Tattile
+00:50:C2:0B:E0/36,StellaElectr,Stella Electronics & Tagging
+00:50:C2:0B:F0/36,Private     ,Private
+00:50:C2:0C:00/36,Imigix      ,Imigix Ltd.
+00:50:C2:0C:10/36,Casabyte    ,Casabyte
+00:50:C2:0C:20/36,AlchemySemic,"Alchemy Semiconductor, Inc."
+00:50:C2:0C:30/36,Tonbu       ,"Tonbu, Inc."
+00:50:C2:0C:40/36,InterEpochTe,"InterEpoch Technology,INC."
+00:50:C2:0C:50/36,SAIABurgessC,SAIA Burgess Controls AG
+00:50:C2:0C:60/36,AdvancedMedi,"Advanced Medical Information Technologies, Inc."
+00:50:C2:0C:70/36,TransCommTec,"TransComm Technology System, Inc."
+00:50:C2:0C:80/36,Trane       ,The Trane Company
+00:50:C2:0C:90/36,DSSNetworks ,"DSS Networks, Inc."
+00:50:C2:0C:A0/36,JDRichards  ,J D Richards
+00:50:C2:0C:B0/36,Studiel     ,Studiel
+00:50:C2:0C:C0/36,AlphaMedia  ,"AlphaMedia Co., Ltd"
+00:50:C2:0C:D0/36,Linet       ,Linet Oy
+00:50:C2:0C:E0/36,RFLElectroni,"RFL Electronics, Inc."
+00:50:C2:0C:F0/36,Pcsc        ,Pcsc
+00:50:C2:0D:00/36,Telefrang   ,Telefrang AB
+00:50:C2:0D:10/36,RenaissanceN,"Renaissance Networking, Inc."
+00:50:C2:0D:20/36,RealWorldCom,Real World Computing Partnership
+00:50:C2:0D:30/36,LakeTechnolo,"Lake Technology, Ltd."
+00:50:C2:0D:40/36,Palm        ,"Palm, Inc."
+00:50:C2:0D:50/36,Zelax       ,Zelax
+00:50:C2:0D:60/36,IncoStartec ,Inco Startec GmbH
+00:50:C2:0D:70/36,SummitAvioni,"Summit Avionics, Inc."
+00:50:C2:0D:80/36,CharlottesWe,Charlotte's Web Networks
+00:50:C2:0D:90/36,LoeweOpta   ,Loewe Opta GmbH
+00:50:C2:0D:A0/36,MotionAnalys,Motion Analysis Corp.
+00:50:C2:0D:B0/36,Cyberex     ,Cyberex
+00:50:C2:0D:C0/36,Elbit       ,Elbit Systems Ltd.
+00:50:C2:0D:D0/36,InterisaElec,"Interisa Electronica, S.A."
+00:50:C2:0D:E0/36,FrederickEng,Frederick Engineering
+00:50:C2:0D:F0/36,InnovationIn,"Innovation Institute, Inc."
+00:50:C2:0E:00/36,EMAC        ,"EMAC, Inc."
+00:50:C2:0E:10/36,InspirationT,Inspiration Technology P/L
+00:50:C2:0E:20/36,VisualCircui,Visual Circuits Corp.
+00:50:C2:0E:30/36,Lanex       ,Lanex S.A.
+00:50:C2:0E:40/36,CollaboTec  ,"Collabo Tec. Co., Ltd."
+00:50:C2:0E:50/36,ClearwaterNe,Clearwater Networks
+00:50:C2:0E:60/36,RouteFree   ,"RouteFree, Inc."
+00:50:C2:0E:70/36,CenturyGeoph,Century Geophysical Corp.
+00:50:C2:0E:80/36,AudioDesignA,"Audio Design Associates, Inc."
+00:50:C2:0E:90/36,Smartmedia  ,Smartmedia LLC
+00:50:C2:0E:A0/36,iReady      ,iReady Corporation
+00:50:C2:0E:B0/36,iREZTechnolo,iREZ Technologies LLC
+00:50:C2:0E:C0/36,KeithKoep   ,Keith & Koep GmbH
+00:50:C2:0E:D0/36,ValleyProduc,Valley Products Corporation
+00:50:C2:0E:E0/36,IndustrialIn,"Industrial Indexing Systems, Inc."
+00:50:C2:0E:F0/36,MovazNetwork,"Movaz Networks, Inc."
+00:50:C2:0F:00/36,VHBTechnolog,"VHB Technologies, Inc."
+00:50:C2:0F:10/36,Steelcase   ,Steelcase Inc.
+00:50:C2:0F:20/36,KMS         ,"KMS Systems, Inc."
+00:50:C2:0F:30/36,YoungCompute,"Young Computer Co., Ltd."
+00:50:C2:0F:40/36,Sysnet      ,"Sysnet Co., Ltd."
+00:50:C2:0F:50/36,SpectraTechn,"Spectra Technologies Holding Co., Ltd."
+00:50:C2:0F:60/36,CarlBaaselLa,Carl Baasel Lasertechnik GmbH
+00:50:C2:0F:70/36,FossNIRSyste,"Foss NIRSystems, Inc."
+00:50:C2:0F:80/36,TecnintHTE  ,Tecnint HTE SRL
+00:50:C2:0F:90/36,RavenIndustr,Raven Industries Inc.
+00:50:C2:0F:A0/36,GETransporta,GE Transportation Systems
+00:50:C2:0F:B0/36,PIUSYS      ,"PIUSYS Co., Ltd."
+00:50:C2:0F:C0/36,KimmonManufa,"Kimmon Manufacturing Co., Ltd."
+00:50:C2:0F:D0/36,Inducomp    ,Inducomp Corporation
+00:50:C2:0F:E0/36,EnergyICT   ,Energy ICT
+00:50:C2:0F:F0/36,IPAXS       ,IPAXS Corporation
+00:50:C2:10:00/36,CorelatusAB ,Corelatus A.B.
+00:50:C2:10:10/36,LAUDElectron,LAUD Electronic Design AS
+00:50:C2:10:20/36,MillionTechD,Million Tech Development Ltd.
+00:50:C2:10:30/36,GreenHillsSo,"Green Hills Software, Inc."
+00:50:C2:10:40/36,Adescom     ,Adescom Inc.
+00:50:C2:10:50/36,Lumentis    ,Lumentis AB
+00:50:C2:10:60/36,Matsuoka    ,Matsuoka
+00:50:C2:10:70/36,NewHer      ,NewHer Systems
+00:50:C2:10:80/36,Balogh      ,Balogh S.A.
+00:50:C2:10:90/36,ITKDrKassen ,ITK Dr. Kassen GmbH
+00:50:C2:10:A0/36,Quinx       ,Quinx AG
+00:50:C2:10:B0/36,MarekMicro  ,MarekMicro GmbH
+00:50:C2:10:C0/36,PhotonicBrid,"Photonic Bridges, Inc."
+00:50:C2:10:D0/36,Implementa  ,Implementa GmbH
+00:50:C2:10:E0/36,Unipower    ,Unipower AB
+00:50:C2:10:F0/36,Perceptics  ,Perceptics Corp.
+00:50:C2:11:00/36,QuesCom     ,QuesCom
+00:50:C2:11:10/36,Endusis     ,Endusis Limited
+00:50:C2:11:20/36,Compuworx   ,Compuworx
+00:50:C2:11:30/36,AceElectroni,"Ace Electronics, Inc."
+00:50:C2:11:40/36,QuestInnovat,Quest Innovations
+00:50:C2:11:50/36,Vidco       ,"Vidco, Inc."
+00:50:C2:11:60/36,DSPDesign   ,"DSP Design, Ltd."
+00:50:C2:11:70/36,Wintegra    ,Wintegra Ltd.
+00:50:C2:11:80/36,Microbit20  ,Microbit 2.0 AB
+00:50:C2:11:90/36,GlobalOptoCo,Global Opto Communication Tech. Corp
+00:50:C2:11:A0/36,TeamaxessTic,Teamaxess Ticketing GmbH
+00:50:C2:11:B0/36,DigitalVisio,Digital Vision AB
+00:50:C2:11:C0/36,StoneflyNetw,Stonefly Networks
+00:50:C2:11:D0/36,DestinyNetwo,"Destiny Networks, Inc."
+00:50:C2:11:E0/36,VolvoCar    ,Volvo Car Corporation
+00:50:C2:11:F0/36,CSSIndustrie,CSS Industrie Computer GmbH
+00:50:C2:12:00/36,XStore      ,"XStore, Inc."
+00:50:C2:12:10/36,COE         ,COE Limited
+00:50:C2:12:20/36,Diva        ,Diva Systems
+00:50:C2:12:30/36,SeranoaNetwo,"Seranoa Networks, Inc."
+00:50:C2:12:40/36,TokaiSoft   ,Tokai Soft Corporation
+00:50:C2:12:50/36,Tecwings    ,Tecwings GmBh
+00:50:C2:12:60/36,MaxLinearHis,MaxLinear Hispania S.L.U.
+00:50:C2:12:70/36,TPATrafficPa,TPA Traffic & Parking Automation BV
+00:50:C2:12:80/36,Pycon       ,"Pycon, Inc."
+00:50:C2:12:90/36,TTPCom      ,TTPCom Ltd.
+00:50:C2:12:A0/36,SymbolicSoun,Symbolic Sound Corp.
+00:50:C2:12:B0/36,DongAEltek  ,"Dong A Eltek Co., Ltd."
+00:50:C2:12:C0/36,DeltaTauData,"Delta Tau Data Systems, Inc."
+00:50:C2:12:D0/36,Megisto     ,"Megisto Systems, Inc."
+00:50:C2:12:E0/36,Runcom      ,Runcom
+00:50:C2:12:F0/36,HaagStreit  ,Haag-Streit AG
+00:50:C2:13:00/36,USTraffic   ,U.S. Traffic Corporation
+00:50:C2:13:10/36,InBusEnginee,"InBus Engineering, Inc."
+00:50:C2:13:20/36,ProconElectr,Procon Electronics
+00:50:C2:13:30/36,ChipWrights ,"ChipWrights, Inc."
+00:50:C2:13:40/36,DRSPhotronic,DRS Photronics
+00:50:C2:13:50/36,Elad        ,Elad Srl
+00:50:C2:13:60/36,Tensilica   ,"Tensilica, Inc."
+00:50:C2:13:70/36,Uniwell     ,Uniwell Systems (UK) Ltd.
+00:50:C2:13:80/36,DelphinTechn,Delphin Technology AG
+00:50:C2:13:90/36,SrResearch  ,Sr Research Ltd
+00:50:C2:13:A0/36,TexComputer ,Tex Computer SRL
+00:50:C2:13:B0/36,Vaisala     ,Vaisala Oyj
+00:50:C2:13:C0/36,NBGIndustria,NBG Industrial Automation B.V.
+00:50:C2:13:D0/36,FormulaOneMa,Formula One Management Ltd.
+00:50:C2:13:E0/36,AVerMedia   ,"AVerMedia Systems, Inc."
+00:50:C2:13:F0/36,SentitoNetwo,Sentito Networks
+00:50:C2:14:00/36,ITS         ,"ITS, Inc."
+00:50:C2:14:10/36,TimeTerminal,Time Terminal Adductor Group AB
+00:50:C2:14:20/36,Instrumeter ,Instrumeter A/S
+00:50:C2:14:30/36,Aartesys    ,Aartesys Ag
+00:50:C2:14:40/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:14:50/36,ELCLighting ,ELC Lighting
+00:50:C2:14:60/36,APCON       ,"APCON, Inc."
+00:50:C2:14:70/36,UniSUR      ,UniSUR
+00:50:C2:14:80/36,Alltec      ,Alltec GmbH
+00:50:C2:14:90/36,HaagStreit  ,Haag-Streit AG
+00:50:C2:14:A0/36,Dycec       ,"Dycec, S.A."
+00:50:C2:14:B0/36,HECUBAElektr,HECUBA Elektronik
+00:50:C2:14:C0/36,Optibase    ,Optibase Ltd.
+00:50:C2:14:D0/36,wellink     ,"wellink, Ltd."
+00:50:C2:14:E0/36,CorinexGloba,Corinex Global
+00:50:C2:14:F0/36,Telephonics ,Telephonics Corp.
+00:50:C2:15:00/36,Torse       ,Torse
+00:50:C2:15:10/36,ReduxCommuni,Redux Communications Ltd.
+00:50:C2:15:20/36,AirVastTechn,AirVast Technology Inc.
+00:50:C2:15:30/36,AdvancedDevi,Advanced Devices SpA
+00:50:C2:15:40/36,Jostra      ,Jostra AB
+00:50:C2:15:50/36,EneaRealTime,Enea Real Time AB
+00:50:C2:15:60/36,CommServSolu,CommServ Solutions Inc.
+00:50:C2:15:70/36,nCore       ,"nCore, Inc."
+00:50:C2:15:80/36,Communicatio,"Communication Solutions, Inc."
+00:50:C2:15:90/36,StandardComm,Standard Comm. Corp.
+00:50:C2:15:A0/36,Plextek     ,Plextek Limited
+00:50:C2:15:B0/36,DuneNetworks,Dune Networks
+00:50:C2:15:C0/36,AoptixTechno,Aoptix Technologies
+00:50:C2:15:D0/36,Cepheid     ,Cepheid
+00:50:C2:15:E0/36,Celite      ,"Celite Systems, Inc."
+00:50:C2:15:F0/36,Pulsar      ,Pulsar GmbH
+00:50:C2:16:00/36,TTITelecomIn,TTI - Telecom International Ltd.
+00:50:C2:16:10/36,J&BEngineeri,J&B Engineering Group S.L.
+00:50:C2:16:20/36,Teseda      ,Teseda Corporation
+00:50:C2:16:30/36,Computerwise,"Computerwise, Inc."
+00:50:C2:16:40/36,Acunia      ,Acunia N.V.
+00:50:C2:16:50/36,Ipcast      ,Ipcast
+00:50:C2:16:60/36,Infineer    ,Infineer Ltd.
+00:50:C2:16:70/36,PrecisionFil,"Precision Filters, Inc."
+00:50:C2:16:80/36,ExtremeSpeed,ExtremeSpeed Inc.
+00:50:C2:16:90/36,Nordson     ,Nordson Corp.
+00:50:C2:16:A0/36,TimeDomain  ,Time Domain
+00:50:C2:16:B0/36,Masterclock ,"Masterclock, Inc."
+00:50:C2:16:C0/36,BrijingEmbed,Brijing Embedor Embedded Internet Tech. Co. Ltd.
+00:50:C2:16:D0/36,PostecData  ,Postec Data Systems Ltd.
+00:50:C2:16:E0/36,Pmc         ,Pmc
+00:50:C2:16:F0/36,DicksonTechn,Dickson Technologies
+00:50:C2:17:00/36,TaishodoSeik,"Taishodo Seiko Co., Ltd."
+00:50:C2:17:10/36,Quantronix  ,"Quantronix, Inc."
+00:50:C2:17:20/36,SAETIS      ,SAET I.S. S.r.l.
+00:50:C2:17:30/36,DeMeTec     ,DeMeTec GmbH
+00:50:C2:17:40/36,N&PTechnolog,N&P Technologies
+00:50:C2:17:50/36,Sei         ,Sei S.p.A.
+00:50:C2:17:60/36,Wavium      ,Wavium AB
+00:50:C2:17:70/36,Unicoi      ,Unicoi Systems
+00:50:C2:17:80/36,PartnerVoxst,Partner Voxstream A/S
+00:50:C2:17:90/36,Verifiber   ,Verifiber LLC
+00:50:C2:17:A0/36,WOLFAdvanced,WOLF Advanced Technology.
+00:50:C2:17:B0/36,BroadstormTe,Broadstorm Telecom
+00:50:C2:17:C0/36,JeffressEngi,Jeffress Engineering Pty Ltd
+00:50:C2:17:D0/36,Cognex      ,Cognex Corporation
+00:50:C2:17:E0/36,BinaryWaveTe,Binary Wave Technologies Inc.
+00:50:C2:17:F0/36,PDQManufactu,PDQ Manufacturing
+00:50:C2:18:00/36,ZultysTechno,Zultys Technologies
+00:50:C2:18:10/36,Task84      ,Task 84 Spa
+00:50:C2:18:20/36,wolfinftec  ,wolf-inf-tec
+00:50:C2:18:30/36,Mixbaal     ,Mixbaal S.A. de C.V.
+00:50:C2:18:40/36,HMComputing ,H M Computing Limited
+00:50:C2:18:50/36,OpticalWirel,Optical Wireless Link Inc.
+00:50:C2:18:60/36,PantecEngine,Pantec Engineering AG
+00:50:C2:18:70/36,CyanTechnolo,Cyan Technology Ltd
+00:50:C2:18:80/36,dresdenelekt,dresden-elektronik
+00:50:C2:18:90/36,CC          ,CC Systems AB
+00:50:C2:18:A0/36,BaslerElectr,Basler Electric Company
+00:50:C2:18:B0/36,Teradyne    ,Teradyne Inc.
+00:50:C2:18:C0/36,Technodrive ,Technodrive srl
+00:50:C2:18:D0/36,CCII        ,CCII Systems (Pty) Ltd
+00:50:C2:18:E0/36,SparrElectro,Sparr Electronics Ltd
+00:50:C2:18:F0/36,MatsuiMfg   ,"Matsui Mfg Co.,Ltd"
+00:50:C2:19:00/36,Goerlitz    ,Goerlitz AG
+00:50:C2:19:10/36,PartnerVoxst,Partner Voxstream A/S
+00:50:C2:19:20/36,AdvancedConc,"Advanced Concepts, Inc."
+00:50:C2:19:30/36,LaserBitComm,LaserBit Communications Corp.
+00:50:C2:19:40/36,Cominfo     ,"Cominfo, Inc."
+00:50:C2:19:50/36,MomentumData,Momentum Data Systems
+00:50:C2:19:60/36,Netsynt     ,Netsynt Spa
+00:50:C2:19:70/36,EPMTecnologi,EPM Tecnologia e Equipamentos
+00:50:C2:19:80/36,PotsTek     ,"PotsTek, Inc"
+00:50:C2:19:90/36,SurvalentTec,Survalent Technology Corporation
+00:50:C2:19:A0/36,AzioTechnolo,Azio Technology Co.
+00:50:C2:19:B0/36,WilcoxonRese,"Wilcoxon Research, Inc."
+00:50:C2:19:C0/36,ArtecDesign ,Artec Design
+00:50:C2:19:D0/36,Electrex    ,Electrex S.R.L
+00:50:C2:19:E0/36,Paltronics  ,"Paltronics, Inc."
+00:50:C2:19:F0/36,FleetwoodEle,Fleetwood Electronics Ltd
+00:50:C2:1A:00/36,SCAData     ,SCA Data Systems
+00:50:C2:1A:10/36,Portalplayer,"Portalplayer, Inc"
+00:50:C2:1A:20/36,ABBSwitzerla,ABB Switzerland Inc
+00:50:C2:1A:30/36,TidelEnginee,"Tidel Engineering, L.P."
+00:50:C2:1A:40/36,ProtechOptro,Protech Optronics Co. Ltd.
+00:50:C2:1A:50/36,Norco       ,Norco
+00:50:C2:1A:60/36,RFCode      ,RF Code
+00:50:C2:1A:70/36,AlphaBetaTec,"Alpha Beta Technologies, Inc."
+00:50:C2:1A:80/36,AnovaBroadba,Anova Broadband
+00:50:C2:1A:90/36,AxotecTechno,Axotec Technologies GmbH
+00:50:C2:1A:A0/36,BitBox      ,BitBox Ltd
+00:50:C2:1A:B0/36,StreamingNet,Streaming Networks
+00:50:C2:1A:C0/36,BeckmannEgle,Beckmann+Egle GmbH
+00:50:C2:1A:D0/36,Remiasro    ,Remia s.r.o.
+00:50:C2:1A:E0/36,HomeDirector,"Home Director, Inc"
+00:50:C2:1A:F0/36,PESA        ,PESA Inc.
+00:50:C2:1B:00/36,BLANKOMAnten,BLANKOM Antennentechnik GmbH
+00:50:C2:1B:10/36,AxesTechnolo,Axes Technologies
+00:50:C2:1B:20/36,SIGOSSystemi,SIGOS Systemintegration GmbH
+00:50:C2:1B:30/36,DspDesign   ,Dsp Design
+00:50:C2:1B:40/36,DSPGroup    ,DSP Group Inc.
+00:50:C2:1B:50/36,ThraneThrane,Thrane & Thrane A/S
+00:50:C2:1B:60/36,DTS         ,"DTS, Inc."
+00:50:C2:1B:70/36,MosChipUSA  ,MosChip USA
+00:50:C2:1B:80/36,ElectronicDe,Electronic Systems Development
+00:50:C2:1B:90/36,EmComTechnol,EmCom Technology Inc.
+00:50:C2:1B:A0/36,Interzeag   ,Interzeag Ag
+00:50:C2:1B:B0/36,EmailMeterin,Email Metering
+00:50:C2:1B:C0/36,DINECInterna,DINEC International
+00:50:C2:1B:D0/36,AIOI        ,"AIOI Systems Co., Ltd."
+00:50:C2:1B:E0/36,SediaElectro,Sedia Electronics
+00:50:C2:1B:F0/36,Internationa,"International Test & Engineering Services Co.,Ltd."
+00:50:C2:1C:00/36,WillMonius  ,WillMonius Inc.
+00:50:C2:1C:10/36,InfinitiNetw,InfinitiNetworks Inc.
+00:50:C2:1C:20/36,Weltronics  ,Weltronics Corp.
+00:50:C2:1C:30/36,TTelectronic,TT electronics plc
+00:50:C2:1C:40/36,PalmSolution,Palm Solutions Group
+00:50:C2:1C:50/36,Flander     ,Flander Oy
+00:50:C2:1C:60/36,RemcoItalia ,Remco Italia Spa
+00:50:C2:1C:70/36,TwinDevelopm,Twin Development S.A.
+00:50:C2:1C:80/36,Euphonytechn,"Euphony technology CO., LTD."
+00:50:C2:1C:90/36,modas       ,modas GmbH
+00:50:C2:1C:A0/36,EVERSp      ,EVER Sp. z o.o.
+00:50:C2:1C:B0/36,quantumBEAM ,quantumBEAM Limited
+00:50:C2:1C:C0/36,WaveIP      ,WaveIP
+00:50:C2:1C:D0/36,INCAAInforma,INCAA Informatica Italia srl
+00:50:C2:1C:E0/36,DatatekAppli,"Datatek Applications, Inc."
+00:50:C2:1C:F0/36,LifetimeMemo,"Lifetime Memory Products, Inc."
+00:50:C2:1D:00/36,YazakiNorthA,"Yazaki North America, Inc."
+00:50:C2:1D:10/36,BenchmarkEle,Benchmark Electronics
+00:50:C2:1D:20/36,ShenyangInte,Shenyang Internet Technology Inc
+00:50:C2:1D:30/36,Synopsys    ,Synopsys
+00:50:C2:1D:40/36,PhaseIVEngin,Phase IV Engineering Inc.
+00:50:C2:1D:50/36,RedpointCont,Redpoint Controls
+00:50:C2:1D:60/36,trendintelli,"shanghai trend intelligent systems CO.,LTD"
+00:50:C2:1D:70/36,PleoraTechno,Pleora Technologies Inc.
+00:50:C2:1D:80/36,GuardianCont,Guardian Controls International Ltd
+00:50:C2:1D:90/36,Edc         ,Edc
+00:50:C2:1D:A0/36,GFIChronoTim,GFI Chrono Time
+00:50:C2:1D:B0/36,AppliedEngin,"Applied Systems Engineering, Inc."
+00:50:C2:1D:C0/36,ImardaNewZea,Imarda New Zealand Limited
+00:50:C2:1D:D0/36,peikeracusti,peiker acustic GmbH
+00:50:C2:1D:E0/36,ReliOn      ,ReliOn Inc.
+00:50:C2:1D:F0/36,LuleaUnivers,Lulea University of Technology
+00:50:C2:1E:00/36,Cognex      ,Cognex Corporation
+00:50:C2:1E:10/36,Automaatiote,Automaatiotekniikka Seppo Saari Oy
+00:50:C2:1E:20/36,DIGITRONICAu,DIGITRONIC Automationsanlagen GmbH
+00:50:C2:1E:30/36,Bluesocket  ,"Bluesocket, Inc."
+00:50:C2:1E:40/36,Soronti     ,"Soronti, Inc."
+00:50:C2:1E:50/36,DorletSau   ,Dorlet Sau
+00:50:C2:1E:60/36,UnitedTriTec,United Tri-Tech Corporation
+00:50:C2:1E:70/36,SmithMeter  ,"Smith Meter, Inc."
+00:50:C2:1E:80/36,Metrotech   ,Metrotech
+00:50:C2:1E:90/36,RanchNetwork,Ranch Networks
+00:50:C2:1E:A0/36,Dave        ,Dave Srl
+00:50:C2:1E:B0/36,DataRespons ,Data Respons A/S
+00:50:C2:1E:C0/36,COSMO       ,"COSMO co.,ltd."
+00:50:C2:1E:D0/36,EMKAelectron,EMKA-electronic AG
+00:50:C2:1E:E0/36,PertoPerifér,Perto Periféricos de Automação S.A.
+00:50:C2:1E:F0/36,M2Technology,M2 Technology Pty Ltd
+00:50:C2:1F:00/36,EXIWireless ,EXI Wireless Systems Inc.
+00:50:C2:1F:10/36,SKYComputers,"SKY Computers, Inc."
+00:50:C2:1F:20/36,Tattile     ,Tattile srl
+00:50:C2:1F:30/36,RadionorComm,Radionor Communications
+00:50:C2:1F:40/36,Covia       ,"Covia, Inc"
+00:50:C2:1F:50/36,AbestCommuni,Abest Communication Corp.
+00:50:C2:1F:60/36,BAEControls ,BAE SYSTEMS Controls
+00:50:C2:1F:70/36,ARCCréations,ARC'Créations
+00:50:C2:1F:80/36,UltrackerTec,Ultracker Technology
+00:50:C2:1F:90/36,FrSauter    ,Fr. Sauter AG
+00:50:C2:1F:A0/36,SPControls  ,"SP Controls, Inc"
+00:50:C2:1F:B0/36,Willowglen  ,Willowglen Systems Inc.
+00:50:C2:1F:C0/36,EDD         ,EDD Srl
+00:50:C2:1F:D0/36,SouthWingSL ,SouthWing S.L.
+00:50:C2:1F:E0/36,SafetranTraf,Safetran Traffic Systems Inc.
+00:50:C2:1F:F0/36,ProductDesig,"Product Design Dept., Sohwa Corporation"
+00:50:C2:20:00/36,WhittierMail,"Whittier Mailing Products, Inc."
+00:50:C2:20:10/36,OlympusNDT  ,OlympusNDT
+00:50:C2:20:20/36,AudioRiders ,Audio Riders Oy
+00:50:C2:20:30/36,VocalityInte,Vocality International Ltd
+00:50:C2:20:40/36,AlgodueElett,Algodue Elettronica Srl
+00:50:C2:20:50/36,SystIng     ,SystIng
+00:50:C2:20:60/36,WindmillInno,Windmill Innovations
+00:50:C2:20:70/36,SolectronInd,Solectron Ind.Com.Servs.Exportadora do Brasil Ltda.
+00:50:C2:20:80/36,nNovia      ,"nNovia, Inc."
+00:50:C2:20:90/36,LK          ,LK Ltd
+00:50:C2:20:A0/36,Ferrarielect,Ferrari electronic AG
+00:50:C2:20:B0/36,Rafael      ,Rafael
+00:50:C2:20:C0/36,Communicatio,Communication and Telemechanical Systems Company Limited
+00:50:C2:20:D0/36,Varisys     ,Varisys Ltd
+00:50:C2:20:E0/36,PYRAMIDCompu,PYRAMID Computer GmbH
+00:50:C2:20:F0/36,OMICRONelect,OMICRON electronics GmbH
+00:50:C2:21:00/36,InnovicsWire,Innovics Wireless Inc
+00:50:C2:21:10/36,Hochschulefü,"Hochschule für Technik, Wirtschaft und Kultur Leipzig (FH)"
+00:50:C2:21:20/36,4Links      ,4Links Limited
+00:50:C2:21:30/36,SysAware    ,SysAware S.A.R.L.
+00:50:C2:21:40/36,OshimiSystem,Oshimi System Design Inc.
+00:50:C2:21:50/36,VoiceCom    ,VoiceCom AG
+00:50:C2:21:60/36,LevelControl,Level Control Systems
+00:50:C2:21:70/36,LinnProducts,Linn Products Ltd
+00:50:C2:21:80/36,NansenSAInst,Nansen S. A. - Instrumentos de Precisão
+00:50:C2:21:90/36,Aeroflex    ,Aeroflex GmbH
+00:50:C2:21:A0/36,Mst         ,Mst Systems Limited
+00:50:C2:21:B0/36,GDMission   ,GD Mission Systems
+00:50:C2:21:C0/36,Fracarro    ,Fracarro srl
+00:50:C2:21:D0/36,ESGElektroni,ESG Elektroniksystem u. Logistik GmbH
+00:50:C2:21:E0/36,AppliedTechn,Applied Technologies Associates
+00:50:C2:21:F0/36,MonitorBusin,Monitor Business Machines Ltd
+00:50:C2:22:00/36,Serveron    ,Serveron Corporation
+00:50:C2:22:10/36,GetingeITSol,Getinge IT Solutions ApS
+00:50:C2:22:20/36,imoelektroni,imo-elektronik GmbH
+00:50:C2:22:30/36,visicontrol ,visicontrol GmbH
+00:50:C2:22:40/36,PANNOCOM    ,PANNOCOM Ltd.
+00:50:C2:22:50/36,nVentSchroff,"nVent, Schroff GmbH"
+00:50:C2:22:60/36,RossVideo   ,Ross Video Limited
+00:50:C2:22:70/36,IntelligentP,Intelligent Photonics Control
+00:50:C2:22:80/36,IntelligentM,"Intelligent Media Technologies, Inc."
+00:50:C2:22:90/36,eko         ,eko systems inc.
+00:50:C2:22:A0/36,CrescendoNet,Crescendo Networks
+00:50:C2:22:B0/36,RieglLaserMe,Riegl Laser Measurement Systems GmbH
+00:50:C2:22:C0/36,Intrinsity  ,Intrinsity
+00:50:C2:22:D0/36,asetek      ,asetek Inc.
+00:50:C2:22:E0/36,LordIngenier,Lord Ingenierie
+00:50:C2:22:F0/36,HTEC        ,HTEC Limited
+00:50:C2:23:00/36,AutoTOOLSgro,AutoTOOLS group Co. Ltd.
+00:50:C2:23:10/36,Legra       ,"Legra Systems, Inc."
+00:50:C2:23:20/36,Simet       ,Simet
+00:50:C2:23:30/36,EdenTreeTech,"EdenTree Technologies, Inc."
+00:50:C2:23:40/36,Silverback  ,Silverback Systems
+00:50:C2:23:50/36,PolimarElekt,Polimar Elektronik Ltd.
+00:50:C2:23:60/36,JLCooperElec,JLCooper Electronics
+00:50:C2:23:70/36,Tandata     ,Tandata Systems Ltd
+00:50:C2:23:80/36,SchwerKopka ,Schwer+Kopka GmbH
+00:50:C2:23:90/36,StinsComan  ,Stins Coman
+00:50:C2:23:A0/36,ChantryNetwo,Chantry Networks
+00:50:C2:23:B0/36,Envara      ,Envara
+00:50:C2:23:C0/36,Wheatstone  ,Wheatstone Corporation
+00:50:C2:23:D0/36,Gauging     ,Gauging Systems Inc
+00:50:C2:23:E0/36,Kallastra   ,Kallastra Inc.
+00:50:C2:23:F0/36,HalliburtonN,Halliburton - NUMAR
+00:50:C2:24:00/36,Geoquip     ,Geoquip Ltd
+00:50:C2:24:10/36,ContronicsAu,Contronics Automacao Ltda
+00:50:C2:24:20/36,MdsSciex    ,Mds Sciex
+00:50:C2:24:30/36,RGBSpectrum ,RGB Spectrum
+00:50:C2:24:40/36,intec       ,intec GmbH
+00:50:C2:24:50/36,HauppaugeCom,"Hauppauge Computer Works, Inc."
+00:50:C2:24:60/36,Hardmeier   ,Hardmeier
+00:50:C2:24:70/36,GradualTecno,Gradual Tecnologia Ltda.
+00:50:C2:24:80/36,DixtalBiomed,Dixtal Biomedica Ind. Com. Ltda.
+00:50:C2:24:90/36,Bender      ,Bender GmbH & Co. KG
+00:50:C2:24:A0/36,CDSRail     ,CDS Rail
+00:50:C2:24:B0/36,Azimuth     ,"Azimuth Systems, Inc."
+00:50:C2:24:C0/36,Supertel    ,Supertel
+00:50:C2:24:D0/36,MettlerToled,Mettler Toledo
+00:50:C2:24:E0/36,ScharffWeisb,Scharff Weisberg Systems Integration Inc
+00:50:C2:24:F0/36,Macronet    ,Macronet s.r.l.
+00:50:C2:25:00/36,ACDElektroni,ACD Elektronik GmbH
+00:50:C2:25:10/36,DGTSp       ,DGT Sp. z o.o.
+00:50:C2:25:20/36,adstec      ,ads-tec GmbH
+00:50:C2:25:30/36,DSMMesstechn,DSM-Messtechnik GmbH
+00:50:C2:25:40/36,ThalesCommun,Thales Communications Ltd
+00:50:C2:25:50/36,STMicroelect,STMicroelectronics SRL
+00:50:C2:25:60/36,InformationT,Information Technology Corp.
+00:50:C2:25:70/36,DigicastNetw,Digicast Networks
+00:50:C2:25:80/36,Spacesaver  ,Spacesaver Corporation
+00:50:C2:25:90/36,OmicronCeti ,Omicron Ceti AB
+00:50:C2:25:A0/36,Zendex      ,Zendex Corporation
+00:50:C2:25:B0/36,WinfordEngin,Winford Engineering
+00:50:C2:25:C0/36,SofthillTech,Softhill Technologies Ltd.
+00:50:C2:25:D0/36,Rdtech      ,Rdtech
+00:50:C2:25:E0/36,MITEHradecKr,"MITE Hradec Kralove, s.r.o."
+00:50:C2:25:F0/36,AlbertHandtm,Albert Handtmann Maschinenfabrik GmbH&Co.KG
+00:50:C2:26:00/36,Biotage     ,Biotage
+00:50:C2:26:10/36,Tattile     ,Tattile Srl
+00:50:C2:26:20/36,GaozhiScienc,Shanghai Gaozhi Science&Technology Development Ltd.
+00:50:C2:26:30/36,VanscoElectr,Vansco Electronics Oy
+00:50:C2:26:40/36,ConfidenceDi,Confidence Direct Ltd
+00:50:C2:26:50/36,BelikSPRL   ,Belik S.P.R.L.
+00:50:C2:26:60/36,ATOMGIKEN   ,"ATOM GIKEN Co.,Ltd."
+00:50:C2:26:70/36,AllenMartinC,Allen Martin Conservation Ltd
+00:50:C2:26:80/36,Parabit     ,Parabit Systems
+00:50:C2:26:90/36,Technisyst  ,Technisyst Pty Ltd
+00:50:C2:26:A0/36,FgSynerys   ,Fg Synerys
+00:50:C2:26:B0/36,ContinentalG,Continental Gateway Limited
+00:50:C2:26:C0/36,CrystalVisio,Crystal Vision Ltd
+00:50:C2:26:D0/36,DspDesign   ,Dsp Design
+00:50:C2:26:E0/36,ZPEngineerin,ZP Engineering SEL
+00:50:C2:26:F0/36,DigitalRecor,Digital Recorders Inc
+00:50:C2:27:00/36,S4Technology,S4 Technology Pty Ltd
+00:50:C2:27:10/36,VlsipTechnol,Vlsip Technologies Inc.
+00:50:C2:27:20/36,VerexTechnol,Verex Technology
+00:50:C2:27:30/36,ServiciosCon,"Servicios Condumex, S. A. de C. V."
+00:50:C2:27:40/36,FundaciónTEC,Fundación TECNALIA Research & Innovation
+00:50:C2:27:50/36,ExtremeEngin,Extreme Engineering Solutions
+00:50:C2:27:60/36,TielineResea,Tieline Research Pty Ltd
+00:50:C2:27:70/36,TR          ,"T/R Systems, Inc."
+00:50:C2:27:80/36,Replicom    ,Replicom Ltd.
+00:50:C2:27:90/36,PATLITE     ,PATLITE Corporation
+00:50:C2:27:A0/36,Maestro     ,Maestro Pty Ltd
+00:50:C2:27:B0/36,LinkSecurity,LinkSecurity A/S
+00:50:C2:27:C0/36,Danlaw      ,Danlaw Inc
+00:50:C2:27:D0/36,AlliedTelesi,Allied Telesis K.K.
+00:50:C2:27:E0/36,AnaLogicComp,AnaLogic Computers Ltd.
+00:50:C2:27:F0/36,AirBroadband,"Air Broadband Communications, Inc."
+00:50:C2:28:00/36,Agecodagis  ,Agecodagis Sarl
+00:50:C2:28:10/36,Cabtronix   ,Cabtronix AG
+00:50:C2:28:20/36,Telvent     ,Telvent
+00:50:C2:28:30/36,Ansitex     ,Ansitex Corp.
+00:50:C2:28:40/36,Micronet    ,Micronet Ltd.
+00:50:C2:28:50/36,Littwin     ,Littwin GmbH & Co KG
+00:50:C2:28:60/36,Ateme       ,Ateme
+00:50:C2:28:70/36,TECNEWElectr,"TECNEW Electronics Engineering Cr., Ltd."
+00:50:C2:28:80/36,RPM         ,RPM Systems Corporation
+00:50:C2:28:90/36,Rototype    ,Rototype S.p.A.
+00:50:C2:28:A0/36,RealTime    ,Real Time Systems
+00:50:C2:28:B0/36,OrionTechnol,"Orion Technologies,LLC"
+00:50:C2:28:C0/36,Futaba      ,Futaba Corporation
+00:50:C2:28:D0/36,Axode       ,Axode Sa
+00:50:C2:28:E0/36,Tattile     ,Tattile srl
+00:50:C2:28:F0/36,SpellmanHigh,Spellman High Voltage Electronics Corp
+00:50:C2:29:00/36,Ebneuro     ,Ebneuro Spa
+00:50:C2:29:10/36,ChauvinArnou,Chauvin Arnoux
+00:50:C2:29:20/36,AMIRIX      ,AMIRIX Systems
+00:50:C2:29:30/36,IPUnity     ,IP Unity
+00:50:C2:29:40/36,EPSa        ,EPSa GmbH
+00:50:C2:29:50/36,Logosol     ,"Logosol, Inc."
+00:50:C2:29:60/36,OpVista     ,OpVista
+00:50:C2:29:70/36,Kinetics    ,Kinetics
+00:50:C2:29:80/36,HarvadUniver,Harvad University
+00:50:C2:29:90/36,CADUL       ,CAD-UL GmbH
+00:50:C2:29:A0/36,PacketTechni,Packet Techniques Inc.
+00:50:C2:29:B0/36,ACDElektroni,ACD Elektronik GmbH
+00:50:C2:29:C0/36,2NTELEKOMUNI,2N TELEKOMUNIKACE a.s.
+00:50:C2:29:D0/36,GlobeWireles,Globe Wireless
+00:50:C2:29:E0/36,SELEXCommuni,SELEX Communications Ltd
+00:50:C2:29:F0/36,BaudischElec,Baudisch Electronic GmbH
+00:50:C2:2A:00/36,SterlingIndu,Sterling Industry Consult GmbH
+00:50:C2:2A:10/36,Infinetix   ,Infinetix Corp
+00:50:C2:2A:20/36,EpelsaSL    ,"Epelsa, SL"
+00:50:C2:2A:30/36,WestComNurse,"West-Com Nurse Call Systems, Inc."
+00:50:C2:2A:40/36,XipherEmbedd,Xipher Embedded Networking
+00:50:C2:2A:50/36,SeptierCommu,Septier Communication Ltd
+00:50:C2:2A:60/36,BrannstromsE,Brannstroms Elektronik AB
+00:50:C2:2A:70/36,MicroSystemA,Micro System Architecturing srl
+00:50:C2:2A:80/36,DVTelIsrael ,DVTel Israel Ltd.
+00:50:C2:2A:90/36,DrStaigerMoh,"Dr. Staiger, Mohilo + Co GmbH"
+00:50:C2:2A:A0/36,DEUTAWerke  ,DEUTA Werke GmbH
+00:50:C2:2A:B0/36,AUMInfotechP,AUM Infotech Private Limited
+00:50:C2:2A:C0/36,BBIEngineeri,"BBI Engineering, Inc."
+00:50:C2:2A:D0/36,ABBT&D      ,ABB T&D Spa
+00:50:C2:2A:E0/36,QuestRetailT,Quest Retail Technology Pty Ltd
+00:50:C2:2A:F0/36,CSAComputerA,CSA Computer & Antriebstechnik GmbH
+00:50:C2:2B:00/36,TeldaElectro,Telda Electronics
+00:50:C2:2B:10/36,Private     ,Private
+00:50:C2:2B:20/36,SmithsDetect,Smiths Detection
+00:50:C2:2B:30/36,EmbeddedDesi,Embedded Systems Design
+00:50:C2:2B:40/36,Polatis     ,Polatis Ltd
+00:50:C2:2B:50/36,HobbesComput,Hobbes Computer Network Accessories
+00:50:C2:2B:60/36,Softier     ,Softier Inc.
+00:50:C2:2B:70/36,RAFI        ,RAFI GmbH & Co.KG
+00:50:C2:2B:80/36,AdmiralSecur,"Admiral Secure Products, Ltd."
+00:50:C2:2B:90/36,RichmondSoun,Richmond Sound Design Ltd.
+00:50:C2:2B:A0/36,NorcoIndustr,Norco Industrial Technology Inc
+00:50:C2:2B:B0/36,TAInstrument,TA Instruments Ltd
+00:50:C2:2B:C0/36,UsterTechnol,Uster Technologies AG
+00:50:C2:2B:D0/36,StorLinkSemi,StorLink Semi
+00:50:C2:2B:E0/36,LipowskyIndu,Lipowsky Industrie-Elektronik GmbH
+00:50:C2:2B:F0/36,Perax       ,Perax
+00:50:C2:2C:00/36,MagellanTech,Magellan Technology Pty Limited
+00:50:C2:2C:10/36,StageTecEntw,Stage Tec Entwicklungsgesellschaft für professionelle Audio
+00:50:C2:2C:20/36,Smarteye    ,Smarteye Corporation
+00:50:C2:2C:30/36,DigitalSP   ,Digital SP Ltd
+00:50:C2:2C:40/36,InvensysEner,Invensys Energy Systens (NZ) Limited
+00:50:C2:2C:50/36,Elman       ,Elman srl
+00:50:C2:2C:60/36,InitialElect,Initial Electronic Security Systems
+00:50:C2:2C:70/36,SiliquentTec,Siliquent Technologies Ltd
+00:50:C2:2C:80/36,Selco       ,Selco
+00:50:C2:2C:90/36,RosemanEngin,Roseman Engineering Ltd.
+00:50:C2:2C:A0/36,Putercom    ,"Putercom Co., Ltd"
+00:50:C2:2C:B0/36,FACTSEnginee,FACTS Engineering LLC
+00:50:C2:2C:C0/36,EmbeddedTool,Embedded Toolsmiths
+00:50:C2:2C:D0/36,DataWindRese,DataWind Research
+00:50:C2:2C:E0/36,RossVideo   ,Ross Video Limited
+00:50:C2:2C:F0/36,DiseñodeSist,Diseño de Sistemas en Silicio S.A.
+00:50:C2:2D:00/36,WorthData   ,"Worth Data, Inc."
+00:50:C2:2D:10/36,Miritek     ,"Miritek, Inc."
+00:50:C2:2D:20/36,AirnetCommun,Airnet Communications Corp
+00:50:C2:2D:30/36,GerberScient,"Gerber Scientific Products, Inc."
+00:50:C2:2D:40/36,IntegratedSy,Integrated System Solution Corp.
+00:50:C2:2D:50/36,Pixy        ,Pixy Ag
+00:50:C2:2D:60/36,WISTechnolog,WIS Technologies
+00:50:C2:2D:70/36,NeoElectroni,Neo Electronics Ltd
+00:50:C2:2D:80/36,SynTech     ,Syn-Tech Systems Inc
+00:50:C2:2D:90/36,Private     ,Private
+00:50:C2:2D:A0/36,PYRAMIDCompu,PYRAMID Computer GmbH
+00:50:C2:2D:B0/36,AutoTOOLSgro,AutoTOOLS group Co. Ltd.
+00:50:C2:2D:C0/36,WienerPleinB,"Wiener, Plein & Baus GmbH"
+00:50:C2:2D:D0/36,WestekTechno,Westek Technology Ltd
+00:50:C2:2D:E0/36,ResearchAppl,Research Applications
+00:50:C2:2D:F0/36,MicrelNke   ,Micrel-Nke
+00:50:C2:2E:00/36,BaxterIntern,Baxter International Inc
+00:50:C2:2E:10/36,AccessIS    ,Access IS
+00:50:C2:2E:20/36,BallardTechn,"Ballard Technology, Inc,"
+00:50:C2:2E:30/36,MGIndustriee,MG Industrieelektronik GmbH
+00:50:C2:2E:40/36,iamba       ,iamba LTD.
+00:50:C2:2E:50/36,TranstechDSP,Transtech DSP
+00:50:C2:2E:60/36,Dalsa       ,Dalsa
+00:50:C2:2E:70/36,SafeView    ,"SafeView, Inc."
+00:50:C2:2E:80/36,SMVSystemele,S.M.V. Systemelektronik GmbH
+00:50:C2:2E:90/36,SRIInternati,SRI International
+00:50:C2:2E:A0/36,QUBIsoft    ,QUBIsoft S.r.l.
+00:50:C2:2E:B0/36,LinggJankeOH,Lingg & Janke OHG
+00:50:C2:2E:C0/36,BookDigital ,"Chengdu Book Digital Co., Ltd"
+00:50:C2:2E:D0/36,4RFCommunica,4RF Communications Ltd
+00:50:C2:2E:E0/36,SHFCommunica,SHF Communication Technologies AG
+00:50:C2:2E:F0/36,Profline    ,Profline B.V.
+00:50:C2:2F:00/36,LECO        ,LECO Corporation
+00:50:C2:2F:10/36,Geometrics  ,"Geometrics, Inc."
+00:50:C2:2F:20/36,Eurotek     ,Eurotek Srl
+00:50:C2:2F:30/36,CrossbowTech,"Crossbow Technology, Inc."
+00:50:C2:2F:40/36,EfficientCha,Efficient Channel Coding
+00:50:C2:2F:50/36,ADChips     ,ADChips
+00:50:C2:2F:60/36,CliffordChan,Clifford Chance LLP
+00:50:C2:2F:70/36,GillamFei   ,Gillam-Fei S.A.
+00:50:C2:2F:80/36,SavvyCorpcom,SavvyCorp.com Ltd
+00:50:C2:2F:90/36,Digilent    ,Digilent Inc.
+00:50:C2:2F:A0/36,TornadoModul,Tornado Modular Systems
+00:50:C2:2F:B0/36,ArthurIndust,"Arthur Industries Inc., dba On Hold Media Group"
+00:50:C2:2F:C0/36,Blackline   ,Blackline Systems Corporation
+00:50:C2:2F:D0/36,AmericanMicr,"American Microsystems, Ltd."
+00:50:C2:2F:E0/36,Saab        ,Saab AB
+00:50:C2:2F:F0/36,PatriaAdvanc,Patria Advanced Solutions
+00:50:C2:30:00/36,SoredexInstr,Soredex Instrumentarium Oyj
+00:50:C2:30:10/36,DelphiDispla,"Delphi Display Systems, Inc."
+00:50:C2:30:20/36,EuroDesignem,EuroDesign embedded technologies GmbH
+00:50:C2:30:30/36,CI          ,CI Systems Ltd.
+00:50:C2:30:40/36,COMERSON    ,COMERSON S.r.l.
+00:50:C2:30:50/36,Symbium     ,Symbium Corporation
+00:50:C2:30:60/36,NoranTelComm,Noran Tel Communications Ltd.
+00:50:C2:30:70/36,Uniondigital,"Uniondigital.,Co.Ltd"
+00:50:C2:30:80/36,FiveCo      ,FiveCo
+00:50:C2:30:90/36,Rackmaster  ,"Rackmaster Systems, Inc."
+00:50:C2:30:A0/36,InningsTelec,Innings Telecom Inc.
+00:50:C2:30:B0/36,VXTechnologi,VX Technologies Inc.
+00:50:C2:30:C0/36,Teamlog     ,Teamlog
+00:50:C2:30:D0/36,Setaram     ,Setaram
+00:50:C2:30:E0/36,LevitonManuf,"Leviton Manufacturing Co., Inc"
+00:50:C2:30:F0/36,Digicontrole,Digicontrole Lda
+00:50:C2:31:00/36,Cybertron   ,"Cybertron Co., Ltd."
+00:50:C2:31:10/36,Comodo      ,Comodo
+00:50:C2:31:20/36,DeseTechnolo,Dese Technologies SL
+00:50:C2:31:30/36,SAIABurgessC,SAIA Burgess Controls AG
+00:50:C2:31:40/36,MicroBee    ,"MicroBee Systems, Inc"
+00:50:C2:31:50/36,ifaksystem  ,ifak system GmbH
+00:50:C2:31:60/36,Dataline    ,Dataline AB
+00:50:C2:31:70/36,Cosine      ,"Cosine Systems, Inc."
+00:50:C2:31:80/36,Milmega     ,Milmega Ltd
+00:50:C2:31:90/36,Invatron    ,Invatron Systems Corp.
+00:50:C2:31:A0/36,ZodiakData  ,Zodiak Data Systems
+00:50:C2:31:B0/36,Datacon     ,Datacon
+00:50:C2:31:C0/36,AxyomCore   ,AxyomCore Inc.
+00:50:C2:31:D0/36,ImardaNewZea,Imarda New Zealand Limited
+00:50:C2:31:E0/36,C3ilex      ,"C3-ilex, LLC"
+00:50:C2:31:F0/36,GeotechInstr,"Geotech Instruments, LLC"
+00:50:C2:32:00/36,DTASENSOR   ,DTASENSOR S.p.A.
+00:50:C2:32:10/36,Uxp         ,Uxp
+00:50:C2:32:20/36,BQTSolutions,BQT Solutions (Australia) Limited
+00:50:C2:32:30/36,RedRockNetwo,Red Rock Networks
+00:50:C2:32:40/36,Odixion     ,Odixion
+00:50:C2:32:50/36,FederalAviat,Federal Aviation Administration
+00:50:C2:32:60/36,Navionics   ,Navionics S.p.A.
+00:50:C2:32:70/36,Dornier     ,Dornier GmbH
+00:50:C2:32:80/36,ICSElectroni,I.C.S. Electronics Limited
+00:50:C2:32:90/36,Imax        ,Imax
+00:50:C2:32:A0/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:32:B0/36,DigitalMulti,Digital Multimedia Technologies Spa
+00:50:C2:32:C0/36,IntegratedSi,"Integrated Silicon Solution (Taiwan), Inc."
+00:50:C2:32:D0/36,ConsensZeite,Consens Zeiterfassung GMBH
+00:50:C2:32:E0/36,ManusaGestSL,"Manusa-Gest, S.L."
+00:50:C2:32:F0/36,Pultronics  ,Pultronics
+00:50:C2:33:00/36,Sicon       ,Sicon srl
+00:50:C2:33:10/36,BroadcastSpo,Broadcast Sports Inc
+00:50:C2:33:20/36,PunjabCommun,Punjab Communications Ltd
+00:50:C2:33:30/36,Radix       ,Radix Corporation
+00:50:C2:33:40/36,PictureEleme,"Picture Elements, Inc."
+00:50:C2:33:50/36,NimcatNetwor,Nimcat Networks
+00:50:C2:33:60/36,GoldenRiverT,Golden River Traffic
+00:50:C2:33:70/36,Eti         ,Eti
+00:50:C2:33:80/36,Ernitec     ,Ernitec A/S
+00:50:C2:33:90/36,SecureServic,Secure Systems & Services
+00:50:C2:33:A0/36,UnitedTeleco,United Telecoms Ltd
+00:50:C2:33:B0/36,MultimediaLE,MultimediaLED
+00:50:C2:33:C0/36,SkipJam     ,SkipJam
+00:50:C2:33:D0/36,GDMission   ,GD Mission Systems
+00:50:C2:33:E0/36,CATechnology,"CA Technology, Inc"
+00:50:C2:33:F0/36,EXYSbvba    ,EXYS bvba
+00:50:C2:34:00/36,Virtu       ,Virtu
+00:50:C2:34:10/36,Novx        ,Novx Systems
+00:50:C2:34:20/36,StMichaelStr,St. Michael Strategies
+00:50:C2:34:30/36,ABBXiamenSwi,ABB Xiamen Switchgear Co. Ltd.
+00:50:C2:34:40/36,adstec      ,ads-tec GmbH
+00:50:C2:34:50/36,Act         ,Act
+00:50:C2:34:60/36,biokeysystem,biokeysystem
+00:50:C2:34:70/36,RowSeven    ,Row Seven Ltd
+00:50:C2:34:80/36,KoolSpan    ,"KoolSpan, Inc."
+00:50:C2:34:90/36,SSISchaeferP,SSI Schaefer Peem
+00:50:C2:34:A0/36,NIE         ,NIE Corporation
+00:50:C2:34:B0/36,Ecutel      ,"Ecutel Systems, Inc."
+00:50:C2:34:C0/36,ChuoElectric,"Chuo Electric Works Co., LTD."
+00:50:C2:34:D0/36,BMKprofessio,BMK professional electronics GmbH
+00:50:C2:34:E0/36,ABBPowerTech,ABB Power Technologies S.p.A. Unità Operativa SACE (PTMV)
+00:50:C2:34:F0/36,NorthPoleEng,"North Pole Engineering, Inc."
+00:50:C2:35:00/36,KinesysProje,Kinesys Projects Limited
+00:50:C2:35:10/36,Finesystem  ,"Finesystem Co., Ltd"
+00:50:C2:35:20/36,Luceo       ,Luceo
+00:50:C2:35:30/36,CrossingInfo,Crossing Informationssysteme GmbH
+00:50:C2:35:40/36,AdvancedIPCo,Advanced IP Communications
+00:50:C2:35:50/36,Ihm         ,Ihm
+00:50:C2:35:60/36,BaytechCinem,Baytech Cinema
+00:50:C2:35:70/36,AthenaSemico,Athena Semiconductor
+00:50:C2:35:80/36,Alcea       ,Alcea
+00:50:C2:35:90/36,KramerElectr,Kramer Electronics Ltd.
+00:50:C2:35:A0/36,AdvancedSiNe,"Advanced Si-Net Co., LTD."
+00:50:C2:35:B0/36,VlsipTechnol,"Vlsip Technologies, Inc"
+00:50:C2:35:C0/36,Ratotec     ,Ratotec GmbH
+00:50:C2:35:D0/36,NetTest     ,NetTest A/S
+00:50:C2:35:E0/36,JobinYvon   ,"Jobin Yvon,Inc"
+00:50:C2:35:F0/36,FImm        ,F.Imm. S.r.L.
+00:50:C2:36:00/36,DigitalRecei,Digital Receiver Technology
+00:50:C2:36:10/36,Contec      ,Contec
+00:50:C2:36:20/36,AZDPrahasro ,AZD Praha s.r.o.
+00:50:C2:36:30/36,Septentrio  ,Septentrio nv/sa
+00:50:C2:36:40/36,Tattile     ,Tattile srl
+00:50:C2:36:50/36,Vpg         ,Vpg
+00:50:C2:36:60/36,VanguardTech,Vanguard Technology Corp.
+00:50:C2:36:70/36,CANMAXTechno,CANMAX Technology Ltd.
+00:50:C2:36:80/36,Aspel       ,Aspel S.A.
+00:50:C2:36:90/36,AlwaysOnWire,Always On Wireless
+00:50:C2:36:A0/36,OptronicPart,Optronic Partner pr AB
+00:50:C2:36:B0/36,MinervaTechn,Minerva Technology Inc
+00:50:C2:36:C0/36,RISCOGroup  ,RISCO Group
+00:50:C2:36:D0/36,OplinkCommun,Oplink Communications
+00:50:C2:36:E0/36,MinicomAdvan,Minicom Advanced Systems Ltd
+00:50:C2:36:F0/36,XIMEAsro    ,XIMEA s.r.o.
+00:50:C2:37:00/36,EuropeTechno,Europe Technologies
+00:50:C2:37:10/36,DigitalArtSy,Digital Art System
+00:50:C2:37:20/36,ELVElektroni,ELV Elektronik AG
+00:50:C2:37:30/36,CompanionWor,"Companion Worlds, inc."
+00:50:C2:37:40/36,OwasysAdvanc,Owasys Advanced Wireless Devices
+00:50:C2:37:50/36,TIR         ,TIR Systems Ltd.
+00:50:C2:37:60/36,Cleode      ,Cleode
+00:50:C2:37:70/36,XycomVME    ,Xycom VME
+00:50:C2:37:80/36,DaintreeNetw,Daintree Networks Pty
+00:50:C2:37:90/36,ControlLAN  ,Control LAN S.A.
+00:50:C2:37:A0/36,IDA         ,IDA Corporation
+00:50:C2:37:B0/36,FreescaleSem,Freescale Semiconductor
+00:50:C2:37:C0/36,MODIA       ,"MODIA SYSTEMS Co., Ltd"
+00:50:C2:37:D0/36,VeroTrak    ,VeroTrak Inc.
+00:50:C2:37:E0/36,Ni          ,Ni.Co. S.r.l.
+00:50:C2:37:F0/36,Foresearch  ,Foresearch
+00:50:C2:38:00/36,EKEElectroni,EKE-Electronics Ltd.
+00:50:C2:38:10/36,RealtimeEngi,Realtime Engineering AG
+00:50:C2:38:20/36,ColoradovNet,Colorado vNet
+00:50:C2:38:30/36,ICSElectroni,ICS Electronics
+00:50:C2:38:40/36,WirelessRead,Wireless Reading Systems Holding ASA
+00:50:C2:38:50/36,SUNGJINNEOTE,SUNGJIN NEOTECH Co.Ltd.
+00:50:C2:38:60/36,PrecisionSys,"Precision System Science Co.,Ltd"
+00:50:C2:38:70/36,Inoteskasro ,Inoteska s.r.o.
+00:50:C2:38:80/36,IEE         ,IEE Inc
+00:50:C2:38:90/36,Exavio      ,Exavio Inc.
+00:50:C2:38:A0/36,Embedtronics,Embedtronics Enterprise
+00:50:C2:38:B0/36,InterBridge ,"InterBridge,Inc."
+00:50:C2:38:C0/36,Epsilon     ,Epsilon Srl
+00:50:C2:38:D0/36,A&GSoluzioni,A&G Soluzioni Digitali
+00:50:C2:38:E0/36,NordicAlarm ,Nordic Alarm AB
+00:50:C2:38:F0/36,TTCTelecom  ,TTC Telecom
+00:50:C2:39:00/36,TCCommunicat,TC Communications
+00:50:C2:39:10/36,Esensors    ,"Esensors, Inc."
+00:50:C2:39:20/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:39:30/36,SYSTECelectr,SYS TEC electronic GmbH
+00:50:C2:39:40/36,Embedit     ,Embedit A/S
+00:50:C2:39:50/36,vidisys     ,vidisys gmbh
+00:50:C2:39:60/36,RapidWave   ,RapidWave Inc.
+00:50:C2:39:70/36,MANGODSP    ,MANGO DSP Ltd.
+00:50:C2:39:80/36,InhandElectr,"Inhand Electronics, Inc."
+00:50:C2:39:90/36,AdvancedMicr,Advanced Micro Controls Inc.
+00:50:C2:39:A0/36,OpticalAirDa,Optical Air Data Systems
+00:50:C2:39:B0/36,YUYAMAMFG   ,"YUYAMA MFG Co.,Ltd"
+00:50:C2:39:C0/36,TiyodaMfg   ,"Tiyoda Mfg Co.,Ltd."
+00:50:C2:39:D0/36,DigitalDeck ,"DigitalDeck, Inc."
+00:50:C2:39:E0/36,ARGElectroDe,A.R.G ElectroDesign Ltd
+00:50:C2:39:F0/36,Isensix     ,Isensix
+00:50:C2:3A:00/36,StreetFireSo,"StreetFire Sound Labs, LLC"
+00:50:C2:3A:10/36,Samsoft     ,Samsoft
+00:50:C2:3A:20/36,VegasAmuseme,Vegas Amusement
+00:50:C2:3A:30/36,StarLinkComm,Star Link Communication Pvt. Ltd.
+00:50:C2:3A:40/36,SilvertreeEn,Silvertree Engineering Ltd
+00:50:C2:3A:50/36,LabJack     ,LabJack Corporation
+00:50:C2:3A:60/36,IntelliDesig,IntelliDesign Pty Ltd
+00:50:C2:3A:70/36,Elektrotechn,Elektrotechnik & Elektronik Oltmann GmbH
+00:50:C2:3A:80/36,Engim       ,"Engim, Inc."
+00:50:C2:3A:90/36,Westronic   ,Westronic Systems Inc.
+00:50:C2:3A:A0/36,NetworkedRob,Networked Robotics Corporation
+00:50:C2:3A:B0/36,taskitRechne,taskit Rechnertechnik GmbH
+00:50:C2:3A:C0/36,InAccessNetw,InAccess Networks
+00:50:C2:3A:D0/36,SpirentCommu,Spirent Communications (Scotland) Limited
+00:50:C2:3A:E0/36,HankukTapiCo,"Hankuk Tapi Computer Co., Ltd"
+00:50:C2:3A:F0/36,NorbitODMAS ,Norbit ODM AS
+00:50:C2:3B:00/36,MicrotargetT,Microtarget Tecnologia Digital Ltda.
+00:50:C2:3B:10/36,SpecstroySvy,Specstroy-Svyaz Ltd
+00:50:C2:3B:20/36,TennesseeVal,Tennessee Valley Authority
+00:50:C2:3B:30/36,MediaLab    ,"Media Lab., Inc."
+00:50:C2:3B:40/36,ContrôleAnal,Contrôle Analytique inc.
+00:50:C2:3B:50/36,NECTOKIN    ,NEC TOKIN Corporation
+00:50:C2:3B:60/36,ArecontVisio,Arecont Vision
+00:50:C2:3B:70/36,MindspeedTec,Mindspeed Technologies
+00:50:C2:3B:80/36,KeithKoep   ,Keith & Koep GmbH
+00:50:C2:3B:90/36,GilbarcoAuto,Gilbarco Autotank AB
+00:50:C2:3B:A0/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:3B:B0/36,IMAGOTechnol,IMAGO Technologies GmbH
+00:50:C2:3B:C0/36,Tyzx        ,"Tyzx, Inc."
+00:50:C2:3B:D0/36,BigbangLTD  ,Bigbang L.T.D.
+00:50:C2:3B:E0/36,PaulySteueru,Pauly Steuer- und Regelanlagen GmbH & Co. KG
+00:50:C2:3B:F0/36,AudioProcess,Audio Processing Technology Ltd
+00:50:C2:3C:00/36,EDAIndustrie,EDA Industries Pte. Ltd
+00:50:C2:3C:10/36,MicroTekElec,"MicroTek Electronics, Inc."
+00:50:C2:3C:20/36,Casabyte    ,Casabyte Inc.
+00:50:C2:3C:30/36,4gTechnologi,"4g Technologies, L.P."
+00:50:C2:3C:40/36,SyprisElectr,Sypris Electronics
+00:50:C2:3C:50/36,SiliconOptix,Silicon Optix Canada Inc.
+00:50:C2:3C:60/36,NetOptics   ,Net Optics
+00:50:C2:3C:70/36,SalentTechno,Salent Technologies Ltd
+00:50:C2:3C:80/36,WheelsZeus  ,Wheels of Zeus Inc.
+00:50:C2:3C:90/36,DilaxIntelco,Dilax Intelcom AG
+00:50:C2:3C:A0/36,ABB         ,ABB Inc.
+00:50:C2:3C:B0/36,Analytica   ,Analytica GmbH
+00:50:C2:3C:C0/36,LinkwellTele,Linkwell Telesystems Pvt Ltd
+00:50:C2:3C:D0/36,MicroMeasure,Micro-Measurements
+00:50:C2:3C:E0/36,WardLeonardE,Ward Leonard Electric Company
+00:50:C2:3C:F0/36,Technovare  ,"Technovare Systems, Inc."
+00:50:C2:3D:00/36,MicroRobotic,Micro-Robotics Limited
+00:50:C2:3D:10/36,Braintronics,Braintronics BV
+00:50:C2:3D:20/36,AdilecEnginy,Adilec Enginyeria SL
+00:50:C2:3D:30/36,AmericanLEDg,American LED-gible Inc.
+00:50:C2:3D:40/36,WisnuandSupa,"Wisnu and Supak Co.,Ltd."
+00:50:C2:3D:50/36,FlukeBiomedi,"Fluke Biomedical, Radiation Management Services"
+00:50:C2:3D:60/36,Comlab      ,Comlab Inc.
+00:50:C2:3D:70/36,TTCTELEKOMUN,TTC TELEKOMUNIKACE Ltd
+00:50:C2:3D:80/36,Key         ,"Key Systems , Inc."
+00:50:C2:3D:90/36,BavariaDigit,Bavaria Digital Technik GmbH
+00:50:C2:3D:A0/36,M5Data      ,M5 Data Limited
+00:50:C2:3D:B0/36,Osmetech    ,Osmetech Inc.
+00:50:C2:3D:C0/36,3Dperception,3D perception AS
+00:50:C2:3D:D0/36,ELMIC       ,ELMIC GmbH
+00:50:C2:3D:E0/36,ABBPowerTech,ABB Power Technologies S.p.A. Unità Operativa SACE (PTMV)
+00:50:C2:3D:F0/36,BiODE       ,BiODE Inc.
+00:50:C2:3E:00/36,OyStinghorn ,Oy Stinghorn Ltd
+00:50:C2:3E:10/36,NeuLion     ,NeuLion Incorporated
+00:50:C2:3E:20/36,SysNova     ,SysNova
+00:50:C2:3E:30/36,CSIRODivisio,CSIRO - Division of Exploration and Mining
+00:50:C2:3E:40/36,CUE         ,"CUE, a.s."
+00:50:C2:3E:50/36,Vacon       ,Vacon Plc
+00:50:C2:3E:60/36,Crde        ,Crde
+00:50:C2:3E:70/36,RevolutionEd,Revolution Education Ltd
+00:50:C2:3E:80/36,Conformative,"Conformative Systems, Inc."
+00:50:C2:3E:90/36,MedAvantHeal,MedAvant Healthcare
+00:50:C2:3E:A0/36,AlroInformat,Alro Information Systems SA
+00:50:C2:3E:B0/36,ISSInternati,ISS International
+00:50:C2:3E:C0/36,Teneros     ,Teneros
+00:50:C2:3E:D0/36,BoardRoom   ,The Board Room Inc.
+00:50:C2:3E:E0/36,Commoca     ,"Commoca, Inc"
+00:50:C2:3E:F0/36,PATIndustrie,"PAT Industries, DBA Pacific Advanced Technology"
+00:50:C2:3F:00/36,megatecelect,megatec electronic GmbH
+00:50:C2:3F:10/36,SallandElect,Salland Electronics Holding BV
+00:50:C2:3F:20/36,STL         ,STL GmbH
+00:50:C2:3F:30/36,HitachiEnerg,Hitachi Energy Germany AG
+00:50:C2:3F:40/36,MCTECHNOLOGY,MC TECHNOLOGY GmbH
+00:50:C2:3F:50/36,Phaedrus    ,Phaedrus Limited
+00:50:C2:3F:60/36,dAFTdATA    ,dAFTdATA Limited
+00:50:C2:3F:70/36,AdvantageR&D,Advantage R&D
+00:50:C2:3F:80/36,Superna     ,Superna Ltd
+00:50:C2:3F:90/36,Sintium     ,Sintium Ltd
+00:50:C2:3F:A0/36,Tumsan      ,Tumsan
+00:50:C2:3F:B0/36,nVentSchroff,"nVent, Schroff GmbH"
+00:50:C2:3F:C0/36,WeinbergerDe,Weinberger Deutschland GmbH
+00:50:C2:3F:D0/36,HARTMANNsoft,HARTMANN software GbR
+00:50:C2:3F:E0/36,HaiVision   ,HaiVision Systems Inc
+00:50:C2:3F:F0/36,CastIron    ,Cast Iron Systems
+00:50:C2:40:00/36,SmartMotorAS,SmartMotor AS
+00:50:C2:40:10/36,Promess     ,Promess Incorporated
+00:50:C2:40:20/36,NumeronSp   ,Numeron Sp. z o.o.
+00:50:C2:40:30/36,Rohde&Schwar,Rohde&Schwarz Topex SA
+00:50:C2:40:40/36,NanShanBridg,NanShanBridge Co.Ltd
+00:50:C2:40:50/36,Guralp      ,Guralp Systems Limited
+00:50:C2:40:60/36,CoreStreet  ,"CoreStreet, Ltd"
+00:50:C2:40:70/36,AIEEtudes   ,AIE Etudes
+00:50:C2:40:80/36,TERN        ,"TERN, Inc."
+00:50:C2:40:90/36,Ktec        ,Ktec Ltd
+00:50:C2:40:A0/36,ContecSteuer,Contec Steuerungstechnik & Automation GmbH
+00:50:C2:40:B0/36,CenterVOSPI ,Center VOSPI JSC
+00:50:C2:40:C0/36,AppliedMater,Applied Materials UK Ltd
+00:50:C2:40:D0/36,AfonicsFibre,Afonics Fibreoptics Ltd
+00:50:C2:40:E0/36,adstec      ,ads-tec GmbH
+00:50:C2:40:F0/36,Bir         ,"Bir,Inc."
+00:50:C2:41:00/36,Grossenbache,Grossenbacher Systeme AG
+00:50:C2:41:10/36,Multimessage,Multimessage Systems Ltd.
+00:50:C2:41:20/36,TSBSolutions,TSB Solutions Inc.
+00:50:C2:41:30/36,Goodrich    ,Goodrich
+00:50:C2:41:40/36,TalleresdeEs,Talleres de Escoriaza SA
+00:50:C2:41:50/36,SensoTech   ,SensoTech GmbH
+00:50:C2:41:60/36,SELCO       ,SELCO s.r.l.
+00:50:C2:41:70/36,QT          ,QT systems ab
+00:50:C2:41:80/36,Planea      ,Planea Oy
+00:50:C2:41:90/36,Mecsel      ,Mecsel Oy
+00:50:C2:41:A0/36,Bluewater   ,Bluewater Systems Ltd
+00:50:C2:41:B0/36,LogiMSoftwar,LogiM GmbH Software und Entwicklung
+00:50:C2:41:C0/36,Infrasafe   ,"Infrasafe, Inc."
+00:50:C2:41:D0/36,Altronic    ,"Altronic, Inc."
+00:50:C2:41:E0/36,VideotekSist,Videotek Sistemas Eletronicos Ltda.
+00:50:C2:41:F0/36,Avionica    ,"Avionica, Inc"
+00:50:C2:42:00/36,BoundlessTec,Boundless Technologies
+00:50:C2:42:10/36,Efsys       ,Efsys
+00:50:C2:42:20/36,adstec      ,ads-tec GmbH
+00:50:C2:42:30/36,PowerOne    ,Power-One Inc.
+00:50:C2:42:40/36,MetrolabTech,Metrolab Technology SA
+00:50:C2:42:50/36,PinnacleTech,Pinnacle Technology
+00:50:C2:42:60/36,STOMSystem  ,STOM System
+00:50:C2:42:70/36,ScheidtBachm,Scheidt & Bachmann GmbH
+00:50:C2:42:80/36,Roxar       ,Roxar A/S
+00:50:C2:42:90/36,MatthewsAust,Matthews Australasia
+00:50:C2:42:A0/36,DspDesign   ,Dsp Design
+00:50:C2:42:B0/36,VlsipTechnol,"Vlsip Technologies, Inc."
+00:50:C2:42:C0/36,TrapezeSoftw,Trapeze Software Group Inc
+00:50:C2:42:D0/36,ArgoTech    ,Argo-Tech
+00:50:C2:42:E0/36,OelmannElekt,Oelmann Elektronik GmbH
+00:50:C2:42:F0/36,Win4NET     ,Win4NET
+00:50:C2:43:00/36,ArcomDigital,Arcom Digital
+00:50:C2:43:10/36,Octatron    ,"Octatron, Inc."
+00:50:C2:43:20/36,TopwayIndust,Topway Industries Ltd.
+00:50:C2:43:30/36,IdetechEurop,Idetech Europe S.A.
+00:50:C2:43:40/36,ImperativeNe,ImperativeNetworks
+00:50:C2:43:50/36,AdatelTeleco,Adatel Telecomunicaciones S.A.
+00:50:C2:43:60/36,SatelliteSer,Satellite Services BV
+00:50:C2:43:70/36,PowerWAN    ,"PowerWAN, Inc"
+00:50:C2:43:80/36,TelecomProte,Telecom Protection Technologies Limited
+00:50:C2:43:90/36,PeletonPhoto,Peleton Photonic Systems
+00:50:C2:43:A0/36,ProDesign   ,ProDesign GmbH
+00:50:C2:43:B0/36,A3Ip        ,A3Ip
+00:50:C2:43:C0/36,DucommunLaBa,"Ducommun LaBarge Technologies, Inc"
+00:50:C2:43:D0/36,AnnArborSens,Ann Arbor Sensor Systems LLC
+00:50:C2:43:E0/36,Coppercom   ,Coppercom
+00:50:C2:43:F0/36,ARVOOImaging,ARVOO Imaging Products BV
+00:50:C2:44:00/36,AdvancedModu,Advanced Modular Computers Ltd.
+00:50:C2:44:10/36,SammiInforma,"Sammi Information Systems Co.,Ltd"
+00:50:C2:44:20/36,PicoComputin,"Pico Computing, Inc."
+00:50:C2:44:30/36,PickeringLab,Pickering Laboratories
+00:50:C2:44:40/36,Offshore    ,Offshore Systems Ltd
+00:50:C2:44:50/36,MICRONICsro ,MICRONIC s.r.o.
+00:50:C2:44:60/36,MicroTechnic,Micro Technic A-S
+00:50:C2:44:70/36,GrupoEpelsaS,Grupo Epelsa S.L.
+00:50:C2:44:80/36,Comtech     ,Comtech Systems Inc.
+00:50:C2:44:90/36,BLEILEDATENT,BLEILE DATENTECHNIK GmbH
+00:50:C2:44:A0/36,ElettronicaS,Elettronica Santerno SpA
+00:50:C2:44:B0/36,Solace      ,"Solace Systems, Inc."
+00:50:C2:44:C0/36,ComputimeUK ,Computime Systems UK Ltd.
+00:50:C2:44:D0/36,ElectroMatic,"Electro-Matic Products, Inc."
+00:50:C2:44:E0/36,QQTechnology,"QQ Technology,Inc"
+00:50:C2:44:F0/36,kippdata    ,kippdata GmbH
+00:50:C2:45:00/36,EnconairEcol,Enconair Ecological Chambers Inc.
+00:50:C2:45:10/36,HAMEG       ,HAMEG GmbH
+00:50:C2:45:20/36,ScameSistemi,Scame Sistemi srl
+00:50:C2:45:30/36,ErhardtLeime,Erhardt+Leimer GmbH
+00:50:C2:45:40/36,Brivo       ,"Brivo Systems, LLC"
+00:50:C2:45:50/36,GogoBA      ,Gogo BA
+00:50:C2:45:60/36,DRDCValcarti,DRDC Valcartier
+00:50:C2:45:70/36,Danbridge   ,Danbridge
+00:50:C2:45:80/36,HRZdata     ,HRZ data GmbH
+00:50:C2:45:90/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:45:A0/36,Funkwerkplet,Funkwerk plettac electronic GmbH
+00:50:C2:45:B0/36,MatraElectro,Matra Electronique
+00:50:C2:45:C0/36,DeisterElect,Deister Electronic GmbH
+00:50:C2:45:D0/36,DigitalEngin,"Digital Engineering, Inc."
+00:50:C2:45:E0/36,HalliburtonS,Halliburton - Sperry Drilling Service
+00:50:C2:45:F0/36,T2CMarketing,T2C Marketing AB
+00:50:C2:46:00/36,Vitelnet    ,Vitelnet
+00:50:C2:46:10/36,Tattile     ,Tattile Srl
+00:50:C2:46:20/36,CT          ,CT Company
+00:50:C2:46:30/36,Codem       ,"Codem Systems, Inc."
+00:50:C2:46:40/36,XYTACsystemt,XYTAC system technologies
+00:50:C2:46:50/36,PDTS        ,PDTS GmbH
+00:50:C2:46:60/36,LONAP       ,LONAP Limited
+00:50:C2:46:70/36,UnitedWester,United Western Technologies
+00:50:C2:46:80/36,NetworkIO   ,Network I/O
+00:50:C2:46:90/36,BipomElectro,"Bipom Electronics, Inc."
+00:50:C2:46:A0/36,ISE         ,ISE GmbH
+00:50:C2:46:B0/36,EASYTECH    ,EASYTECH GmbH
+00:50:C2:46:C0/36,CAMCO       ,CAMCO GmbH
+00:50:C2:46:D0/36,PaulScherrer,Paul Scherrer Institut (PSI)
+00:50:C2:46:E0/36,AvenirTechno,Avenir Technologies Inc.
+00:50:C2:46:F0/36,Neuroware   ,Neuroware
+00:50:C2:47:00/36,Cybectec    ,Cybectec inc.
+00:50:C2:47:10/36,PixtreeTechn,"Pixtree Technologies, inc."
+00:50:C2:47:20/36,KOP         ,KOP Ltd
+00:50:C2:47:30/36,SensusMeteri,Sensus Metering Systems Israel
+00:50:C2:47:40/36,Venue1      ,"Venue 1, Inc."
+00:50:C2:47:50/36,ISEPOS      ,ISEPOS GmbH
+00:50:C2:47:60/36,Ascon       ,Ascon S.p.a.
+00:50:C2:47:70/36,SEVTidsystem,SEV Tidsystem AB
+00:50:C2:47:80/36,Metafix     ,Metafix Inc.
+00:50:C2:47:90/36,UnlimitedBan,Unlimited Bandwidth LLC
+00:50:C2:47:A0/36,EfficientCha,Efficient Channel Coding
+00:50:C2:47:B0/36,PitneyBowes ,"Pitney Bowes, Inc"
+00:50:C2:47:C0/36,AUCONET     ,AUCONET GmbH
+00:50:C2:47:D0/36,WIT         ,WIT Inc
+00:50:C2:47:E0/36,EnergieUmwel,Energie Umwelt Systemtechnik GmbH
+00:50:C2:47:F0/36,BRIT        ,BRIT Inc.
+00:50:C2:48:00/36,SELKOM      ,SELKOM GmbH
+00:50:C2:48:10/36,ComputerScie,Computer Sciences Corp
+00:50:C2:48:20/36,PriamusSyste,Priamus System Technologies Ag
+00:50:C2:48:30/36,Ses         ,Ses
+00:50:C2:48:40/36,Kooltech    ,Kooltech LLC
+00:50:C2:48:50/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:48:60/36,SafegateInte,Safegate International AB
+00:50:C2:48:70/36,Eridon      ,Eridon Corporation
+00:50:C2:48:80/36,DaSistemi   ,Da Sistemi Spa
+00:50:C2:48:90/36,EREEElectron,EREE Electronique
+00:50:C2:48:A0/36,MobileMatrix,"Mobile Matrix, Inc."
+00:50:C2:48:B0/36,adstec      ,ads-tec GmbH
+00:50:C2:48:C0/36,Uniton      ,Uniton Ag
+00:50:C2:48:D0/36,MetronSp    ,Metron Sp. z o.o.
+00:50:C2:48:E0/36,TeledyneTekm,Teledyne Tekmar
+00:50:C2:48:F0/36,DENGYOSHA   ,"DENGYOSHA co.,LTD."
+00:50:C2:49:00/36,Cloanto     ,Cloanto Corporation
+00:50:C2:49:10/36,FrSauter    ,Fr. Sauter AG
+00:50:C2:49:20/36,TrafsysAs   ,Trafsys As
+00:50:C2:49:30/36,Artis       ,Artis GmbH
+00:50:C2:49:40/36,UltimateTech,"Ultimate Technology, Inc."
+00:50:C2:49:50/36,VAZAElektron,VAZA Elektronik AB
+00:50:C2:49:60/36,Acutelogic  ,Acutelogic Corporation
+00:50:C2:49:70/36,AdvancedDriv,Advanced Driver Information Technology GmbH
+00:50:C2:49:80/36,QuartetTechn,"Quartet Technology, Inc."
+00:50:C2:49:90/36,TrelliaNetwo,Trellia Networks
+00:50:C2:49:A0/36,TelASICCommu,"TelASIC Communications, Inc."
+00:50:C2:49:B0/36,vgcontrols  ,"vg controls, inc"
+00:50:C2:49:C0/36,EnvisacorTec,Envisacor Technologies Inc.
+00:50:C2:49:D0/36,CriticalLink,Critical Link LLC
+00:50:C2:49:E0/36,Armorlink   ,Armorlink Co.Ltd
+00:50:C2:49:F0/36,GCS         ,"GCS, Inc"
+00:50:C2:4A:00/36,Advancedtech,Advanced technologies & Engineering (pty) Ltd
+00:50:C2:4A:10/36,nVentSchroff,"nVent, Schroff GmbH"
+00:50:C2:4A:20/36,SPECS       ,SPECS GmbH
+00:50:C2:4A:30/36,ProtiumTechn,"Protium Technologies, Inc."
+00:50:C2:4A:40/36,IeeeP1609Wg ,Ieee P1609 Wg
+00:50:C2:4A:50/36,TeledyneMoni,Teledyne Monitor Labs
+00:50:C2:4A:60/36,BuyangElectr,"Buyang Electronics Industrial Co., Ltd."
+00:50:C2:4A:70/36,isegSpeziale,iseg Spezialelektronik GmbH
+00:50:C2:4A:80/36,CYJAYAKorea ,CYJAYA Korea
+00:50:C2:4A:90/36,FaberElectro,Faber Electronics BV
+00:50:C2:4A:A0/36,HEINENELEKTR,HEINEN ELEKTRONIK GmbH
+00:50:C2:4A:B0/36,JVFCommunica,JVF Communications Ltd
+00:50:C2:4A:C0/36,Doramu      ,"Doramu Co.,Ltd."
+00:50:C2:4A:D0/36,OpenPeak    ,"OpenPeak, Inc."
+00:50:C2:4A:E0/36,adstec      ,ads-tec GmbH
+00:50:C2:4A:F0/36,Orbis       ,Orbis Oy
+00:50:C2:4B:00/36,EsmartDistri,Esmart Distribution Pte Ltd
+00:50:C2:4B:10/36,NSFOCUSInfor,"NSFOCUS Information Technology Co., Ltd."
+00:50:C2:4B:20/36,TESLA       ,"TESLA, a.s."
+00:50:C2:4B:30/36,ANSA        ,ANSA Corporation
+00:50:C2:4B:40/36,MatrixAudioD,Matrix Audio Designs
+00:50:C2:4B:50/36,ValleyTecnol,Valley Tecnologia
+00:50:C2:4B:60/36,GeneralResou,"General Resources Co., LTD."
+00:50:C2:4B:70/36,GFIChronoTim,GFI Chrono Time
+00:50:C2:4B:80/36,HongdianTech,"Shenzhen Hongdian Technologies.,Ltd"
+00:50:C2:4B:90/36,RoseTechnolo,Rose Technologies
+00:50:C2:4B:A0/36,MistletoeTec,Mistletoe Technologies
+00:50:C2:4B:B0/36,ProtonicHoll,Protonic Holland
+00:50:C2:4B:C0/36,SaiaBurgessC,Saia Burgess Controls AG
+00:50:C2:4B:D0/36,ArgonST     ,Argon ST
+00:50:C2:4B:E0/36,DigitalDynam,"Digital Dynamics, Inc."
+00:50:C2:4B:F0/36,Westinghouse,Westinghouse Rail Systems Ltd
+00:50:C2:4C:00/36,Biologic    ,Bio-logic Systems Corp
+00:50:C2:4C:10/36,MovazNetwork,"Movaz Networks, Inc."
+00:50:C2:4C:20/36,Elbit       ,Elbit Systems Ltd.
+00:50:C2:4C:30/36,Quantum3D   ,"Quantum3D, Inc."
+00:50:C2:4C:40/36,BlackDiamond,"Black Diamond Video, Inc."
+00:50:C2:4C:50/36,eXrayBroadba,eXray Broadband Inc.
+00:50:C2:4C:60/36,Rubin       ,Rubin Ltd.
+00:50:C2:4C:70/36,TransbitSp  ,Transbit Sp.z o.o.
+00:50:C2:4C:80/36,Neets       ,Neets
+00:50:C2:4C:90/36,Scirocco    ,Scirocco AB
+00:50:C2:4C:A0/36,YargBiometri,Yarg Biometrics Limited
+00:50:C2:4C:B0/36,Verint      ,Verint Systems Ltd
+00:50:C2:4C:C0/36,ImpediMed   ,ImpediMed Limited
+00:50:C2:4C:D0/36,Securiton   ,Securiton AG
+00:50:C2:4C:E0/36,OpenDateEqui,Open Date Equipment Limited
+00:50:C2:4C:F0/36,ZiehlAbegg  ,Ziehl-Abegg AG
+00:50:C2:4D:00/36,RCSEnergyMan,RCS Energy Management Ltd
+00:50:C2:4D:10/36,SLICANsp    ,SLICAN sp. z o.o.
+00:50:C2:4D:20/36,TwowayCATVSE,Twoway CATV SERVICE INC.
+00:50:C2:4D:30/36,ELPROCsp    ,ELPROC sp. z o.o.
+00:50:C2:4D:40/36,HerholdtCont,Herholdt Controls srl
+00:50:C2:4D:50/36,SEBADesign  ,SEBA Design Pty Ltd
+00:50:C2:4D:60/36,Ingenieurbür,Ingenieurbüro Schober
+00:50:C2:4D:70/36,DeltaTauData,"Delta Tau Data Systems, Inc."
+00:50:C2:4D:80/36,Avantry     ,Avantry Ltd.
+00:50:C2:4D:90/36,GESecurityKa,GE Security Kampro
+00:50:C2:4D:A0/36,MEDIORNET   ,MEDIORNET GmbH
+00:50:C2:4D:B0/36,AlfingMontag,Alfing Montagetechnik GmbH
+00:50:C2:4D:C0/36,AceElectroni,"Ace Electronics, Inc."
+00:50:C2:4D:D0/36,TruteqWirele,Truteq Wireless (PTY) Ltd.
+00:50:C2:4D:E0/36,GDMission   ,GD Mission Systems
+00:50:C2:4D:F0/36,ThermoElectr,Thermo Electron
+00:50:C2:4E:00/36,Telematrix  ,Telematrix
+00:50:C2:4E:10/36,SSTelecomsCC,SS Telecoms CC
+00:50:C2:4E:20/36,AppliedResea,Applied Research Laboratories: UT
+00:50:C2:4E:30/36,Romteck     ,Romteck Pty Ltd
+00:50:C2:4E:40/36,Embigence   ,Embigence GmbH
+00:50:C2:4E:50/36,Sedo        ,Sedo Systems Ltd
+00:50:C2:4E:60/36,PhotonicBrid,Photonic Bridges Inc.
+00:50:C2:4E:70/36,Computerized,Computerized Elevator Contol
+00:50:C2:4E:80/36,SATELsp     ,SATEL sp. z o.o.
+00:50:C2:4E:90/36,Seachangeint,Seachange international
+00:50:C2:4E:A0/36,Pmc         ,Pmc
+00:50:C2:4E:B0/36,MandozziElet,Mandozzi Elettronica SA
+00:50:C2:4E:C0/36,ThalesDefenc,Thales Defence and Security Systems GmbH
+00:50:C2:4E:D0/36,LabXTechnolo,"Lab X Technologies, LLC"
+00:50:C2:4E:E0/36,CorelogicCom,"Beijing Corelogic Communication Co., Ltd."
+00:50:C2:4E:F0/36,CreativeReta,Creative Retail Entertainment
+00:50:C2:4F:00/36,MedAvantHeal,MedAvant Healthcare
+00:50:C2:4F:10/36,PacketIsland,Packet Island Inc.
+00:50:C2:4F:20/36,Tantronic   ,Tantronic AG
+00:50:C2:4F:30/36,AutronicaFir,Autronica Fire And Securirty
+00:50:C2:4F:40/36,O2Run       ,O2Run
+00:50:C2:4F:50/36,MonroeElectr,"Monroe Electronics, Inc."
+00:50:C2:4F:60/36,RealD       ,"RealD, Inc."
+00:50:C2:4F:70/36,WaveIP      ,WaveIP
+00:50:C2:4F:80/36,ProdcoIntern,Prodco International Inc.
+00:50:C2:4F:90/36,RTDSTechnolo,RTDS Technologies Inc.
+00:50:C2:4F:A0/36,CambridgeTec,"Cambridge Technology, Inc."
+00:50:C2:4F:B0/36,BESTechnolog,BES Technology Group
+00:50:C2:4F:C0/36,HwayoungRFSo,Hwayoung RF Solution Inc
+00:50:C2:4F:D0/36,NetworkAutom,Network Automation mxc AB
+00:50:C2:4F:E0/36,GEMELETTRONI,GEM ELETTRONICA Srl
+00:50:C2:4F:F0/36,Dakty       ,Dakty GmbH
+00:50:C2:50:00/36,Orenco      ,"Orenco Systems, Inc."
+00:50:C2:50:10/36,IBEXUK      ,IBEX UK Limited
+00:50:C2:50:20/36,Criterion   ,Criterion Systems Limited
+00:50:C2:50:30/36,Respironics ,Respironics Inc.
+00:50:C2:50:40/36,Aphex       ,Aphex Systems Ltd.
+00:50:C2:50:50/36,Computerwise,"Computerwise, Inc."
+00:50:C2:50:60/36,7Kft        ,7+ Kft
+00:50:C2:50:70/36,MicroConnect,Micro Connect Pty Ltd
+00:50:C2:50:80/36,PutercomEnte,"Putercom Enterprise Co., Ltd."
+00:50:C2:50:90/36,HillcrestLab,"Hillcrest Laboratories, Inc."
+00:50:C2:50:A0/36,MonitorBusin,Monitor Business Machines Ltd
+00:50:C2:50:B0/36,LogicBeach  ,Logic Beach Inc
+00:50:C2:50:C0/36,AirwiseTechn,"Airwise Technology Co., Ltd."
+00:50:C2:50:D0/36,Clearsonics ,Clearsonics Pty. Ltd.
+00:50:C2:50:E0/36,Fibresavers ,Fibresavers Corporation
+00:50:C2:50:F0/36,PolystarInst,Polystar Instruments AB
+00:50:C2:51:00/36,SummitDevelo,Summit Developmen
+00:50:C2:51:10/36,Tecna       ,Tecna Srl
+00:50:C2:51:20/36,LinearAcoust,"Linear Acoustic, Inc"
+00:50:C2:51:30/36,GenieNetwork,Genie Network Resource Management Inc.
+00:50:C2:51:40/36,TadianElectr,Tadian Electronics Systems LTD
+00:50:C2:51:50/36,MonaghanEngi,"Monaghan Engineering, Inc."
+00:50:C2:51:60/36,SowaElectric,"Sowa Electric Co., Ltd."
+00:50:C2:51:70/36,SolidStateLo,Solid State Logic
+00:50:C2:51:80/36,ChristElektr,Christ Elektronik GmbH
+00:50:C2:51:90/36,DBMCORP     ,"DBMCORP, Inc."
+00:50:C2:51:A0/36,SpeasTech   ,"SpeasTech, Inc."
+00:50:C2:51:B0/36,BetaLasermik,Beta Lasermike Ltd
+00:50:C2:51:C0/36,TOA         ,TOA Systems
+00:50:C2:51:D0/36,Velux       ,Velux
+00:50:C2:51:E0/36,AlconTechnol,Alcon Technologies
+00:50:C2:51:F0/36,TraquairData,"Traquair Data Systems, Inc."
+00:50:C2:52:00/36,McCainTraffi,McCain Traffic Supply
+00:50:C2:52:10/36,ArisTechnolo,Aris Technologies
+00:50:C2:52:20/36,MarkIVIDS   ,Mark IV IDS Corp.
+00:50:C2:52:30/36,AMRDECProtot,AMRDEC Prototype Integration Facility
+00:50:C2:52:40/36,Motec       ,Motec Pty Ltd
+00:50:C2:52:50/36,VASTech     ,VASTech
+00:50:C2:52:60/36,ACsro       ,"AC SYSTEMS, s.r.o."
+00:50:C2:52:70/36,IRTrans     ,IRTrans GmbH
+00:50:C2:52:80/36,Tattile     ,Tattile srl
+00:50:C2:52:90/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:52:A0/36,Omnitronics ,Omnitronics Pty Ltd
+00:50:C2:52:B0/36,Sicon       ,Sicon srl
+00:50:C2:52:C0/36,VitecMultime,Vitec Multimedia
+00:50:C2:52:D0/36,SmartcomBulg,Smartcom-Bulgaria AD
+00:50:C2:52:E0/36,DspDesign   ,Dsp Design
+00:50:C2:52:F0/36,Gesellschaft,Gesellschaft für Rationalisierung und Rechentechnik mbH
+00:50:C2:53:00/36,InnovationIn,"Innovation, Institute, Inc"
+00:50:C2:53:10/36,OrionTechnol,"Orion Technologies,LLC"
+00:50:C2:53:20/36,NVE         ,NVE Corporation
+00:50:C2:53:30/36,NanShanBridg,NanShanBridge Co.Ltd
+00:50:C2:53:40/36,HyundaiJComm,Hyundai J. Comm
+00:50:C2:53:50/36,MMSServissro,MMS Servis s.r.o.
+00:50:C2:53:60/36,C2Diagnostic,C2 Diagnostics
+00:50:C2:53:70/36,DstControl  ,Dst Control Ab
+00:50:C2:53:80/36,EtherTekCirc,EtherTek Circuits
+00:50:C2:53:90/36,DetectionTec,Detection Technology Inc.
+00:50:C2:53:A0/36,ImageControl,Image Control Design Limited
+00:50:C2:53:B0/36,Teleks      ,Teleks Co. Ltd.
+00:50:C2:53:C0/36,Marposs     ,Marposs SPA
+00:50:C2:53:D0/36,Digitalcommu,Digital communications Technologies
+00:50:C2:53:E0/36,Honeywell   ,Honeywell
+00:50:C2:53:F0/36,Ellips      ,Ellips B.V.
+00:50:C2:54:00/36,MesureContro,Mesure Controle Commande
+00:50:C2:54:10/36,WavesSystem ,Waves System
+00:50:C2:54:20/36,AVerMediaTec,"AVerMedia Technologies, Inc."
+00:50:C2:54:30/36,DigiSesn    ,Digi Sesn Ag
+00:50:C2:54:40/36,Zetera      ,Zetera
+00:50:C2:54:50/36,SecuInfo    ,"SecuInfo Co., Ltd."
+00:50:C2:54:60/36,Universidadd,Universidad de Chile Facultad de Medicina
+00:50:C2:54:70/36,BLANKOMAnten,BLANKOM Antennentechnik GmbH
+00:50:C2:54:80/36,ITWBetaprint,I.T.W. Betaprint
+00:50:C2:54:90/36,Netsynt     ,Netsynt S.p.A.
+00:50:C2:54:A0/36,IPTCTechComm,IPTC Tech. Comm. AB
+00:50:C2:54:B0/36,Innopsys    ,Innopsys
+00:50:C2:54:C0/36,Sintecnos   ,Sintecnos srl
+00:50:C2:54:D0/36,SilentSystem,Silent System
+00:50:C2:54:E0/36,ConvergentDe,Convergent Design
+00:50:C2:54:F0/36,Valtronic   ,Valtronic SA
+00:50:C2:55:00/36,LJUAutomatis,LJU Automatisierungstechnik GmbH
+00:50:C2:55:10/36,InnovativeNe,Innovative Neurotroncs
+00:50:C2:55:20/36,Elfiq       ,Elfiq Inc.
+00:50:C2:55:30/36,ATHsystem   ,ATH system
+00:50:C2:55:40/36,WeinzierlEng,Weinzierl Engineering GmbH
+00:50:C2:55:50/36,ControlAlter,"Control Alternative Solutions, Inc."
+00:50:C2:55:60/36,FreiburgerBl,Freiburger BlickZentrum
+00:50:C2:55:70/36,Netcomsec   ,Netcomsec Co Ltd
+00:50:C2:55:80/36,BedoElektron,Bedo Elektronik GmbH
+00:50:C2:55:90/36,FailSafeSolu,Fail Safe Solutions LLC
+00:50:C2:55:A0/36,Valde       ,"Valde Systems, Inc."
+00:50:C2:55:B0/36,MatrixComsec,Matrix Comsec Private Limited
+00:50:C2:55:C0/36,adstec      ,ads-tec GmbH
+00:50:C2:55:D0/36,ACDElektroni,ACD Elektronik GmbH
+00:50:C2:55:E0/36,HanzasElektr,"Hanzas Elektronika, Sia"
+00:50:C2:55:F0/36,MoogBroadRea,Moog Broad Reach
+00:50:C2:56:00/36,ProconElectr,Procon Electronics
+00:50:C2:56:10/36,SeitecElektr,Seitec Elektronik GmbH
+00:50:C2:56:20/36,C21         ,C21 Systems Limited
+00:50:C2:56:30/36,OrtratSL    ,"Ortrat, S.L."
+00:50:C2:56:40/36,LastMileGear,Last Mile Gear
+00:50:C2:56:50/36,WorkpowerTec,Workpower Tecnologia Eletronica Ltda-Epp
+00:50:C2:56:60/36,ubinetsys   ,ubinetsys.co..ltd
+00:50:C2:56:70/36,Tess        ,Tess GmbH
+00:50:C2:56:80/36,GeoFocus    ,"GeoFocus, LLC"
+00:50:C2:56:90/36,TwinwinTechn,"Twinwin Technplogy Co.,Ltd."
+00:50:C2:56:A0/36,GrupoEpelsaS,Grupo Epelsa S.L.
+00:50:C2:56:B0/36,DatatonUtvec,Dataton Utvecklings AB
+00:50:C2:56:C0/36,TargetedTech,"Targeted Technologies, LLC"
+00:50:C2:56:D0/36,ComputrolFue,Computrol Fuel Systems Inc.
+00:50:C2:56:E0/36,LabElElektro,Lab-El Elektronika Laboratoryjna S.J.
+00:50:C2:56:F0/36,Gma         ,"Gma, Llc"
+00:50:C2:57:00/36,EllexMedical,Ellex Medical Pty Ltd
+00:50:C2:57:10/36,OberonServic,Oberon Service srl
+00:50:C2:57:20/36,ChellInstrum,Chell Instruments Ltd
+00:50:C2:57:30/36,DATAMICRO   ,"DATAMICRO Co., Ltd."
+00:50:C2:57:40/36,IngenieríaAl,Ingeniería AlmudÃ­ S.L.
+00:50:C2:57:50/36,Solystic    ,Solystic
+00:50:C2:57:60/36,Visitech    ,Visi-tech Systems Ltd
+00:50:C2:57:70/36,AdvancedSoft,Advanced Software Technologies
+00:50:C2:57:80/36,DelphiDispla,"Delphi Display Systems, Inc."
+00:50:C2:57:90/36,GastagerSyst,Gastager Systemtechnik GmbH
+00:50:C2:57:A0/36,nVentSchroff,"nVent, Schroff GmbH"
+00:50:C2:57:B0/36,ptswitch    ,ptswitch
+00:50:C2:57:C0/36,éolane     ,éolane
+00:50:C2:57:D0/36,SierraVideo ,Sierra Video Systems
+00:50:C2:57:E0/36,DigitalWay  ,Digital Way
+00:50:C2:57:F0/36,Orderite    ,"Orderite, Inc."
+00:50:C2:58:00/36,BuyangElectr,"Buyang Electronics Industrial co.,Ltd."
+00:50:C2:58:10/36,DevitechApS ,Devitech ApS
+00:50:C2:58:20/36,AllSun      ,AllSun A/S
+00:50:C2:58:30/36,JungerAudioS,Junger Audio-Studiotechnik GmbH
+00:50:C2:58:40/36,ToyotaMotors,Toyota Motorsport GmbH
+00:50:C2:58:50/36,WirelessCabl,Wireless Cables Inc.
+00:50:C2:58:60/36,Genetix     ,Genetix Ltd
+00:50:C2:58:70/36,Dynalco     ,Dynalco
+00:50:C2:58:80/36,FederalElect,Federal Electronics
+00:50:C2:58:90/36,HoribaAbxSas,Horiba Abx Sas
+00:50:C2:58:A0/36,Dixell      ,Dixell S.p.a.
+00:50:C2:58:B0/36,InnovativeDy,Innovative Dynamics GmbH
+00:50:C2:58:C0/36,LatticeSemic,Lattice Semiconductor Corp. (LPA)
+00:50:C2:58:D0/36,Zao         ,Zao
+00:50:C2:58:E0/36,PennyGilesAe,Penny & Giles Aerospace Ltd
+00:50:C2:58:F0/36,XoIP        ,XoIP Systems Pty Ltd
+00:50:C2:59:00/36,EMMotorsport,EM Motorsport Ltd
+00:50:C2:59:10/36,GrosvenorTec,Grosvenor Technology Ltd
+00:50:C2:59:20/36,PaloDExGroup,PaloDEx Group Oy
+00:50:C2:59:30/36,Broadlight  ,Broadlight
+00:50:C2:59:40/36,PixelVelocit,"Pixel Velocity, Inc"
+00:50:C2:59:50/36,Callpod     ,"Callpod, Inc."
+00:50:C2:59:60/36,Spansion    ,Spansion
+00:50:C2:59:70/36,Nautel      ,Nautel LTD
+00:50:C2:59:80/36,Bundesamtfür,Bundesamt für Strahlenschutz
+00:50:C2:59:90/36,FenTechnolog,Fen Technology Limited
+00:50:C2:59:A0/36,MultiTrode  ,MultiTrode Pty Ltd
+00:50:C2:59:B0/36,Sapec       ,Sapec
+00:50:C2:59:C0/36,DelsatGroup ,Delsat Group S.A.
+00:50:C2:59:D0/36,DSSNetworks ,"DSS Networks, Inc."
+00:50:C2:59:E0/36,Legerity    ,Legerity
+00:50:C2:59:F0/36,adstec      ,ads-tec GmbH
+00:50:C2:5A:00/36,RudolphTechn,"Rudolph Technologies, Inc."
+00:50:C2:5A:10/36,VestfoldButi,Vestfold Butikkdata AS
+00:50:C2:5A:20/36,iNET        ,iNET Systems Inc.
+00:50:C2:5A:30/36,Lumel       ,Lumel S.A.
+00:50:C2:5A:40/36,FederalState,Federal State Unitary Enterprise Experimental Factory for Sc
+00:50:C2:5A:50/36,EquiposdeTel,"Equipos de Telecomunicación Optoelectronicos, S.A."
+00:50:C2:5A:60/36,PlasticLogic,Plastic Logic
+00:50:C2:5A:70/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:5A:80/36,Etap        ,Etap Nv
+00:50:C2:5A:90/36,AYCTelecom  ,AYC Telecom Ltd
+00:50:C2:5A:A0/36,Transenna   ,Transenna AB
+00:50:C2:5A:B0/36,EatonElectri,Eaton Corp. Electrical Group Data Center Solutions - Pulizzi
+00:50:C2:5A:C0/36,Kinemetrics ,"Kinemetrics, Inc."
+00:50:C2:5A:D0/36,Emcom       ,Emcom Systems
+00:50:C2:5A:E0/36,CpsEurope   ,Cps Europe B.V.
+00:50:C2:5A:F0/36,DorletSau   ,Dorlet Sau
+00:50:C2:5B:00/36,INCOTEC     ,INCOTEC GmbH
+00:50:C2:5B:10/36,Rosta       ,Rosta Ltd
+00:50:C2:5B:20/36,Syntronic   ,Syntronic AB
+00:50:C2:5B:30/36,HITECOMSyste,HITECOM System
+00:50:C2:5B:40/36,Terrascience,Terrascience Systems Ltd.
+00:50:C2:5B:50/36,Rafael      ,Rafael
+00:50:C2:5B:60/36,KontronTechn,"Kontron (BeiJing) Technology Co.,Ltd"
+00:50:C2:5B:70/36,AVerMediaTec,"AVerMedia Technologies, Inc."
+00:50:C2:5B:80/36,WestfaliaSur,WestfaliaSurge GmbH
+00:50:C2:5B:90/36,TaiwanVideoM,Taiwan Video & Monitor
+00:50:C2:5B:A0/36,SAIABurgessC,SAIA Burgess Controls AG
+00:50:C2:5B:B0/36,UnicTechnolo,Unic Technologies Inc
+00:50:C2:5B:C0/36,GuangzhouHui,Guangzhou Hui Si Information Technologies Inc.
+00:50:C2:5B:D0/36,NomusComm   ,Nomus Comm Systems
+00:50:C2:5B:E0/36,CardAccessSe,Card Access Services Pty Ltd
+00:50:C2:5B:F0/36,Techimp     ,Techimp Systems S.r.l.
+00:50:C2:5C:00/36,PyottBooneEl,Pyott-Boone Electronics
+00:50:C2:5C:10/36,RLDrake     ,R. L. Drake Company
+00:50:C2:5C:20/36,IntuitiveSur,"Intuitive Surgical, Inc"
+00:50:C2:5C:30/36,KSSystem    ,KS System GmbH
+00:50:C2:5C:40/36,ProMik      ,ProMik GmbH
+00:50:C2:5C:50/36,RadiantImagi,"Radiant Imaging, Inc."
+00:50:C2:5C:60/36,TechnischeAl,Technische Alternative GmbH
+00:50:C2:5C:70/36,InSyncTechno,InSync Technology Ltd
+00:50:C2:5C:80/36,GeorgiaTechR,Georgia Tech Research Institute
+00:50:C2:5C:90/36,QuanlongTech,Shenzhen Quanlong Technique Co.Ltd
+00:50:C2:5C:A0/36,BuyangElectr,"Buyang Electronics Industrial Co., Ltd."
+00:50:C2:5C:B0/36,KoboldSistem,Kobold Sistemi s.r.l.
+00:50:C2:5C:C0/36,Enseo       ,"Enseo, Inc."
+00:50:C2:5C:D0/36,RADAElectron,RADA Electronics Industries Ltd.
+00:50:C2:5C:E0/36,RokeManorRes,Roke Manor Research Ltd
+00:50:C2:5C:F0/36,InnomedMedic,Innomed Medical Inc
+00:50:C2:5D:00/36,Automata    ,Automata Spa
+00:50:C2:5D:10/36,MeucciSoluti,Meucci Solutions
+00:50:C2:5D:20/36,DADesign    ,DA-Design Oy
+00:50:C2:5D:30/36,Wexiodisk   ,Wexiodisk AB
+00:50:C2:5D:40/36,BuyangElectr,"Buyang Electronics Industrial Co., Ltd."
+00:50:C2:5D:50/36,CannonTechno,Cannon Technologies
+00:50:C2:5D:60/36,BioAccessTec,BioAccess Tecnologia em Biometria Ltda.
+00:50:C2:5D:70/36,Synrad      ,"Synrad, Inc."
+00:50:C2:5D:80/36,TechniforSas,Technifor Sas
+00:50:C2:5D:90/36,CrimsonMicro,"Crimson Microsystems, Inc."
+00:50:C2:5D:A0/36,TonnaElectro,Tonna Electronique
+00:50:C2:5D:B0/36,SecureServic,Secure Systems & Services
+00:50:C2:5D:C0/36,RMMichaelide,RM Michaelides Software & Elektronik GmbH
+00:50:C2:5D:D0/36,SomerData   ,SomerData ltd
+00:50:C2:5D:E0/36,MagalSenstar,Magal Senstar Inc.
+00:50:C2:5D:F0/36,Gnutek      ,Gnutek Ltd.
+00:50:C2:5E:00/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:5E:10/36,Ittiam      ,Ittiam Systems (P) Ltd
+00:50:C2:5E:20/36,PYRAMIDCompu,PYRAMID Computer GmbH
+00:50:C2:5E:30/36,Computechnic,Computechnic AG
+00:50:C2:5E:40/36,BuyangElectr,"Buyang Electronics Industrial Co., Ltd."
+00:50:C2:5E:50/36,Stresstech  ,Stresstech OY
+00:50:C2:5E:60/36,Musatel     ,Musatel
+00:50:C2:5E:70/36,EadsTestServ,Eads Test & Services
+00:50:C2:5E:80/36,InfoChipComm,Info-Chip Communications Ltd.
+00:50:C2:5E:90/36,MicroTechnol,Micro Technology Services Inc.
+00:50:C2:5E:A0/36,MicroElektro,Micro Elektronische Producten
+00:50:C2:5E:B0/36,GarperTeleco,"Garper Telecomunicaciones, S.L."
+00:50:C2:5E:C0/36,ASiSTechnolo,ASiS Technologies Pte Ltd
+00:50:C2:5E:D0/36,AquarotterAF,Aquarotter A Franke Company
+00:50:C2:5E:E0/36,Condre      ,Condre Corporation
+00:50:C2:5E:F0/36,pikkerton   ,pikkerton GmbH
+00:50:C2:5F:00/36,DIASInfrared,DIAS Infrared GmbH
+00:50:C2:5F:10/36,Technomarine,Technomarine JSC
+00:50:C2:5F:20/36,ESEMGrünau ,ESEM Grünau GmbH & Co. KG
+00:50:C2:5F:30/36,POSNETPolska,POSNET Polska S.A.
+00:50:C2:5F:40/36,TeamProjects,TeamProjects BV
+00:50:C2:5F:50/36,Genesis     ,Genesis inc
+00:50:C2:5F:60/36,CambridgeCon,Cambridge Consultants Ltd
+00:50:C2:5F:70/36,MetrologicGr,Metrologic Group
+00:50:C2:5F:80/36,GrupoEpelsaS,Grupo Epelsa S.L.
+00:50:C2:5F:90/36,ROTHARYSolut,ROTHARY Solutions AG
+00:50:C2:5F:A0/36,LEAdoo      ,LEA d.o.o.
+00:50:C2:5F:B0/36,AllElectroni,All-Systems Electronics Pty Ltd
+00:50:C2:5F:C0/36,FilmLight   ,FilmLight Limited
+00:50:C2:5F:D0/36,MEGElectroni,MEG Electronic Inc.
+00:50:C2:5F:E0/36,NovacommLtda,Novacomm Ltda
+00:50:C2:5F:F0/36,GazelleMonit,Gazelle Monitoring Systems
+00:50:C2:60:00/36,ProtecFireDe,Protec Fire Detection plc
+00:50:C2:60:10/36,MedAvantHeal,MedAvant Healthcare
+00:50:C2:60:20/36,ChauvinArnou,Chauvin Arnoux
+00:50:C2:60:30/36,Cerus       ,Cerus Corp
+00:50:C2:60:40/36,HCJBGlobal  ,HCJB Global
+00:50:C2:60:50/36,Swistec     ,Swistec GmbH
+00:50:C2:60:60/36,HuazhongTech,Shenzhen Huazhong Technology Inc
+00:50:C2:60:70/36,TelecomFM   ,Telecom FM
+00:50:C2:60:80/36,SilexIndustr,Silex Industrial Automation Ltd.
+00:50:C2:60:90/36,Toptech     ,"Toptech Systems, Inc."
+00:50:C2:60:A0/36,GradualTecno,Gradual Tecnologia Ltda.
+00:50:C2:60:B0/36,QianJinElect,Shanghai QianJin Electronic Equipment Co. Ltd.
+00:50:C2:60:C0/36,Identic     ,Identic Ab
+00:50:C2:60:D0/36,Sicon       ,Sicon srl
+00:50:C2:60:E0/36,Automationan,"Automation and Control Technology, Inc."
+00:50:C2:60:F0/36,Kommunikatio,Kommunikations- & Sicherheitssysteme Gesellschaft m.b.H
+00:50:C2:61:00/36,FDTManufactu,"FDT Manufacturing, LLC"
+00:50:C2:61:10/36,BrookhavenNa,Brookhaven National Laboratory
+00:50:C2:61:20/36,IHP         ,IHP-GmbH
+00:50:C2:61:30/36,Tattile     ,Tattile Srl
+00:50:C2:61:40/36,Proserv     ,Proserv
+00:50:C2:61:50/36,AxisElectron,Axis Electronics
+00:50:C2:61:60/36,Honeywell   ,Honeywell
+00:50:C2:61:70/36,Narinet     ,"Narinet, Inc."
+00:50:C2:61:80/36,IntergratedS,Intergrated Security Mfg. Ltd
+00:50:C2:61:90/36,Linkbit     ,"Linkbit, Inc."
+00:50:C2:61:A0/36,Communicatio,Communication Components Inc.
+00:50:C2:61:B0/36,NCITechnolog,NCI Technologies Inc.
+00:50:C2:61:C0/36,TestPro     ,"TestPro Systems, Inc."
+00:50:C2:61:D0/36,Sutus       ,Sutus Inc
+00:50:C2:61:E0/36,LesterElectr,Lester Electronics Ltd
+00:50:C2:61:F0/36,ImagineCommu,Imagine Communications
+00:50:C2:62:00/36,HarmanBecker,Harman/Becker Automotive Systems GmbH
+00:50:C2:62:10/36,VersionT    ,Version-T
+00:50:C2:62:20/36,2NTELEKOMUNI,2N TELEKOMUNIKACE a.s.
+00:50:C2:62:30/36,SafelineSl  ,Safeline Sl
+00:50:C2:62:40/36,ComtestNetwo,Comtest Networks
+00:50:C2:62:50/36,EBNeuro     ,EBNeuro SpA
+00:50:C2:62:60/36,WinsysInform,Winsys Informatica ltda
+00:50:C2:62:70/36,JungleSystem,"JungleSystem Co., Ltd."
+00:50:C2:62:80/36,DAREDevelopm,DARE Development
+00:50:C2:62:90/36,MacDonaldHum,MacDonald Humfrey (Products) Ltd
+00:50:C2:62:A0/36,PrismaEngine,Prisma Engineering srl
+00:50:C2:62:B0/36,FirstControl,First Control Systems AB
+00:50:C2:62:C0/36,AirMatrix   ,"AirMatrix, Inc."
+00:50:C2:62:D0/36,ProconElectr,Procon Electronics
+00:50:C2:62:E0/36,TDMIngénieri,TDM Ingénierie
+00:50:C2:62:F0/36,Qes         ,Qes
+00:50:C2:63:00/36,AuroraFlight,Aurora Flight Sciences
+00:50:C2:63:10/36,FraunhoferII,Fraunhofer IIS
+00:50:C2:63:20/36,RoseTechnolo,RoseTechnology A/S
+00:50:C2:63:30/36,RiceUniversi,Rice University
+00:50:C2:63:40/36,Sohon       ,Sohon Inc
+00:50:C2:63:50/36,Shockfish   ,Shockfish SA
+00:50:C2:63:60/36,dSPACE      ,dSPACE GmbH
+00:50:C2:63:70/36,OmnitrolNetw,"Omnitrol Networks, Inc."
+00:50:C2:63:80/36,HUNGAROCOMTe,HUNGAROCOM Telecommunication Ltd.
+00:50:C2:63:90/36,QstreamsNetw,Qstreams Networks Inc.
+00:50:C2:63:A0/36,3DSP        ,3DSP Corporation
+00:50:C2:63:B0/36,Powis       ,Powis Corporation
+00:50:C2:63:C0/36,dPictImaging,"dPict Imaging, Inc."
+00:50:C2:63:D0/36,IDERs       ,IDERs Inc
+00:50:C2:63:E0/36,T2Communicat,T2 Communication Ltd
+00:50:C2:63:F0/36,SpeechTechno,Speech Technology Center Limited
+00:50:C2:64:00/36,Iac         ,Iac
+00:50:C2:64:10/36,NEOInformati,"NEO Information Systems Co., Ltd."
+00:50:C2:64:20/36,StantonTechn,Stanton Technologies Sdn Bhd
+00:50:C2:64:30/36,Enatel      ,Enatel Limited
+00:50:C2:64:40/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:64:50/36,SoftwareGrou,The Software Group Limited
+00:50:C2:64:60/36,TrutouchTech,Trutouch Technologies Inc
+00:50:C2:64:70/36,R&DTechnolog,R&D Technology Solutionz Limited
+00:50:C2:64:80/36,FidelityComt,"Fidelity Comtech, Inc."
+00:50:C2:64:90/36,PanSTARRS   ,Pan-STARRS
+00:50:C2:64:A0/36,CPqD        ,CPqD
+00:50:C2:64:B0/36,MangoDSP    ,MangoDSP
+00:50:C2:64:C0/36,CIS         ,CIS Corporation
+00:50:C2:64:D0/36,TeraInformat,Tera Information System Labs
+00:50:C2:64:E0/36,NorthernPowe,Northern Power
+00:50:C2:64:F0/36,MALightingTe,MA Lighting Technology GmbH
+00:50:C2:65:00/36,LiquidBreake,"Liquid Breaker, LLC"
+00:50:C2:65:10/36,Staer       ,Staer Spa
+00:50:C2:65:20/36,WidecoSweden,Wideco Sweden AB
+00:50:C2:65:30/36,DobleEnginee,Doble Engineering
+00:50:C2:65:40/36,PaloDExGroup,PaloDEx Group Oy
+00:50:C2:65:50/36,PhysikInstru,Physik Instrumente (PI) GmbH&Co.KG
+00:50:C2:65:60/36,LDAAudioVide,LDA Audio Video Profesional
+00:50:C2:65:70/36,Monytel     ,Monytel S.A.
+00:50:C2:65:80/36,OpenPKG     ,OpenPKG GmbH
+00:50:C2:65:90/36,DorsettTechn,Dorsett Technologies Inc
+00:50:C2:65:A0/36,Hisstema    ,Hisstema AB
+00:50:C2:65:B0/36,SilverbrookR,Silverbrook Research
+00:50:C2:65:C0/36,VTZdoo      ,VTZ d.o.o.
+00:50:C2:65:D0/36,RedfoneCommu,Redfone Communications LLC
+00:50:C2:65:E0/36,Cantion     ,Cantion A/S
+00:50:C2:65:F0/36,Invocon     ,"Invocon, Inc."
+00:50:C2:66:00/36,Izisoft     ,Izisoft
+00:50:C2:66:10/36,PCE         ,P.C.E.
+00:50:C2:66:20/36,AsiaPacificC,Asia Pacific Card & System Sdn Bhd
+00:50:C2:66:30/36,COE         ,COE Limited
+00:50:C2:66:40/36,WestelWirele,Westel Wireless Systems
+00:50:C2:66:50/36,NetworkSound,"NetworkSound, Inc"
+00:50:C2:66:60/36,XworksNZ    ,Xworks NZ Limited
+00:50:C2:66:70/36,VocalityInte,Vocality International Ltd
+00:50:C2:66:80/36,KeithKoep   ,Keith & Koep GmbH
+00:50:C2:66:90/36,DspDesign   ,Dsp Design
+00:50:C2:66:A0/36,ABBTransmiss,"ABB Transmission and Distribution Automation Equipment (Xiamen) Co., Ltd."
+00:50:C2:66:B0/36,flsystem    ,flsystem
+00:50:C2:66:C0/36,Desy        ,Desy
+00:50:C2:66:D0/36,DIGITEK     ,DIGITEK S.p.A.
+00:50:C2:66:E0/36,Linear      ,Linear Systems Ltd.
+00:50:C2:66:F0/36,Nilan       ,Nilan A/S
+00:50:C2:67:00/36,NaimAudio   ,Naim Audio
+00:50:C2:67:10/36,SkylineProdu,"Skyline Products, Inc"
+00:50:C2:67:20/36,DDSElettroni,DDS Elettronica srl
+00:50:C2:67:30/36,Ferrarielect,Ferrari electronic AG
+00:50:C2:67:40/36,ProtechOptro,"Protech Optronics Co., Ltd."
+00:50:C2:67:50/36,KentonResear,Kenton Research Ltd
+00:50:C2:67:60/36,Eds         ,Eds
+00:50:C2:67:70/36,ProconX     ,ProconX Pty Ltd
+00:50:C2:67:80/36,Ihm         ,Ihm
+00:50:C2:67:90/36,IndustrialVa,Industrial Vacuum Systems
+00:50:C2:67:A0/36,CC          ,CC Systems AB
+00:50:C2:67:B0/36,SpartonElect,Sparton Electronics
+00:50:C2:67:C0/36,GogoBA      ,Gogo BA
+00:50:C2:67:D0/36,ESAMesstechn,ESA Messtechnik GmbH
+00:50:C2:67:E0/36,SAIABurgessC,SAIA Burgess Controls AG
+00:50:C2:67:F0/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:68:00/36,HoneyNetwork,Honey Network Research Limited
+00:50:C2:68:10/36,OwasysAdvanc,Owasys Advanced Wireless Devices
+00:50:C2:68:20/36,Commet      ,Commet AB
+00:50:C2:68:30/36,MEGGITTSafet,MEGGITT Safety System
+00:50:C2:68:40/36,REASONTecnol,REASON Tecnologia S.A.
+00:50:C2:68:50/36,Datamars    ,Datamars SA
+00:50:C2:68:60/36,ANNAXAnzeige,ANNAX Anzeigesysteme GmbH
+00:50:C2:68:70/36,AccessSpecia,"Access Specialties, Inc"
+00:50:C2:68:80/36,ElkProducts ,Elk Products
+00:50:C2:68:90/36,RFCode      ,RF Code
+00:50:C2:68:A0/36,ZhuhaiJiaheE,"Zhuhai Jiahe Electronics Co.,LTD"
+00:50:C2:68:B0/36,Simtek      ,Simtek Inc.
+00:50:C2:68:C0/36,Isochron    ,Isochron Inc
+00:50:C2:68:D0/36,CXRLarus    ,CXR Larus Corporation
+00:50:C2:68:E0/36,Selco       ,Selco
+00:50:C2:68:F0/36,Bertronic   ,Bertronic Srl
+00:50:C2:69:00/36,GHLBerhad   ,GHL Systems Berhad
+00:50:C2:69:10/36,Interopix   ,"Interopix, Inc."
+00:50:C2:69:20/36,MateMediaAcc,Mate Media Access Technologies
+00:50:C2:69:30/36,TechComm    ,"Tech Comm, Inc."
+00:50:C2:69:40/36,Initel      ,Initel srl
+00:50:C2:69:50/36,PurelinkTech,"Purelink Technology, inc."
+00:50:C2:69:60/36,Casabyte    ,Casabyte Inc.
+00:50:C2:69:70/36,MonarchInstr,Monarch Instrument
+00:50:C2:69:80/36,NavtechRadar,Navtech Radar Ltd
+00:50:C2:69:90/36,Bulletendpoi,Bulletendpoints Enterprises Inc
+00:50:C2:69:A0/36,StoreTech   ,StoreTech Limited
+00:50:C2:69:B0/36,Tsien       ,Tsien (UK) Ltd
+00:50:C2:69:C0/36,BugLabs     ,"Bug Labs, Inc."
+00:50:C2:69:D0/36,Dvation     ,"Dvation.co.,Ltd"
+00:50:C2:69:E0/36,Ideus       ,Ideus AB
+00:50:C2:69:F0/36,TotalRF     ,"Total RF, LLC"
+00:50:C2:6A:00/36,GFPLab      ,GFP Lab S.r.l.
+00:50:C2:6A:10/36,Pricol      ,Pricol Limited
+00:50:C2:6A:20/36,CadiScientif,Cadi Scientific Pte Ltd
+00:50:C2:6A:30/36,CreaTechElec,CreaTech Electronics Co.
+00:50:C2:6A:40/36,Teletask    ,Teletask
+00:50:C2:6A:50/36,EATONFHFFunk,EATON FHF Funke + Huster Fernsig GmbH
+00:50:C2:6A:60/36,VictoryConce,Victory Concept Industries Ltd.
+00:50:C2:6A:70/36,HoerIndustri,Hoer GmbH & Co. Industrie-Electronic KG
+00:50:C2:6A:80/36,DelcanTechno,"Delcan Technologies, Inc"
+00:50:C2:6A:90/36,ArmidaTechno,Armida Technologies Corporation
+00:50:C2:6A:A0/36,IfoxIndustri,Ifox - Industria e Comercio Ltda
+00:50:C2:6A:B0/36,Softwareentw,Softwareentwicklung
+00:50:C2:6A:C0/36,ThalesUK    ,Thales UK
+00:50:C2:6A:D0/36,HeimBürokomm,Heim- & Bürokommunikation
+00:50:C2:6A:E0/36,Qualisys    ,Qualisys AB
+00:50:C2:6A:F0/36,Nanoradio   ,Nanoradio AB
+00:50:C2:6B:00/36,SmartKeyInte,Smart Key International Limited
+00:50:C2:6B:10/36,BurkTechnolo,Burk Technology
+00:50:C2:6B:20/36,Edgeware    ,Edgeware AB
+00:50:C2:6B:30/36,4RFCommunica,4RF Communications Ltd
+00:50:C2:6B:40/36,Somesca     ,Somesca
+00:50:C2:6B:50/36,Triumf      ,Triumf
+00:50:C2:6B:60/36,CommoDaS    ,CommoDaS GmbH
+00:50:C2:6B:70/36,SystemLSI   ,System LSI CO.Ltd.
+00:50:C2:6B:80/36,Epec        ,Epec Oy
+00:50:C2:6B:90/36,unipo       ,unipo GmbH
+00:50:C2:6B:A0/36,FertronContr,Fertron Controle e Automacao Industrial Ltda.
+00:50:C2:6B:B0/36,EleMag      ,Ele.Mag S.r.l.
+00:50:C2:6B:C0/36,Paraytec    ,Paraytec Ltd
+00:50:C2:6B:D0/36,Mitron      ,Mitron Oy
+00:50:C2:6B:E0/36,ESTEC       ,"ESTEC Co.,Ltd."
+00:50:C2:6B:F0/36,Optoplanas  ,Optoplan as
+00:50:C2:6C:00/36,GlosterSante,Gloster Sante Europe
+00:50:C2:6C:10/36,RADIUSSweden,RADIUS Sweden AB
+00:50:C2:6C:20/36,HoseoTelnet ,HoseoTelnet Inc...
+00:50:C2:6C:30/36,iTRACS      ,iTRACS Corporation
+00:50:C2:6C:40/36,REXXON      ,REXXON GmbH
+00:50:C2:6C:50/36,OerlikonCont,Oerlikon Contraves AG
+00:50:C2:6C:60/36,MedAvantHeal,MedAvant Healthcare
+00:50:C2:6C:70/36,QuickCircuit,QuickCircuit Ltd.
+00:50:C2:6C:80/36,B&SMEDIA    ,"B&S MEDIA Co., LTD."
+00:50:C2:6C:90/36,Netami      ,Netami
+00:50:C2:6C:A0/36,DynamicHeari,Dynamic Hearing Pty Ltd
+00:50:C2:6C:B0/36,StreamProces,Stream Processors
+00:50:C2:6C:C0/36,WidmerTimeRe,"Widmer Time Recorder Co., Inc."
+00:50:C2:6C:D0/36,Rgm         ,Rgm Spa
+00:50:C2:6C:E0/36,EMITALLSurve,"EMITALL Surveillance S.A,"
+00:50:C2:6C:F0/36,Microway    ,Microway
+00:50:C2:6D:00/36,EDSSystemtec,EDS Systemtechnik
+00:50:C2:6D:10/36,SchnickSchna,Schnick-Schnack-Systems GmbH
+00:50:C2:6D:20/36,Lumistar    ,Lumistar Incorporated
+00:50:C2:6D:30/36,DigiSensoryt,DigiSensory technologies Pty Ltd
+00:50:C2:6D:40/36,EtaniElectro,"Etani Electronics Co.,Ltd."
+00:50:C2:6D:50/36,BeckerElectr,Becker Electronics GmbH
+00:50:C2:6D:60/36,ADLElectroni,ADL Electronics Ltd.
+00:50:C2:6D:70/36,MavenirSyste,"Mavenir System, Inc."
+00:50:C2:6D:80/36,BLHealthcare,"BL Healthcare, Inc."
+00:50:C2:6D:90/36,Ajeco       ,Ajeco Oy
+00:50:C2:6D:A0/36,TechnoFittin,Techno Fittings S.r.l.
+00:50:C2:6D:B0/36,GebhardtVent,Gebhardt Ventilatoren GmbH
+00:50:C2:6D:C0/36,L3Communicat,"L-3 Communications Mobile-Vision, Inc."
+00:50:C2:6D:D0/36,Zmicro      ,Zmicro Systems Inc
+00:50:C2:6D:E0/36,LaserToolsTe,Laser Tools & Technics Corp.
+00:50:C2:6D:F0/36,QRSciences  ,QR Sciences Ltd
+00:50:C2:6E:00/36,FIRSTTRUST  ,"FIRSTTRUST Co.,Ltd."
+00:50:C2:6E:10/36,NewOnSys    ,NewOnSys Ltd.
+00:50:C2:6E:20/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:6E:30/36,MirosAS     ,Miros AS
+00:50:C2:6E:40/36,MangoDSP    ,MangoDSP
+00:50:C2:6E:50/36,BoeckelerIns,"Boeckeler Instruments, Inc."
+00:50:C2:6E:60/36,Lanetco     ,Lanetco
+00:50:C2:6E:70/36,AceAxis     ,Ace Axis Limited
+00:50:C2:6E:80/36,Anymax      ,Anymax
+00:50:C2:6E:90/36,Bandoelectro,Bando electronic communication Co.Lltd
+00:50:C2:6E:A0/36,Firstec     ,Firstec Sa
+00:50:C2:6E:B0/36,HarrisonAudi,"Harrison Audio, LLC"
+00:50:C2:6E:C0/36,NetistixTech,Netistix Technologies Corporation
+00:50:C2:6E:D0/36,SechanElectr,"Sechan Electronics, Inc."
+00:50:C2:6E:E0/36,InteractiveE,Interactive Electronic Systems
+00:50:C2:6E:F0/36,Pneumopartne,Pneumopartners LaenneXT SA
+00:50:C2:6F:00/36,StanleySecur,"Stanley Security Solutions, Inc."
+00:50:C2:6F:10/36,ITSTelecom  ,ITS Telecom
+00:50:C2:6F:20/36,LaserElectro,Laser Electronics Ltd
+00:50:C2:6F:30/36,E3Switch    ,E3Switch LLC
+00:50:C2:6F:40/36,CryogenicCon,"Cryogenic Control Systems, Inc."
+00:50:C2:6F:50/36,KitronMicroe,Kitron Microelectronics AB
+00:50:C2:6F:60/36,AVSatComAS  ,AV SatCom AS
+00:50:C2:6F:70/36,infoplanGese,infoplan Gesellschaftfür Informationssysteme mbH
+00:50:C2:6F:80/36,RVTechnology,RV Technology Limited
+00:50:C2:6F:90/36,Revox       ,Revox GmbH
+00:50:C2:6F:A0/36,Dcns        ,Dcns
+00:50:C2:6F:B0/36,WaveIP      ,WaveIP
+00:50:C2:6F:C0/36,ActeSp      ,Acte Sp. z o.o.
+00:50:C2:6F:D0/36,SAIABurgessC,SAIA Burgess Controls AG
+00:50:C2:6F:E0/36,BlueOrigin  ,Blue Origin
+00:50:C2:6F:F0/36,StMichaelStr,St. Michael Strategies Inc.
+00:50:C2:70:00/36,GemMedSl    ,Gem-Med Sl
+00:50:C2:70:10/36,KeithKoep   ,Keith & Koep GmbH
+00:50:C2:70:20/36,SPMInstrumen,SPM Instrument AB
+00:50:C2:70:30/36,SAEIT       ,SAE IT-systems GmbH & Co. KG
+00:50:C2:70:40/36,DiniGroupLaJ,"The Dini Group, La Jolla inc."
+00:50:C2:70:50/36,HauchBachApS,Hauch & Bach ApS
+00:50:C2:70:60/36,DioDigiWorks,"DioDigiWorks. CO., LTD."
+00:50:C2:70:70/36,DTechLabs   ,DTech Labs Inc
+00:50:C2:70:80/36,Smartekdoo  ,Smartek d.o.o.
+00:50:C2:70:90/36,ROVERLaborat,RO.VE.R. Laboratories S.p.A
+00:50:C2:70:A0/36,EfficientCha,Efficient Channel Coding
+00:50:C2:70:B0/36,BEARSolution,"B.E.A.R. Solutions (Australasia) Pty, Ltd"
+00:50:C2:70:C0/36,Exertus     ,Exertus
+00:50:C2:70:D0/36,elasoft     ,ela-soft GmbH & Co. KG
+00:50:C2:70:E0/36,Audico      ,Audico Systems Oy
+00:50:C2:70:F0/36,ZumbachElect,Zumbach Electronic AG
+00:50:C2:71:00/36,WhartonElect,Wharton Electronics Ltd
+00:50:C2:71:10/36,Linkit      ,Linkit S.R.L.
+00:50:C2:71:20/36,Pasan       ,Pasan SA
+00:50:C2:71:30/36,3DXRay      ,3DX-Ray Limited
+00:50:C2:71:40/36,TEAmSA      ,"T.E.Am., S. A."
+00:50:C2:71:50/36,RIEXINGEREle,RIEXINGER Elektronik
+00:50:C2:71:60/36,Mitrol      ,Mitrol S.R.L.
+00:50:C2:71:70/36,MBconnectlin,MB connect line GmbH Fernwartungssysteme
+00:50:C2:71:80/36,illunis     ,illunis LLC
+00:50:C2:71:90/36,ennovatis   ,ennovatis GmbH
+00:50:C2:71:A0/36,LogusBroadba,Logus Broadband Wireless Solutions Inc.
+00:50:C2:71:B0/36,ADVAOpticalN,ADVA Optical Networking
+00:50:C2:71:C0/36,Elmec       ,Elmec Inc.
+00:50:C2:71:D0/36,MG          ,MG s.r.l.
+00:50:C2:71:E0/36,ASKIIndustri,ASKI Industrie Elektronik Ges.m.b.H.
+00:50:C2:71:F0/36,ASCtelecom  ,ASC telecom AG
+00:50:C2:72:00/36,ColoradoEngi,Colorado Engineering Inc.
+00:50:C2:72:10/36,SpectrumComm,Spectrum Communications FZE
+00:50:C2:72:20/36,CentricTSolv,Centric TSolve BV
+00:50:C2:72:30/36,PowerElectro,"Power Electronics Espana, S.L."
+00:50:C2:72:40/36,HSCRegelungs,HSC-Regelungstechnik GmbH
+00:50:C2:72:50/36,DspDesign   ,Dsp Design
+00:50:C2:72:60/36,etasystemiCK,eta systemi CKB
+00:50:C2:72:70/36,PelweckyjVid,Pelweckyj Videotechnik GmbH
+00:50:C2:72:80/36,InterDigital,InterDigital Canada Ltd
+00:50:C2:72:90/36,SPControls  ,"SP Controls, Inc"
+00:50:C2:72:A0/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:72:B0/36,SequesteredS,Sequestered Solutions
+00:50:C2:72:C0/36,RichardGries,Richard Griessbach Feinmechanik GmbH
+00:50:C2:72:D0/36,PhysicalAcou,Physical Acoustics Corporation
+00:50:C2:72:E0/36,SncfEimPaysD,Sncf Eim Pays De Loire
+00:50:C2:72:F0/36,PriorityElec,Priority Electronics Ltd
+00:50:C2:73:00/36,haberkoenige,haber & koenig electronics gmbh
+00:50:C2:73:10/36,SpirentCommu,Spirent Communications
+00:50:C2:73:20/36,Schlumberger,Schlumberger K.K.
+00:50:C2:73:30/36,CimetricsRes,Cimetrics Research Pty Ltd
+00:50:C2:73:40/36,CardioMEMS  ,CardioMEMS Inc.
+00:50:C2:73:50/36,AntLamp     ,"Ant Lamp, Inc"
+00:50:C2:73:60/36,Nika        ,Nika Ltd
+00:50:C2:73:70/36,Teradici    ,Teradici Corporation
+00:50:C2:73:80/36,MiracomTechn,"Miracom Technology Co., Ltd."
+00:50:C2:73:90/36,Tattile     ,Tattile srl
+00:50:C2:73:A0/36,Naturela    ,Naturela Ltd.
+00:50:C2:73:B0/36,OnAirNetwork,On Air Networks
+00:50:C2:73:C0/36,Simicon     ,Simicon
+00:50:C2:73:D0/36,cryptiris   ,cryptiris
+00:50:C2:73:E0/36,QuantecNetwo,Quantec Networks GmbH
+00:50:C2:73:F0/36,MEDAV       ,MEDAV GmbH
+00:50:C2:74:00/36,McQuayChina ,McQuay China
+00:50:C2:74:10/36,Dain        ,Dain
+00:50:C2:74:20/36,FantuzziRegg,Fantuzzi Reggiane
+00:50:C2:74:30/36,ElektroTop30,Elektro-Top 3000 Ltd.
+00:50:C2:74:40/36,Avonaco     ,"Avonaco Systems, Inc."
+00:50:C2:74:50/36,Acisa       ,Acisa
+00:50:C2:74:60/36,Realtronix  ,Realtronix Company
+00:50:C2:74:70/36,CDSADamNeck ,CDSA Dam Neck
+00:50:C2:74:80/36,Letechnic   ,Letechnic Ltd
+00:50:C2:74:90/36,AffolterTech,Affolter Technologies SA
+00:50:C2:74:A0/36,MonitorElect,Monitor Electronics Ltd
+00:50:C2:74:B0/36,STARDundee  ,STAR-Dundee Ltd
+00:50:C2:74:C0/36,SaiaBurgessC,Saia-Burgess Controls AG
+00:50:C2:74:D0/36,BeceemCommun,"Beceem Communications, Inc."
+00:50:C2:74:E0/36,Tronico     ,Tronico
+00:50:C2:74:F0/36,GermanTechno,German Technologies
+00:50:C2:75:00/36,Brightlights,Brightlights Intellectual Property Ltd
+00:50:C2:75:10/36,e&sEngineeri,e&s Engineering & Software GmbH
+00:50:C2:75:20/36,Lober       ,"Lober, S.A."
+00:50:C2:75:30/36,Abb         ,Abb
+00:50:C2:75:40/36,Abeo        ,Abeo Corporation
+00:50:C2:75:50/36,TeletekElect,Teletek Electronics
+00:50:C2:75:60/36,ChesapeakeSc,Chesapeake Sciences Corp
+00:50:C2:75:70/36,ESPTechnolog,E S P Technologies Ltd
+00:50:C2:75:80/36,AixSolve    ,AixSolve GmbH
+00:50:C2:75:90/36,SequentricEn,"Sequentric Energy Systems, LLC"
+00:50:C2:75:A0/36,GaislerResea,Gaisler Research AB
+00:50:C2:75:B0/36,DMTSystem   ,DMT System S.p.A.
+00:50:C2:75:C0/36,STÖRKTRONICS,STÖRK-TRONIC Störk GmbH&Co. KG
+00:50:C2:75:D0/36,FluidAnalyti,"Fluid Analytics, Inc."
+00:50:C2:75:E0/36,SkySkan     ,"Sky-Skan, Incorporated"
+00:50:C2:75:F0/36,BRexrothiden,B. Rexroth the identity company GmbH
+00:50:C2:76:00/36,ArS         ,"Ar'S Co., Ltd."
+00:50:C2:76:10/36,ElbitAmerica,Elbit Systems of America
+00:50:C2:76:20/36,AssemblyCont,Assembly Contracts Limited
+00:50:C2:76:30/36,XtendWave   ,XtendWave
+00:50:C2:76:40/36,ArgusSpectru,Argus-Spectrum
+00:50:C2:76:50/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:76:60/36,GutermannTec,Gutermann Technology GmbH
+00:50:C2:76:70/36,Eid         ,Eid
+00:50:C2:76:80/36,ControlServi,Control Service do Brasil Ltda
+00:50:C2:76:90/36,BES         ,BES GmbH
+00:50:C2:76:A0/36,DigidriveAud,Digidrive Audio Limited
+00:50:C2:76:B0/36,PutercomEnte,"Putercom Enterprise Co., LTD."
+00:50:C2:76:C0/36,EFGCZspolsro,EFG CZ spol. s r.o.
+00:50:C2:76:D0/36,Mobilisme   ,Mobilisme
+00:50:C2:76:E0/36,Crinia      ,Crinia Corporation
+00:50:C2:76:F0/36,ControlandRo,Control and Robotics Solutions
+00:50:C2:77:00/36,CadexElectro,Cadex Electronics Inc.
+00:50:C2:77:10/36,ZigBeeAllian,ZigBee Alliance
+00:50:C2:77:20/36,IESElektroni,IES Elektronikentwicklung
+00:50:C2:77:30/36,PointeConcep,Pointe Conception Medical Inc.
+00:50:C2:77:40/36,GeoSIG      ,GeoSIG Ltd.
+00:50:C2:77:50/36,LaserdyneTec,Laserdyne Technologies
+00:50:C2:77:60/36,IntegratedSe,Integrated Security Corporation
+00:50:C2:77:70/36,EuroDisplay ,Euro Display Srl
+00:50:C2:77:80/36,SunGardVivis,SunGard Vivista
+00:50:C2:77:90/36,CoralTelecom,Coral Telecom Ltd
+00:50:C2:77:A0/36,SmithMeter  ,"Smith Meter, Inc"
+00:50:C2:77:B0/36,ItibiaTechno,Itibia Technologies
+00:50:C2:77:C0/36,Atec        ,Atec Srl
+00:50:C2:77:D0/36,LincolnIndus,Lincoln Industrial
+00:50:C2:77:E0/36,Cominfo     ,"Cominfo, Inc."
+00:50:C2:77:F0/36,ACDElektroni,ACD Elektronik GmbH
+00:50:C2:78:00/36,IQSolutions ,IQ Solutions GmbH & Co. KG
+00:50:C2:78:10/36,StarlingAdva,Starling Advanced Communications
+00:50:C2:78:20/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:78:30/36,NORMA       ,NORMA systems GmbH
+00:50:C2:78:40/36,LewisControl,Lewis Controls Inc.
+00:50:C2:78:50/36,IconTime    ,Icon Time Systems
+00:50:C2:78:60/36,KeithKoep   ,Keith & Koep GmbH
+00:50:C2:78:70/36,AustcoMarket,Austco Marketing & Service (USA) ltd.
+00:50:C2:78:80/36,HosaTechnolo,"Hosa Technology, Inc."
+00:50:C2:78:90/36,RosslareEnte,Rosslare Enterprises Limited
+00:50:C2:78:A0/36,LevelTelecom,Level Telecom
+00:50:C2:78:B0/36,OMICRONelect,OMICRON electronics GmbH
+00:50:C2:78:C0/36,Gigatronics ,"Giga-tronics, Inc."
+00:50:C2:78:D0/36,Telairity   ,Telairity
+00:50:C2:78:E0/36,GlobalcomEng,Globalcom Engineering Srl
+00:50:C2:78:F0/36,ELMARelectro,ELMAR electronic
+00:50:C2:79:00/36,GESecurityKa,GE Security-Kampro
+00:50:C2:79:10/36,MSquaredLase,M Squared Lasers Limited
+00:50:C2:79:20/36,SMARTRO     ,"SMARTRO Co.,Ltd."
+00:50:C2:79:30/36,EnertexBayer,Enertex Bayern GmbH
+00:50:C2:79:40/36,Comsonics   ,"Comsonics, Inc."
+00:50:C2:79:50/36,Ameli       ,Ameli Spa
+00:50:C2:79:60/36,DorletSau   ,Dorlet Sau
+00:50:C2:79:70/36,TiefenbachCo,Tiefenbach Control Systems GmbH
+00:50:C2:79:80/36,Indefia     ,Indefia
+00:50:C2:79:90/36,Aavd        ,Aavd
+00:50:C2:79:A0/36,JMCAmerica  ,"JMC America, LLC"
+00:50:C2:79:B0/36,Schniewindt ,Schniewindt GmbH & Co. KG
+00:50:C2:79:C0/36,Vital       ,Vital Systems Inc
+00:50:C2:79:D0/36,MiraTrek    ,MiraTrek
+00:50:C2:79:E0/36,BenshawCanad,"Benshaw Canada Controls, Inc."
+00:50:C2:79:F0/36,ZaoNpc      ,Zao Npc
+00:50:C2:7A:00/36,MedAvantHeal,MedAvant Healthcare
+00:50:C2:7A:10/36,FieldDesignS,Field Design Service
+00:50:C2:7A:20/36,RaySatIsrael,RaySat Israel LTD
+00:50:C2:7A:30/36,ABBTransmiss,"ABB Transmission and Distribution Automation Equipment (Xiamen) Co., Ltd."
+00:50:C2:7A:40/36,CalibreUK   ,Calibre UK LTD
+00:50:C2:7A:50/36,QuantumMedic,Quantum Medical Imaging
+00:50:C2:7A:60/36,AsianaIdt   ,Asiana Idt
+00:50:C2:7A:70/36,GuidanceNavi,Guidance Navigation Limited
+00:50:C2:7A:80/36,IntegratedDe,"Integrated Design Tools, Inc."
+00:50:C2:7A:90/36,DeltaTauData,"Delta Tau Data Systems, Inc."
+00:50:C2:7A:A0/36,GrupoEpelsaS,Grupo Epelsa S.L.
+00:50:C2:7A:B0/36,GeneralMicro,General Microsystems Sdn Bhd
+00:50:C2:7A:C0/36,Iusa        ,Iusa Sa De Cv
+00:50:C2:7A:D0/36,TurunTurvate,Turun Turvatekniikka Oy
+00:50:C2:7A:E0/36,GlobalTelLin,Global Tel-Link
+00:50:C2:7A:F0/36,C2Microsyste,C2 Microsystems
+00:50:C2:7B:00/36,IMPTelekom  ,IMP Telekom
+00:50:C2:7B:10/36,Ateme       ,Ateme
+00:50:C2:7B:20/36,ADIVideotech,A.D.I Video technologies
+00:50:C2:7B:30/36,Elmec       ,"Elmec, Inc."
+00:50:C2:7B:40/36,T1Engineerin,T 1 Engineering
+00:50:C2:7B:50/36,DITMCOIntern,DIT-MCO International
+00:50:C2:7B:60/36,Alstom      ,Alstom (Schweiz) AG
+00:50:C2:7B:70/36,Tattile     ,Tattile srl
+00:50:C2:7B:80/36,Design2000  ,Design 2000 Pty Ltd
+00:50:C2:7B:90/36,Technovare  ,"Technovare Systems, Inc."
+00:50:C2:7B:A0/36,InfodevElect,Infodev Electronic Designers Intl.
+00:50:C2:7B:B0/36,InRaySolutio,InRay Solutions Ltd.
+00:50:C2:7B:C0/36,Eidos       ,Eidos Spa
+00:50:C2:7B:D0/36,PromateElect,Promate Electronic Co.Ltd
+00:50:C2:7B:E0/36,Powerlinx   ,"Powerlinx, Inc."
+00:50:C2:7B:F0/36,ZoeMedical  ,Zoe Medical
+00:50:C2:7C:00/36,EuropeanIndu,European Industrial Electronics B.V.
+00:50:C2:7C:10/36,PrimaryInteg,Primary Integration Encorp LLC
+00:50:C2:7C:20/36,DSRInformati,DSR Information Technologies Ltd.
+00:50:C2:7C:30/36,Ast         ,Ast Incorporated
+00:50:C2:7C:40/36,MoBaCon     ,MoBaCon
+00:50:C2:7C:50/36,VentureResea,Venture Research Inc.
+00:50:C2:7C:60/36,SLAudio     ,SL Audio A/S
+00:50:C2:7C:70/36,Pyrosequenci,Pyrosequencing AB
+00:50:C2:7C:80/36,FrSauter    ,Fr. Sauter AG
+00:50:C2:7C:90/36,BluebellOpti,Bluebell Opticom Limited
+00:50:C2:7C:A0/36,CEDARAudio  ,CEDAR Audio Limited
+00:50:C2:7C:B0/36,ViewPlusTech,"ViewPlus Technologies, Inc."
+00:50:C2:7C:C0/36,SwecoJaps   ,Sweco Japs Ab
+00:50:C2:7C:D0/36,PrecisionMic,Precision MicroControl Corporation
+00:50:C2:7C:E0/36,GogoBA      ,Gogo BA
+00:50:C2:7C:F0/36,Emitech     ,Emitech Corporation
+00:50:C2:7D:00/36,RadarTronic ,Radar Tronic ltd.
+00:50:C2:7D:10/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:7D:20/36,Bittitalo   ,Bittitalo Oy
+00:50:C2:7D:30/36,Highrail    ,Highrail Systems Limited
+00:50:C2:7D:40/36,WR          ,"WR Systems, Ltd."
+00:50:C2:7D:50/36,DEUTAWERKE  ,DEUTA-WERKE GmbH
+00:50:C2:7D:60/36,Internationa,International Mining Technologies
+00:50:C2:7D:70/36,Newtec      ,Newtec A/S
+00:50:C2:7D:80/36,InnoScanKS  ,InnoScan K/S
+00:50:C2:7D:90/36,Volumatic   ,Volumatic Limited
+00:50:C2:7D:A0/36,HTEC        ,HTEC Limited
+00:50:C2:7D:B0/36,MuellerElekt,Mueller Elektronik
+00:50:C2:7D:C0/36,aiXtrusion  ,aiXtrusion GmbH
+00:50:C2:7D:D0/36,LSElektronik,LS Elektronik AB
+00:50:C2:7D:E0/36,CascadeTechn,Cascade Technologies Ltd
+00:50:C2:7D:F0/36,Private     ,Private
+00:50:C2:7E:00/36,C&DTechnolog,"C&D Technologies, Inc"
+00:50:C2:7E:10/36,ZeltiqAesthe,"Zeltiq Aesthetics, Inc."
+00:50:C2:7E:20/36,Digitrol    ,Digitrol Ltd
+00:50:C2:7E:30/36,Progentech  ,Progentech Limited
+00:50:C2:7E:40/36,MetaVision  ,Meta Vision Systems Ltd.
+00:50:C2:7E:50/36,NystromEngin,Nystrom Engineering
+00:50:C2:7E:60/36,EmpirixItaly,Empirix Italy S.p.A.
+00:50:C2:7E:70/36,V2Green     ,"V2Green, Inc."
+00:50:C2:7E:80/36,MistralSolut,Mistral Solutions Pvt. Ltd
+00:50:C2:7E:90/36,Sicon       ,Sicon srl
+00:50:C2:7E:A0/36,MonitorBusin,Monitor Business Machines Ltd.
+00:50:C2:7E:B0/36,SesolIndustr,Sesol Industrial Computer
+00:50:C2:7E:C0/36,Lyngsoe     ,Lyngsoe Systems
+00:50:C2:7E:D0/36,GenesisAutom,Genesis Automation Inc.
+00:50:C2:7E:E0/36,NHResearch  ,NH Research
+00:50:C2:7E:F0/36,GFIChronoTim,GFI Chrono Time
+00:50:C2:7F:00/36,NetworkHarbo,"Network Harbor, Inc."
+00:50:C2:7F:10/36,STUHLRegelsy,STUHL Regelsysteme GmbH
+00:50:C2:7F:20/36,LogothermReg,Logotherm Regelsysteme GmbH
+00:50:C2:7F:30/36,Sorec       ,Sorec
+00:50:C2:7F:40/36,WirelessCabl,Wireless Cables Inc.
+00:50:C2:7F:50/36,ACECarwash  ,ACE Carwash Systems
+00:50:C2:7F:60/36,SaiaBurgessC,Saia-Burgess Controls AG
+00:50:C2:7F:70/36,MangoDSP    ,MangoDSP
+00:50:C2:7F:80/36,WiseIndustri,Wise Industria de Telecomunicações Ldta.
+00:50:C2:7F:90/36,KarlDUNGS   ,Karl DUNGS GmbH & Co. KG
+00:50:C2:7F:A0/36,AutomationX ,AutomationX GmbH
+00:50:C2:7F:B0/36,Qtron       ,Qtron Pty Ltd
+00:50:C2:7F:C0/36,TISDialog   ,TIS Dialog LLC
+00:50:C2:7F:D0/36,Adeneo      ,Adeneo
+00:50:C2:7F:E0/36,WirelessCabl,Wireless Cables Inc.
+00:50:C2:7F:F0/36,MaiWeiCableT,"Shenzhen MaiWei Cable TV Equipment CO.,LTD."
+00:50:C2:80:00/36,DelphiDispla,"Delphi Display Systems, Inc."
+00:50:C2:80:10/36,JANUS       ,JANUS srl
+00:50:C2:80:20/36,Private     ,Private
+00:50:C2:80:30/36,dBBroadcast ,dB Broadcast Limited
+00:50:C2:80:40/36,SoftSwitchin,SoftSwitching Technologies
+00:50:C2:80:50/36,MultimediaLE,MultimediaLED
+00:50:C2:80:60/36,Cet         ,Cet
+00:50:C2:80:70/36,Technomark  ,Technomark
+00:50:C2:80:80/36,ITBCompuPhas,ITB CompuPhase
+00:50:C2:80:90/36,VarmaElectro,Varma Electronics Oy
+00:50:C2:80:A0/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:80:B0/36,OpenVideo   ,"Open Video, Inc."
+00:50:C2:80:C0/36,LuxpertTechn,"Luxpert Technologies Co., Ltd."
+00:50:C2:80:D0/36,Acube       ,Acube Systems s.r.l.
+00:50:C2:80:E0/36,BrunoInterna,Bruno International Ltd.
+00:50:C2:80:F0/36,SelekronMicr,Selekron Microcontrol s.l.
+00:50:C2:81:00/36,Alphion     ,Alphion Corporation
+00:50:C2:81:10/36,OpenSystemSo,Open System Solutions Limited
+00:50:C2:81:20/36,Femto       ,Femto SA
+00:50:C2:81:30/36,Intelleflex ,Intelleflex Corporation
+00:50:C2:81:40/36,Telvent     ,Telvent
+00:50:C2:81:50/36,microCDesign,microC Design SRL
+00:50:C2:81:60/36,QFreeAmerica,"Q-Free America, Inc."
+00:50:C2:81:70/36,OdinTeleSyst,Odin TeleSystems Inc
+00:50:C2:81:80/36,WirelessValu,Wireless Value BV
+00:50:C2:81:90/36,Cabinplant  ,Cabinplant A/S
+00:50:C2:81:A0/36,InfoGLOBAL  ,InfoGLOBAL
+00:50:C2:81:B0/36,BrainTech   ,"Brain Tech Co., Ltd"
+00:50:C2:81:C0/36,Telcom      ,Telcom
+00:50:C2:81:D0/36,ItSalux     ,"It Salux Co., Ltd."
+00:50:C2:81:E0/36,Channelot   ,Channelot Ltd.
+00:50:C2:81:F0/36,2NTELEKOMUNI,2N TELEKOMUNIKACE a.s.
+00:50:C2:82:00/36,TESCANsro   ,"TESCAN, s.r.o."
+00:50:C2:82:10/36,MISCORefract,MISCO Refractometer
+00:50:C2:82:20/36,WinnerTechno,"Winner Technology Co, Ltd."
+00:50:C2:82:30/36,RobotVisual ,Robot Visual Systems GmbH
+00:50:C2:82:40/36,SMTdoo      ,SMT d.o.o.
+00:50:C2:82:50/36,FunkwerkInfo,Funkwerk Information Technologies Karlsfeld GmbH
+00:50:C2:82:60/36,HEWIHeinrich,HEWI Heinrich Wilke GmbH
+00:50:C2:82:70/36,EneroSolutio,Enero Solutions inc.
+00:50:C2:82:80/36,SLICANsp    ,SLICAN sp. z o.o.
+00:50:C2:82:90/36,Intellectron,Intellectronika
+00:50:C2:82:A0/36,VDCDisplay  ,VDC Display Systems
+00:50:C2:82:B0/36,KeithKoep   ,Keith & Koep GmbH
+00:50:C2:82:C0/36,VitelNet    ,Vitel Net
+00:50:C2:82:D0/36,Elmec       ,"Elmec, Inc."
+00:50:C2:82:E0/36,LogiCom     ,LogiCom GmbH
+00:50:C2:82:F0/36,MomentumData,Momentum Data Systems
+00:50:C2:83:00/36,CompuShopSer,CompuShop Services LLC
+00:50:C2:83:10/36,StJudeMedica,"St Jude Medical, Inc."
+00:50:C2:83:20/36,S1nn        ,S1nn GmbH & Co. KG
+00:50:C2:83:30/36,LaserLinc   ,"LaserLinc, Inc."
+00:50:C2:83:40/36,ANTEK       ,ANTEK GmbH
+00:50:C2:83:50/36,Communicatio,Communications Laboratories Inc
+00:50:C2:83:60/36,DspDesign   ,Dsp Design
+00:50:C2:83:70/36,IDKARTAsro  ,ID-KARTA s.r.o.
+00:50:C2:83:80/36,TProjeMuhend,T Proje Muhendislik Dis. Tic. Ltd. Sti.
+00:50:C2:83:90/36,IMSRöntgensy,IMS Röntgensysteme GmbH
+00:50:C2:83:A0/36,SyrTecEngine,Syr-Tec Engineering & Marketing
+00:50:C2:83:B0/36,OBay        ,O. Bay AG
+00:50:C2:83:C0/36,hemaelectron,hema electronic GmbH
+00:50:C2:83:D0/36,beroNet     ,beroNet GmbH
+00:50:C2:83:E0/36,KPEspolsro  ,KPE spol. s r.o.
+00:50:C2:83:F0/36,PhytecMesste,Phytec Messtechnik GmbH
+00:50:C2:84:00/36,ResidentialC,Residential Control Systems
+00:50:C2:84:10/36,ConnectionEl,Connection Electronics Ltd.
+00:50:C2:84:20/36,QuantumContr,Quantum Controls BV
+00:50:C2:84:30/36,Xtensor     ,Xtensor Systems Inc.
+00:50:C2:84:40/36,ProdigyElect,Prodigy Electronics Limited
+00:50:C2:84:50/36,VisualSonics,VisualSonics Inc.
+00:50:C2:84:60/36,ESPPlanning ,ESP-Planning Co.
+00:50:C2:84:70/36,LarsMorichKo,Lars Morich Kommunikationstechnik GmbH
+00:50:C2:84:80/36,DASAROBOT   ,"DASA ROBOT Co., Ltd."
+00:50:C2:84:90/36,DesignAnalys,"Design Analysis Associates, Inc."
+00:50:C2:84:A0/36,KeystoneElec,Keystone Electronic Solutions
+00:50:C2:84:B0/36,TaskSistemas,Task Sistemas De Computacao Ltda
+00:50:C2:84:C0/36,PerformanceM,Performance Motion Devices
+00:50:C2:84:D0/36,Bmti        ,Bmti
+00:50:C2:84:E0/36,Draco       ,Draco Systems
+00:50:C2:84:F0/36,GamberJohnso,Gamber-Johnson LLC
+00:50:C2:85:00/36,KKRocky     ,K.K. Rocky
+00:50:C2:85:10/36,SPJEmbeddedT,SPJ Embedded Technologies Pvt. Ltd.
+00:50:C2:85:20/36,eInfochips  ,eInfochips Ltd.
+00:50:C2:85:30/36,EttusResearc,Ettus Research LLC
+00:50:C2:85:40/36,RatioplastOp,Ratioplast-Optoelectronics GmbH
+00:50:C2:85:50/36,Rohde&Schwar,Rohde&Schwarz Topex SA
+00:50:C2:85:60/36,CT          ,CT Company
+00:50:C2:85:70/36,GrupoEpelsaS,Grupo Epelsa S.L.
+00:50:C2:85:80/36,WirelessAcqu,Wireless Acquisition LLC
+00:50:C2:85:90/36,Nuvation    ,Nuvation
+00:50:C2:85:A0/36,Art         ,Art Spa
+00:50:C2:85:B0/36,Boreste     ,Boreste
+00:50:C2:85:C0/36,BSE         ,B S E
+00:50:C2:85:D0/36,IngKnauseder,Ing. Knauseder Mechatronik GmbH
+00:50:C2:85:E0/36,RadiometerMe,Radiometer Medical ApS
+00:50:C2:85:F0/36,GDMission   ,GD Mission Systems
+00:50:C2:86:00/36,Eutron      ,Eutron S.p.A.
+00:50:C2:86:10/36,Grantronics ,Grantronics Pty Ltd
+00:50:C2:86:20/36,Elsys       ,Elsys AG
+00:50:C2:86:30/36,AdvancedTech,Advanced Technology Solutions
+00:50:C2:86:40/36,ATGAutomatis,ATG Automatisierungstechnik GERA GmbH
+00:50:C2:86:50/36,PersyControl,Persy Control Services B.v.
+00:50:C2:86:60/36,SaiaBurgessC,Saia Burgess Controls AG
+00:50:C2:86:70/36,Syntronics  ,Syntronics
+00:50:C2:86:80/36,Aethon      ,"Aethon, Inc."
+00:50:C2:86:90/36,Funkwerkplet,Funkwerk plettac electronic GmbH
+00:50:C2:86:A0/36,USM         ,"USM Systems, Ltd"
+00:50:C2:86:B0/36,OMBSistemasE,OMB Sistemas Electronicos S.A.
+00:50:C2:86:C0/36,CondigiTelev,Condigi Televagt A/S
+00:50:C2:86:D0/36,TielineResea,Tieline Research Pty Ltd
+00:50:C2:86:E0/36,HanyangElect,"Hanyang Electric Cp., Ltd"
+00:50:C2:86:F0/36,bplus       ,b-plus GmbH
