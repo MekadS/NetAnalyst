@@ -60,7 +60,10 @@ def print_result(result_list):
 
 
 # Main function
-options=get_arguments()
-mac_vendor_map = build_mac_vendor_map("macAddDict.csv")
-scan_result = scan(options.ip)
-print_result(scan_result)
+# options=get_arguments()
+# scan_result = scan(options.ip)
+mac_vendor_map = {}
+def beginScan(ipAddressRange):
+    mac_vendor_map = build_mac_vendor_map("macAddDict.csv")
+    scan_result = scan(ipAddressRange)
+    print_result(scan_result)
