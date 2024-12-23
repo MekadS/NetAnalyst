@@ -7,14 +7,14 @@ import csv
 import argparse
 
 # Get the arguments from the command line
-def get_arguments():
-	parser = argparse.ArgumentParser()
-	parser.add_argument("-t", "--target", dest="ip", help="Enter IP address or IP address range of target network")
-	options = parser.parse_args()
-	if not options.ip:
-		parser.error("[-] Please specify an IP address or IP address range, use --help for more info")
+# def get_arguments():
+# 	parser = argparse.ArgumentParser()
+# 	parser.add_argument("-t", "--target", dest="ip", help="Enter IP address or IP address range of target network")
+# 	options = parser.parse_args()
+# 	if not options.ip:
+# 		parser.error("[-] Please specify an IP address or IP address range, use --help for more info")
 
-	return options
+# 	return options
 
 # Scan the network for clients
 def scan(ip):
@@ -28,13 +28,13 @@ def scan(ip):
 	# list comprehension to get the MAC address and IP address of the client (contains nested dictionaries)
 	client_list = []
 	for element in answered_list:
-		client_dict = {"ip": element[1].psrc, "mac": element[1].hwsrc}
+		client_dict = {"ip": element[1].psrc, "mac": element[1].hwsrc, "vendorName": get_mac_vendor(element[1].hwsrc[:8])}
 		client_list.append(client_dict)
 	return client_list
 
 #dictionary to store the registered mac addresses and their vendor names
 def build_mac_vendor_map(filename):
-    mac_vendor_map = {}
+    # mac_vendor_map = {}
     with open(filename, "r") as f:
         reader = csv.reader(f)
         for row in reader:
@@ -43,10 +43,9 @@ def build_mac_vendor_map(filename):
                 # Extract the first three octets of the MAC address
                 short_mac = mac_address[:8]
                 mac_vendor_map[short_mac] = row[2]
-            
-    return mac_vendor_map
 
-def get_mac_vendor(mac_short, mac_vendor_map):
+def get_mac_vendor(mac_short):
+    print(mac_short)
     return mac_vendor_map.get(mac_short.upper(), "Unknown")
 
 def print_result(result_list):
@@ -54,16 +53,15 @@ def print_result(result_list):
     print("IP\t\t\t\t\tMAC_Address\t\t\t\t\tVendor")
     print("-------------------------------------------------------------------------")
     for client in result_list:
-        mac_short = client["mac"][:8]
-        vendor = get_mac_vendor(mac_short,mac_vendor_map)
-        print(f"{client['ip']}\t\t\t{client['mac']}\t\t\t{vendor}")
+        # mac_short = client["mac"][:8]
+        # vendor = get_mac_vendor(mac_short,mac_vendor_map)
+        print(f"{client['ip']}\t\t\t{client['mac']}\t\t\t{client['vendorName']}")
 
 
 # Main function
-# options=get_arguments()
-# scan_result = scan(options.ip)
 mac_vendor_map = {}
 def beginScan(ipAddressRange):
-    mac_vendor_map = build_mac_vendor_map("macAddDict.csv")
+    build_mac_vendor_map("macAddDict.csv")
     scan_result = scan(ipAddressRange)
     print_result(scan_result)
+    return scan_result
