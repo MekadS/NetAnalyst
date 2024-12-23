@@ -45,7 +45,7 @@ def build_mac_vendor_map(filename):
                 mac_vendor_map[short_mac] = row[2]
 
 def get_mac_vendor(mac_short):
-    print(mac_short)
+    # print(mac_short)
     return mac_vendor_map.get(mac_short.upper(), "Unknown")
 
 def print_result(result_list):
