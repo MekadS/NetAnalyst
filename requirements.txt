@@ -1,0 +1,7 @@
+1. Python 3.12.7
+
+# packages in environment at C:\ProgramData\anaconda3:
+#
+# Name                    Version                   Build  Channel
+2. scapy                     2.6.1              pyhd8ed1ab_0    conda-forge
+3. pysimplegui               4.60.5             pyhd8ed1ab_0    conda-forge
