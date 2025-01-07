@@ -7,4 +7,4 @@ Created on Thu Dec 19 15:59:43 2024
 
 import gui
 gui.initialize()
-print("main")
+print("End of main")

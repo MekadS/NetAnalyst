@@ -54,6 +54,7 @@ def initialize():
         
         if event == 'Scan':
             window["VendorData"].update(visible = True)
+            # SCAN RESULT
             scan_result = scan.beginScan(values[0])
             new_table_data = [[row['ip'], row['mac'], row['vendorName']] for row in scan_result]
             window["VendorData"].update(values=new_table_data)
