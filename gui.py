@@ -8,26 +8,45 @@ import PySimpleGUI as psg
 import scan
 
 def initialize():
-    layout = [      [psg.Text("Let's scan your network")],
-                    [psg.Text("Enter the IP Address/Range"),psg.InputText()],
-                    [psg.Button('Scan')],
-                    [psg.Table({},
-                           headings=["IP Address","Mac Address", "Vendor Name"],
-                           key="VendorData",
-                           # visible=False,
-                           col_widths=[40,40,70])]
+    layout = [        
+                        [psg.Column([
+                            [psg.Text("NetAnalyst",
+                                  font=("Verdana", 40))]],
+                                  justification='center',
+                                  element_justification='center')],
+                        
+                        [psg.Column([
+                            [psg.Text("Let's scan your network")],
+                            [psg.Text("Enter the IP Address/Range"),psg.InputText(),psg.Button('Scan')]],
+                                  element_justification='left')],
+                        
+                        # TABLE
+                        [psg.Column(
+                            [[psg.Table({},
+                                  font=("Verdana", 14),
+                                  headings=["IP Address","Mac Address", "Vendor Name"],
+                                  key="VendorData",
+                                  col_widths=[25, 25, 50],
+                                  auto_size_columns=False,
+                                  num_rows=40,
+                                  justification='center',
+                                  size=(1200, 500))]],
+                          justification='center', 
+                          element_justification='center')],
+                      [psg.Text("Footer")],
                 ]
-    psg.theme("Dark Grey 9")
+    # psg.theme("Dark Grey 9")
+    psg.theme("BrownBlue")
+
     window = psg.Window('NetAnalyst',
                         layout,
+                        font=("Verdana", 20),
+                        margins=(50,20),
+                        location=(0,0),
                         size=(1920,1080),
                         finalize=True)
-    window.maximize()
 
-    screen_width, screen_height = window.get_screen_dimensions()
-    window.move(0,0)
-    screen_width = screen_width/2
-    window.size=(screen_width, screen_height)
+    window.maximize()
     
     while True:
         event, values = window.read()
