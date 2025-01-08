@@ -20,6 +20,15 @@ def initialize():
                             [psg.Text("Enter the IP Address/Range"),psg.InputText(),psg.Button('Scan')]],
                                   element_justification='left')],
                         
+                        # Number of devices
+                        [psg.Column([
+                            [psg.Text("Number of devices in the network: "),
+                                 psg.Text("numberOfDevices",
+                                      key="numberOfDevices")]],
+                                            key="numberOfDevicesCOL",
+                                            visible=False)],
+                            
+                            
                         # TABLE
                         [psg.Column(
                             [[psg.Table({},
@@ -58,6 +67,9 @@ def initialize():
             scan_result = scan.beginScan(values[0])
             new_table_data = [[row['ip'], row['mac'], row['vendorName']] for row in scan_result]
             window["VendorData"].update(values=new_table_data)
+            
+            window["numberOfDevices"].update(len(scan_result))
+            window["numberOfDevicesCOL"].update(visible=True)
             
             print('You entered ', values[0])
 

@@ -47,9 +47,9 @@ def print_result(result_list):
     for client in result_list:
         print(f"{client['ip']}\t\t\t{client['mac']}\t\t\t{client['vendorName']}")
 
-
 # Main function
 mac_vendor_map = {}
+
 def beginScan(ipAddressRange):
     build_mac_vendor_map("macAddDict.csv")
     scan_result = scan(ipAddressRange)
