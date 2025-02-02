@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 19 16:01:15 2024
 
-@author: Medonlakador Syiem
+@author: Medonlakador Syiemlieh
 """
 import PySimpleGUI as psg
 import scan

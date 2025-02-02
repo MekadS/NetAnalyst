@@ -1,13 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Dec 2 11:00:41 2024
+
+@author: Medonlakador Syiemlieh
+"""
+#DEMOS and DEBUGGING
 #spyder 17122024 4:55pm
 #!/usr/bin/env python
 #runfile('D:/Network_Projects/NetAnalyst/scan.py', args="-t 10.10.0.1/24", wdir='D:/Network_Projects/NetAnalyst')
 
 import scapy.all as scapy
 import csv
-import argparse
+import argparse    #Deprecated after I shifted to a GUI
 
 #dictionary to store the registered mac addresses and their vendor names
-def build_mac_vendor_map(filename):
+def build_mac_vendor_dicts(filename):
     # mac_vendor_map = {}
     with open(filename, "r") as f:
         reader = csv.reader(f)
@@ -28,11 +35,11 @@ def build_mac_vendor_map(filename):
 
 # Scan the network for clients
 def scan(ip):
-	broadcast = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")	# Ethernet frame generation for ARP broadcast to src MAC address
+	broadcast = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")	# Ethernet frame generation to encapsulate ARP broadcast to src MAC address
 	arp_request = scapy.ARP(pdst=ip) 					# ARP request generation
 	arp_request_broadcast = broadcast/arp_request		# Combined the two frames for easily sending the packet
 	
-	# Send the packet and get the response (remember the response is in the form of a list, and those are 2 specifically - answered and unanswered ), we need to get the first element of the list so we used answered[0]
+	# Send the packet and get the response (response have 2 lists specifically - answered and unanswered ), first element of the list is used, i.e.,answered[0]
 	answered_list = scapy.srp(arp_request_broadcast, timeout=2, verbose=True)[0]
     # Make verbose=False if the app gets laggy
     
@@ -61,10 +68,10 @@ def print_result(result_list):
 mac_vendor_map_36 = {}
 mac_vendor_map_28 = {}
 mac_vendor_map = {}
-# build_mac_vendor_map("macAddDict.csv")
+# build_mac_vendor_dicts("macAddDict.csv")
 
 def beginScan(ipAddressRange):
-    build_mac_vendor_map("macAddDict.csv")
+    build_mac_vendor_dicts("macAddDict.csv")
     scan_result = scan(ipAddressRange)
     return scan_result
 
